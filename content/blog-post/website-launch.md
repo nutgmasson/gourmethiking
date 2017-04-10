@@ -19,7 +19,7 @@ I am a registered dietitian specialized in sports nutrition and eating disorders
 I invite you to explore my website to find:
 
 - Easy-to-cook [recipes](/recipes)
-- [Blog posts](/blog) in which I translate the most recent scientific findings in practical tips for your next trip 
+- [Blog posts](/blog-post) in which I translate the most recent scientific findings in practical tips for your next trip 
 - [Product reviews](/product-reviews) to help you select the best hiking food
 - And much more!
 

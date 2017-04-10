@@ -37,7 +37,7 @@ googleAnalytics = "UA-97048512-1"
 
 [[params.menu]]
     name = "Blog"
-    url  = "/post"
+    url  = "/blog-post"
     weight = 4
 
 [[params.menu]]

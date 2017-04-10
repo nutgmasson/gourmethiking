@@ -2,7 +2,7 @@
 	<div class="heading">
     	<h2>Latest blog</h2>
     </div>
-    {{ range where .Data.Pages "Section" "post" | first 1 }}
+    {{ range where .Data.Pages "Section" "blog-post" | first 1 }}
         {{ .Render "summary"}}
     {{ end }}
 </div>
