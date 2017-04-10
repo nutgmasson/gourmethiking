@@ -1,0 +1,8 @@
+<div class="row">
+	<div class="heading">
+    	<h2>Latest Product Reviews</h2>
+    </div>
+    {{ range where .Data.Pages "Section" "product-reviews" | first 4 }}
+        {{ .Render "thumbnail"}}
+    {{ end }}
+</div>

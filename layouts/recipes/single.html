@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          {{ partial "nav.html" . }}
+
+        </header>
+
+        {{ partial "breadcrumbs.html" . }}
+
+        <div id="content">
+            <div class="container">
+
+                <div class="row">
+
+                    <!-- *** LEFT COLUMN *** -->
+
+                    <div class="col-md-9" id="blog-post">
+
+                        <div id="post-content">
+                          <div class="row recipe-stats">
+                            <div class="col-md-8 col-xs-12">
+                              {{ if isset .Params "stat_servings" }}
+                              <span><i class="fa fa-cutlery" aria-hidden="true"></i>&nbsp;{{ .Params.stat_servings }}</span>
+                              {{ end }}
+                              {{ if isset .Params "stat_time" }}
+                              <span><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ .Params.stat_time }}</span>
+                              {{ end }}
+                              {{ if isset .Params "stat_weight" }}
+                              <span><i class="fa fa-balance-scale" aria-hidden="true"></i>&nbsp;{{ .Params.stat_weight }}</span>
+                              {{ end }}
+                            </div>
+                            <div class="col-md-4 col-xs-6" style="text-align: right;">
+                              <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#nutritionalFacts">
+                                Show Nutrional Facts
+                              </button>
+                            </div>
+                          </div>
+
+                          <img src="/img/recipes/{{ .Params.img }}" class="recipe-right" />
+                          {{ .Content }}
+                        </div>
+
+
+                        <!-- /#post-content -->
+                        {{ if .Site.DisqusShortname }}
+                        <div id="comments">
+                            {{ template "_internal/disqus.html" . }}
+                        </div>
+                        {{ end }}
+
+                    </div>
+                    <!-- /#blog-post -->
+
+                    <!-- *** LEFT COLUMN END *** -->
+
+                    <!-- *** RIGHT COLUMN *** -->
+
+                    <div class="col-md-3">
+
+                        <!-- *** MENUS AND WIDGETS *** -->
+
+                        {{ partial "sidebar.html" . }}
+
+                        <!-- *** MENUS AND FILTERS END *** -->
+
+                    </div>
+                    <!-- /.col-md-3 -->
+
+                    <!-- *** RIGHT COLUMN END *** -->
+
+                </div>
+                <!-- /.row -->
+
+            </div>
+            <!-- /.container -->
+        </div>
+        <!-- /#content -->
+
+        {{ partial "footer.html" . }}
+
+    </div>
+    <!-- /#all -->
+
+
+    <div class="modal fade" id="nutritionalFacts" tabindex="-1" role="dialog" aria-labelledby="NutrionalFacts">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Nutrional Facts</h4>
+          </div>
+          <div class="modal-body">    
+            <table class="table table-hover table-striped">
+              <tbody>     
+                {{ if isset .Params "nf_energy" }}
+                <tr>
+                  <th>Energy</th>
+                  <td>{{ .Params.nf_energy }} calories</td>
+                </tr>
+                {{ end }}
+                {{ if isset .Params "nf_energy_density" }}
+                <tr>
+                  <th>Energy Density</th>
+                  <td>{{ .Params.nf_energy_density }} calories/g</td>
+                </tr>
+                {{ end }}
+                {{ if isset .Params "nf_protein" }}
+                <tr>
+                  <th>Protein</th>
+                  <td>{{ .Params.nf_protein }} g</td>
+                </tr>
+                {{ end }}
+                {{ if isset .Params "nf_carbs" }}
+                <tr>
+                  <th>Carbs</th>
+                  <td>{{ .Params.nf_carbs }} g</td>
+                </tr>
+                {{ end }}
+                {{ if isset .Params "nf_fiber" }}
+                <tr>
+                  <th>Fiber</th>
+                  <td>{{ .Params.nf_fiber }} g</td>
+                </tr>
+                {{ end }}
+                {{ if isset .Params "nf_fat" }}
+                <tr>
+                  <th>Fat</th>
+                  <td>{{ .Params.nf_fat }} g</td>
+                </tr>
+                {{ end }}
+              </tbody>
+            </table>
+
+            {{ if isset .Params "nf_other" }}
+            <strong>Other Interesting Nutrional Facts: </strong> {{ .Params.nf_other }}
+            {{ end }}
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>    
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>

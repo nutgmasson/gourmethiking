@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+  
+  <body>
+
+    <div id="all">
+        <header>{{ partial "nav.html" . }}</header>
+            
+        {{ partial "carousel.html" . }}
+
+        <div id="content">
+          <div class="container">
+            {{ partial "latest_recipes.html" . }} 
+            {{ partial "latest_product_reviews.html" . }}     
+            {{ partial "latest_post.html" . }}             
+          </div>
+        </div>
+
+        {{ partial "footer.html" . }}
+    </div>
+    <!-- /#all -->
+
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
