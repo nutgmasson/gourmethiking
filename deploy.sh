@@ -1,9 +1,5 @@
 #!/bin/sh
 
-DIR=$(dirname "$0")
-
-cd $DIR/..
-
 if [[ $(git status -s) ]]
 then
     echo "The working directory is dirty. Please commit any pending changes."
@@ -25,8 +21,15 @@ rm -rf public/*
 echo "Generating site"
 hugo
 
+cd public
+
 echo "Adding CNAME configuration"
 echo gourmethiking.com >> CNAME
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+git add --all && git commit -m "Publishing to gh-pages (deploy.sh)"
+
+echo "Pushing changes to gh-pages"
+git push origin gh-pages
+
+cd ..
