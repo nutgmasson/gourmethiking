@@ -1,0 +1,77 @@
+/* your styles go here */
+#content .thumbnail {
+	border: 0;
+}
+
+#content .thumbnail .caption {
+	text-align: center;
+}
+
+.homepage.owl-carousel .subtitle {
+	font-size: 24px;
+	color: white;
+}
+
+.box-image-text .image {
+	min-height: 200px;
+	max-height: 200px;
+}
+
+.box-simple {
+	min-height: 230px;
+}
+
+img.img50 {
+	margin: auto;
+	max-width: 50%;
+	height: auto;
+	display: block;
+}
+
+footer#footer {
+	padding: 20px 0;	
+}
+
+footer#footer .social a {
+	font-size: 30px;
+	color: white;
+}
+
+div#copyright {
+	padding: 20px 0;
+}
+
+div.home-carousel {
+	height: 300px;
+}
+
+div.home-carousel .dark-mask {
+	display: none;
+}
+
+div.home-carousel .item h2, div.home-carousel .item span.subtitle {
+	background-color: white;
+	color: #44914e;
+	display: inline;
+	padding: 0 10px;
+}
+
+div.recipe-stats {
+	margin-bottom: 10px;
+	line-height: 40px;
+}
+
+div.recipe-stats span {
+	margin-right: 15px;
+	white-space: nowrap;
+}
+
+img.recipe-right {
+	float: right;
+	margin: 0 0 20px 20px;
+	max-width: 40%;
+}
+
+div.thumbnail .caption h3 {
+	height: 54px;
+}
