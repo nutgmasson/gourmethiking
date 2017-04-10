@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dairy Free on Gourmet Hiking</title>
+    <link>http://gourmethiking.com/tags/dairy-free/index.xml</link>
+    <description>Recent content in Dairy Free on Gourmet Hiking</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright (c) 2017, Gourmet Hiking; all rights reserved.</copyright>
+    <atom:link href="http://gourmethiking.com/tags/dairy-free/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Indian Lentil Curry</title>
+      <link>http://gourmethiking.com/recipes/indian-lentil-curry/</link>
+      <pubDate>Sun, 05 Feb 2017 15:39:56 -0800</pubDate>
+      
+      <guid>http://gourmethiking.com/recipes/indian-lentil-curry/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
