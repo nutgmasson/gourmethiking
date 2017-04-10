@@ -25,5 +25,8 @@ rm -rf public/*
 echo "Generating site"
 hugo
 
+echo "Adding CNAME configuration"
+echo gourmethiking.com >> CNAME
+
 echo "Updating gh-pages branch"
 cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
