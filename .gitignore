@@ -25,3 +25,7 @@ _testmain.go
 
 # Hugo
 public/
+
+# Sublime
+*.sublime-project
+*.sublime-workspace
