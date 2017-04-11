@@ -33,6 +33,11 @@ To be totally honest with you, this granola is not very sweet. If you have a swe
 - 3 egg whites
 - ¼ cup (60 ml) honey
 
-
-In a large bowl, mix all the dry ingredients together. In another bowl, mix the honey and the egg whites. Add the liquid ingredients to the dry ones. Mix well. Spread on 2 baking sheets previously covered with parchment paper and oil. Bake in the oven at 375 F (190 °C) for 12 minutes. When cooled down, break the large pieces into smaller ones and put in bags or containers for preservation.
+## Preparation
+1. In a large bowl, mix all the dry ingredients together. 
+1. In another bowl, mix the honey and the egg whites. 
+1. Add the liquid ingredients to the dry ones. Mix well. 
+1. Spread on 2 baking sheets previously covered with parchment paper and oil. 
+1. Bake in the oven at 375 F (190 °C) for 12 minutes. 
+1. When cooled down, break the large pieces into smaller ones and put in bags or containers for preservation.
 

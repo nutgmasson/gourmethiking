@@ -36,11 +36,11 @@ nf_other = ""
 
 ## Before trip
 
-- Mix in plastic bag: powdered milk, Parmesan cheese, dried herbs and dried vegetables.
+1. Mix in plastic bag: powdered milk, Parmesan cheese, dried herbs and dried vegetables.
  
 ## At camp
 
-- Bring 1 L (4 cups or the equivalent of a large Nalgene bottle) to boil.
-- Cook pasta until al dente. Do NOT drain.
-- Add tomato paste, shrimps (no need to drain the liquid from the can as this help to create the sauce) and the content of the plastic bag (parmesan, milk, herbs and vegetables).
-- Mix well and enjoy!
+1. Bring 1 L (4 cups or the equivalent of a large Nalgene bottle) to boil.
+1. Cook pasta until al dente. Do NOT drain.
+1. Add tomato paste, shrimps (no need to drain the liquid from the can as this help to create the sauce) and the content of the plastic bag (parmesan, milk, herbs and vegetables).
+1. Mix well and enjoy!

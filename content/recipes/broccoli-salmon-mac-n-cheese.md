@@ -33,14 +33,14 @@ Forget the Mac&Cheese mix in a box. This recipe is rich and provides a generous 
 - sporks or forks!
  
 ## Before trip
-- Mix in plastic bag #1: macaroni and broccoli.
-- Mix in plastic bag #2: soup mix, dried herbs, pepper flakes and black pepper.
+1. Mix in plastic bag #1: macaroni and broccoli.
+1. Mix in plastic bag #2: soup mix, dried herbs, pepper flakes and black pepper.
  
 ## At camp
-- Bring 1 L (4 cups or the equivalent of a large Nalgene bottle) to boil.
-- Pour content of bag #1.
-- Cook until pasta are al dente. Do NOT drain.
-- Add the content of plastic bag#2, salmon and cheddar cheese.
-- Mix well and enjoy!
+1. Bring 1 L (4 cups or the equivalent of a large Nalgene bottle) to boil.
+1. Pour content of bag #1.
+1. Cook until pasta are al dente. Do NOT drain.
+1. Add the content of plastic bag#2, salmon and cheddar cheese.
+1. Mix well and enjoy!
  
 
