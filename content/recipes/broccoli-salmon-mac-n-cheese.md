@@ -3,5 +3,44 @@ date = "2017-02-05T15:40:49-08:00"
 title = "Broccoli and Salmon Mac&Cheese"
 tags = ["high-energy","dinner", "backpacking", "one pot"]
 img = "broccoli_mac.jpg"
+stat_servings = "2 very hungry backpackers"
+stat_time = "5 min prep, 20 min cooking"
+nf_energy = 1086
+nf_protein = 47.6
+nf_carbs = 139
+nf_fiber = 10.8
+nf_fat = 38.7
 +++
+
+Forget the Mac&Cheese mix in a box. This recipe is rich and provides a generous amount of vegetables (quite rare in backpacking!). The high content in protein (48g/serving) will provide a long lasting satiety sensation. The high carbohydrate content will replenish your muscle glycogen and will prepare you for more adventures on the following day. The relatively short list of ingredients makes it easy to prepare at home and on the trail. Enjoy!
+ 
+
+## Ingredients
+- 2 cups (500 ml) dry macaroni
+- 3 cups of freeze dried broccoli (I used Mother Earth Products)
+- ¾ cup of broccoli and cheddar soup mix (I used the brand Bear Creek but any other brand would work)
+- 1 tsp (5 ml) dried herbs (I used basil)
+- ½ tsp (2.5 ml) of pepper flakes
+- ¼ tsp (1 ml) of grounded black pepper
+- 1 pouch of salmon (2.5 oz or 70g) If you can’t find this, use a 4oz-can.
+- 1 cup diced mild cheddar cheese
+ 
+## Equipment
+- Stove + fuel
+- Pot large enough for 2 liters (8 cups)
+- Wooden spoon to mix
+- Bowls to eat (you could always eat directly in the pot, no judgement here!)
+- sporks or forks!
+ 
+## Before trip
+- Mix in plastic bag #1: macaroni and broccoli.
+- Mix in plastic bag #2: soup mix, dried herbs, pepper flakes and black pepper.
+ 
+## At camp
+- Bring 1 L (4 cups or the equivalent of a large Nalgene bottle) to boil.
+- Pour content of bag #1.
+- Cook until pasta are al dente. Do NOT drain.
+- Add the content of plastic bag#2, salmon and cheddar cheese.
+- Mix well and enjoy!
+ 
 
