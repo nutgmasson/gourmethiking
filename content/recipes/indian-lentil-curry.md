@@ -1,5 +1,5 @@
 +++
-date = "2017-02-05T15:39:56-08:00"
+date = "2017-02-05T10:08:55-08:00"
 title = "Indian Lentil Curry"
 tags = ["dairy-free", "gluten-free", "dinner", "backpacking", "lightweight", "one-pot"]
 img = "indian_lentil_curry.jpg"

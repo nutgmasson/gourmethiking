@@ -1,5 +1,5 @@
 +++
-date = "2017-04-09T12:54:23-07:00"
+date = "2017-02-05T10:08:55-08:00"
 title = "Shrimp and Rosé Sauce Pasta"
 img = "shrimp_rose_sauce_pasta.jpeg"
 tags = ["backpacking", "dinner", "one-pot"]
