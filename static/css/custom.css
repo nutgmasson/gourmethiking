@@ -12,6 +12,10 @@
 	color: white;
 }
 
+.homepage.owl-carousel .subtitle a {
+	text-decoration: underline;
+}
+
 .box-image-text .image {
 	min-height: 200px;
 	max-height: 200px;
