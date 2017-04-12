@@ -2,7 +2,7 @@
 date = "2017-02-05T15:40:49-08:00"
 title = "Broccoli and Salmon Mac&Cheese"
 tags = ["high-energy","dinner", "backpacking", "one pot"]
-img = "broccoli_mac.jpg"
+img = "broccoli_mac_cheese.jpg"
 stat_servings = "2 very hungry backpackers"
 stat_time = "5 min prep, 20 min cooking"
 nf_energy = 1086
