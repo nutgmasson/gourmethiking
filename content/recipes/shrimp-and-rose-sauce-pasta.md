@@ -3,16 +3,13 @@ date = "2017-02-05T10:08:55-08:00"
 title = "Shrimp and Rosé Sauce Pasta"
 img = "shrimp_rose_sauce_pasta.jpeg"
 tags = ["backpacking", "dinner", "one-pot"]
-#stat_weight = "x g / portion"
 stat_time = "5 min prep, 15 min cooking"
-stat_servings = "2 portions"
-nf_energy = 0
-nf_energy_density = 0
-nf_carbs = 0
-nf_protein = 0
-nf_fiber = 0
-nf_fat = 0
-nf_other = ""
+stat_servings = "2 hungry backpackers"
+nf_energy = 736
+nf_carbs = 36.1
+nf_protein = 5.5
+nf_fiber = 3.2
+nf_fat = 6.8
 +++
 
 ## Ingredients
