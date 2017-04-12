@@ -29,3 +29,6 @@ public/
 # Sublime
 *.sublime-project
 *.sublime-workspace
+
+# OS X
+.DS_Store
