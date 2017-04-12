@@ -1,6 +1,6 @@
 +++
 date = "2017-04-01T21:07:57-07:00"
-title = "Tillamook Smoked & Dried Beef Steak Cuts teriyaki"
+title = "Tillamook Smoked & Dried Beef Steak Cuts Teriyaki"
 img = "smoked-dried-beef-steak-cuts-teriyaki.jpg"
 +++
 
