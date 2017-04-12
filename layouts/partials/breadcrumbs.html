@@ -2,7 +2,13 @@
     <div class="row">
         <div class="col-md-12">
 			<div class="heading">
-				<h1>{{ .Title | humanize }}</h1>
+				<h1>
+					{{ if eq .Title "Product-reviews" }}
+						{{ .Title | humanize }}
+					{{ else }}
+						{{ .Title }}
+					{{ end }}
+				</h1>
 			</div>
 		</div>
 	</div>
