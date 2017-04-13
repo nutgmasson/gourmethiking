@@ -18,7 +18,7 @@ googleAnalytics = "UA-97048512-1"
 	style = "default"
 	copyright = "Copyright (c) 2017, Gourmet Hiking; all rights reserved."
 	date_format = "January 2, 2006"
-	#logo = "img/logo.png"
+	logo = "img/logo-small.png"
 
 [[params.menu]]
     name = "Home"

@@ -61,7 +61,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .URL }}/" />
   <meta property="og:site_name" content="{{ .Site.Title }}" />
-  <meta property="og:image" content="{{ .Site.Params.logo }}" />
+  <meta property="og:image" content="{{ .Site.BaseURL }}{{ .Site.Params.logo }}" />
   {{ if .Description }}
   <meta property="og:description" content="{{ .Description }}">
   {{ end }}
