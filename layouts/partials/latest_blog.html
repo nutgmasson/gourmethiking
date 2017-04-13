@@ -3,6 +3,6 @@
     	<h2>Latest blog</h2>
     </div>
     {{ range where .Data.Pages "Section" "blog-post" | first 1 }}
-        {{ .Render "summary"}}
+        {{ .Render "summary" }}
     {{ end }}
 </div>
