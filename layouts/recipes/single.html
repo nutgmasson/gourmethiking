@@ -34,7 +34,7 @@
                               <span><i class="fa fa-cutlery" aria-hidden="true"></i>&nbsp;<span itemprop="recipeYield">{{ .Params.stat_servings }}</span></span>
                               {{ end }}
                               {{ if isset .Params "stat_time" }}
-                              <span><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span itemprop="totalTime">{{ .Params.stat_time }}</span></span>
+                              <span><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ .Params.stat_time }}</span>
                               {{ end }}
                               {{ if isset .Params "stat_weight" }}
                               <span><i class="fa fa-balance-scale" aria-hidden="true"></i>&nbsp;{{ .Params.stat_weight }}</span>
