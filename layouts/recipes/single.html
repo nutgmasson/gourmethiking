@@ -25,9 +25,6 @@
                     <div class="col-md-9" id="blog-post">
 
                         <div id="post-content">
-                          {{ if isset .Params "pin_img" }}
-                          <meta itemprop="image" content="{{ .Site.BaseURL }}img/recipes/pins/{{ .Params.pin_img }}" />
-                          {{ end }}
                           <div class="row recipe-stats">
                             <div class="col-lg-8 col-xs-12">
                               {{ if isset .Params "stat_servings" }}
