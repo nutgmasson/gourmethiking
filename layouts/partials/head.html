@@ -8,7 +8,14 @@
   <title>{{ .Title }}</title>
 
   <meta name="author" content="{{ .Site.Author.name }}" />
-  <meta name="keywords" content="">
+  <!-- Keywords -->
+  <!-- * Recipe -->
+  {{ if .Params.tags }}
+  <meta name="keywords" content="recipe,food,adventure,gourmet,hiking,{{ delimit .Params.tags "," }}">
+  {{ else }}
+  <!-- * Default -->
+  <meta name="keywords" content="recipe,food,adventure,gourmet,hiking,backpacking">
+  {{ end }}
 
   {{ if .Description }}
   <meta name="description" content="{{ .Description }}">
@@ -50,9 +57,13 @@
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
   <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="{{ .Title }}" />
+  <meta property="og:title" content="{{ .Title }} | {{ .Site.Title }}" />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="{{ .URL }}/" />
+  <meta property="og:site_name" content="{{ .Site.Title }}" />
   <meta property="og:image" content="{{ .Site.Params.logo }}" />
+  {{ if .Description }}
+  <meta property="og:description" content="{{ .Description }}">
+  {{ end }}
 
 </head>
