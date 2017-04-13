@@ -64,7 +64,7 @@
 
   <body>
 
-    <div id="all">
+    <div itemscope itemtype="http://schema.org/Recipe" id="all">
 
         <header>
 
@@ -146,7 +146,7 @@
     <div class="row">
         <div class="col-md-12">
 			<div class="heading">
-				<h1>
+				<h1 itemprop="name">
 					
 						Cocoa and Peanut Butter Energy Balls
 					
@@ -155,6 +155,7 @@
 		</div>
 	</div>
 </div>
+
 
         <div id="content">
             <div class="container">
@@ -165,17 +166,17 @@
 
                     <div class="col-md-9" id="blog-post">
 
-                        <div itemscope itemtype="http://schema.org/Recipe" id="post-content">
+                        <div id="post-content">
                           
                           <meta itemprop="image" content="/img/recipes/pins/cocoa_peanut_ball.png" />
                           
                           <div class="row recipe-stats">
                             <div class="col-md-8 col-xs-12">
                               
-                              <span><i class="fa fa-cutlery" aria-hidden="true"></i>&nbsp;8 balls</span>
+                              <span><i class="fa fa-cutlery" aria-hidden="true"></i>&nbsp;<span itemprop="recipeYield">8 balls</span></span>
                               
                               
-                              <span><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;10 min prep, 10 min cooking</span>
+                              <span><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span itemprop="totalTime">10 min prep, 10 min cooking</span></span>
                               
                               
                               <span><i class="fa fa-balance-scale" aria-hidden="true"></i>&nbsp;49.9g / ball</span>

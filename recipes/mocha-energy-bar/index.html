@@ -64,7 +64,7 @@
 
   <body>
 
-    <div id="all">
+    <div itemscope itemtype="http://schema.org/Recipe" id="all">
 
         <header>
 
@@ -146,7 +146,7 @@
     <div class="row">
         <div class="col-md-12">
 			<div class="heading">
-				<h1>
+				<h1 itemprop="name">
 					
 						Mocha Energy Bar
 					
@@ -155,6 +155,7 @@
 		</div>
 	</div>
 </div>
+
 
         <div id="content">
             <div class="container">
@@ -165,15 +166,15 @@
 
                     <div class="col-md-9" id="blog-post">
 
-                        <div itemscope itemtype="http://schema.org/Recipe" id="post-content">
+                        <div id="post-content">
                           
                           <div class="row recipe-stats">
                             <div class="col-md-8 col-xs-12">
                               
-                              <span><i class="fa fa-cutlery" aria-hidden="true"></i>&nbsp;12 bars</span>
+                              <span><i class="fa fa-cutlery" aria-hidden="true"></i>&nbsp;<span itemprop="recipeYield">12 bars</span></span>
                               
                               
-                              <span><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;20 min prep, 40 min cooking</span>
+                              <span><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span itemprop="totalTime">20 min prep, 40 min cooking</span></span>
                               
                               
                               <span><i class="fa fa-balance-scale" aria-hidden="true"></i>&nbsp;77.2g / bar</span>
