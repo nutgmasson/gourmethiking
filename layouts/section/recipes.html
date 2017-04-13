@@ -17,28 +17,24 @@
 
         <div id="content">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-12">
-                        <div class="row">
-                            {{ range .Data.Pages }}
-                                {{ .Render "thumbnail" }}
-                            {{ end }}
-                           <!--  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
-                                {{ range $page := $taxonomy.Pages | shuffle | first 1 }}
-                                    <div class="col-lg-3">
-                                        <div class="thumbnail">
-                                            <a href="/tags/{{ $name | urlize}}">
-                                                <img src="/img/recipes/thumbnails/{{ $page.Params.img }}" class="img-responsive"/>
-                                            </a>
-                                            <div class="caption">
-                                                <h3><a href="/tags/{{ $name | urlize}}">{{ $name }}</a></h3>
-                                             </div>
-                                        </div>
-                                    </div> 
-                                {{ end }}
-                            {{ end }} -->
-                        </div>                      
-                    </div>
+                <div class="row auto-clear">
+                    {{ range .Data.Pages }}
+                        {{ .Render "thumbnail" }}
+                    {{ end }}
+                   <!--  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+                        {{ range $page := $taxonomy.Pages | shuffle | first 1 }}
+                            <div class="col-lg-3">
+                                <div class="thumbnail">
+                                    <a href="/tags/{{ $name | urlize}}">
+                                        <img src="/img/recipes/thumbnails/{{ $page.Params.img }}" class="img-responsive"/>
+                                    </a>
+                                    <div class="caption">
+                                        <h3><a href="/tags/{{ $name | urlize}}">{{ $name }}</a></h3>
+                                     </div>
+                                </div>
+                            </div>
+                        {{ end }}
+                    {{ end }} -->
                 </div>
                 <!-- /.row -->
             </div>
