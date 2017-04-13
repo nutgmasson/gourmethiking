@@ -5,7 +5,7 @@
 
   <body>
 
-    <div id="all">
+    <div itemscope itemtype="http://schema.org/Recipe" id="all">
 
         <header>
 
@@ -24,17 +24,17 @@
 
                     <div class="col-md-9" id="blog-post">
 
-                        <div itemscope itemtype="http://schema.org/Recipe" id="post-content">
+                        <div id="post-content">
                           {{ if isset .Params "pin_img" }}
                           <meta itemprop="image" content="/img/recipes/pins/{{ .Params.pin_img }}" />
                           {{ end }}
                           <div class="row recipe-stats">
                             <div class="col-md-8 col-xs-12">
                               {{ if isset .Params "stat_servings" }}
-                              <span><i class="fa fa-cutlery" aria-hidden="true"></i>&nbsp;{{ .Params.stat_servings }}</span>
+                              <span><i class="fa fa-cutlery" aria-hidden="true"></i>&nbsp;<span itemprop="recipeYield">{{ .Params.stat_servings }}</span></span>
                               {{ end }}
                               {{ if isset .Params "stat_time" }}
-                              <span><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;{{ .Params.stat_time }}</span>
+                              <span><i class="fa fa-clock-o" aria-hidden="true"></i>&nbsp;<span itemprop="totalTime">{{ .Params.stat_time }}</span></span>
                               {{ end }}
                               {{ if isset .Params "stat_weight" }}
                               <span><i class="fa fa-balance-scale" aria-hidden="true"></i>&nbsp;{{ .Params.stat_weight }}</span>
