@@ -3,6 +3,7 @@ date = "2017-02-05T10:08:55-08:00" # edit date
 title = "Cocoa and Peanut Butter Energy Balls" 
 tags = ["vegetarian", "vegan", "dairy-free", "gluten-free",  "snack", "dessert", "backpacking", "day hike", "low-water", "lightweight", "ready to eat", "freezes",]
 img = "cocoa_peanut_ball.jpg"
+pin_img = "cocoa_peanut_ball.png"
 stat_servings = "8 balls"
 stat_time = "10 min prep, 10 min cooking"
 stat_weight = "49.9g / ball"
@@ -19,11 +20,11 @@ Sweet to perfection, these energy balls were a success on a backcountry ski trip
 
 ## Ingredients
 
-- ¾ cup (175 ml) chopped dates
-- ½ cup (125 ml) water
-- 1 cup (250 ml) old- fashioned oats
-- ⅓ powdered peanut butter
-- 2 tbsp cocoa
+- <span itemprop="ingredients">¾ cup (175 ml) chopped dates</span>
+- <span itemprop="ingredients">½ cup (125 ml) water</span>
+- <span itemprop="ingredients">1 cup (250 ml) old- fashioned oats</span>
+- <span itemprop="ingredients">⅓ powdered peanut butter</span>
+- <span itemprop="ingredients">2 tbsp cocoa</span>
 
 ## Preparation
 
