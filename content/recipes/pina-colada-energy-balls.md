@@ -24,12 +24,12 @@ These sweet energy balls will transport you on a beach with palm trees and white
 
 - ½ cup (125 ml) pitted dates
 - ½ cup (125 ml) dried and sweetened pineapples
-- ½ cup (125 ml) roasted cashews\*
-- ½ cup (125 ml) sweetened shredded coconut, divided in 2 equal parts.\**
+- ½ cup (125 ml) roasted cashews*
+- ½ cup (125 ml) sweetened shredded coconut, divided in 2 equal parts**
 
-\*I used coconut cashews from Trader Joe’s to get extra coconut taste.
+\* I used coconut cashews from Trader Joe’s to get extra coconut taste.
 
-\**If you want a snack that doesn't taste super sweet, I suggest you use unsweetened coconut.
+** If you want a snack that doesn't taste super sweet, I suggest you use unsweetened coconut.
 
 ## Preparation
 
