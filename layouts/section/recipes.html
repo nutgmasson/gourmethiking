@@ -18,7 +18,7 @@
         <div id="content">
             <div class="container">
                 <div class="row auto-clear">
-                    {{ range .Data.Pages }}
+                    {{ range sort .Data.Pages "Title" }}
                         {{ .Render "thumbnail" }}
                     {{ end }}
                    <!--  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
