@@ -56,5 +56,5 @@ Since most protein sources are either refrigerated, frozen or in can, finding li
 ## Pay attention to the weight and volume of packages
 A lot of shelf stable foods are in cans. This means, carrying the can (and its weight) in and out the trail. Look for plastic packages or other lightweight packages. In the case of dry foods, you can also transfer the food in Ziploc-type plastic bags to save on the volume and weight of packages. For example, you can transfer the content of your favorite mac&cheese box in a plastic bag to save on space.
  
-Stay tuned for more ideas of backpacking foods in grocery stores near you. I will share my findings I make in different grocery stores from the Pacific Northwest on this page.
+Stay tuned for more ideas of backpacking foods in grocery stores near you. I will share my findings I make in different grocery stores from the Pacific Northwest on [this page](/product-reviews/).
 
