@@ -2,7 +2,6 @@
 date = "2017-04-18T21:07:57-07:00"
 title = "Hunt's Tomato Paste"
 img = "hunt-tomato-paste.jpg"
-draft = true
 +++
 
 
