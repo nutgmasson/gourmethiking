@@ -1,9 +1,9 @@
 +++
 date = "2017-04-24T20:39:00-07:00"
 title = "Shopping for Backpacking Food at the Grocery Store"
-excerpt = "When I moved from the East coast of Canada (Québec) to the West Coast of USA, I discovered a world of opportunities in terms of hiking, backpacking, rock climbing and backcountry skiing! As a registered dietitian, I was excited to get into food planning for my trips, but when I looked online for resources, it was hard to find recipes I liked and made with easy-to-find ingredients."
-img = "website-launch/thumbnail.jpg"
-draft = true
+excerpt = "No time to shop online for specialized freeze-dried or dehydrated foods? Your regular grocery store has a lot more to offer for backpacking foods than you might think!"
+img = "grocery_shopping/thumbnail.jpg"
+
 +++
 
 No time to shop online for specialized freeze-dried or dehydrated foods? Your regular grocery store has a lot more to offer for backpacking foods than you might think!
@@ -41,6 +41,7 @@ A lot of the foods in grocery stores can be used for backpacking trips. Here are
 	</tr>
 </table>
 
+<img src="/img/posts/grocery_shopping/thumbnail.jpg" class="recipe-right" /><br>
 
 ## Protein options can be challenging
 
