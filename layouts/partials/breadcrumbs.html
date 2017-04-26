@@ -5,6 +5,8 @@
 				<h1 itemprop="name">
 					{{ if eq .Title "Product-reviews" }}
 						{{ .Title | humanize }}
+					{{ else if eq .Title "Blog-posts" }}
+						Blog
 					{{ else }}
 						{{ .Title }}
 					{{ end }}
