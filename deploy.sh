@@ -20,6 +20,12 @@ rm -rf public/*
 
 echo "Generating site"
 hugo
+hugo_ret_code=$?
+
+if [ $hugo_ret_code != 0 ]; then
+	echo "Stopping deployment... Can't generate the static website."
+	exit $hugo_ret_code
+fi
 
 cd public
 
