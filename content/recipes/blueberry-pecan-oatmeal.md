@@ -1,6 +1,6 @@
 +++
 date = "2017-05-05T10:08:55-08:00"
-title = "Blueberries and Pecan Oatmeal"
+title = "Blueberry Pecan Oatmeal"
 tags = ["vegetarian", "gluten-free", "breakfast", "backpacking", "low-water", "lightweight", "one-pot"]
 # Add two images with this name under static
 img = "oatmeal_blueberries_pecan.jpg"
@@ -13,7 +13,6 @@ nf_protein = 19.3 # in g
 nf_carbs = 93.6 # in g
 nf_fiber = 10.3 # in g
 nf_fat = 21.7 # in g
-draft = true
 +++
 
 This oatmeal recipe will satisfy the hungriest backpacker appetite with 19g of protein and 10g of fiber.
