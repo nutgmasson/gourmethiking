@@ -1,5 +1,5 @@
 +++
-date = "2017-04-01T21:07:57-07:00"
+date = "2017-05-05T21:07:57-07:00"
 title = "Krave Chili Lime Beef Jerky"
 img = "krave_beef_jerky_cl.jpg"
 
