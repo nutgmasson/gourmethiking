@@ -1,38 +1,47 @@
 +++
-date = "2017-02-05T16:50:59-08:00"
-title = "Shopping for Backpacking Trips at Whole Foods"
-img = "shopping-for-backpacking-at-whole-foods/thumbnail.jpg"
-excerpt = "Who said you couldn't shop for your next backpacking trip at the same store you shop for your groceries? Ok, Whole Foods is not known for low prices… but there are still some interesting deals to make there! Check out a few sweet ideas of foods to put in your shopping cart for your next backpacking trip!"
+date = "2017-05-11T16:50:59-08:00"
+title = "Need your espresso fix to start the day even on the trail?"
+img = "caffeine/coffee.jpg"
+excerpt = "How does caffeine affect your mood and performance on the trail? Your need for an espresso fix has nothing to do with how coffee tastes (Ok, the taste can be pretty wonderful!), but rather with the drug that it contains: caffeine. Let’s face it: most of us are caffeine addicts. But how does this drug affect us? Can it provide any benefits to hikers and backpackers?"
 draft=true
 +++
 
-Who said you couldn't shop for your next backpacking trip at the same store you shop for your groceries? Ok, Whole Foods is not known for low prices… but there are still some interesting deals to make there! Check out a few sweet ideas of foods to put in your shopping cart for your next backpacking trip!
+
+Your need for an espresso fix has nothing to do with how coffee tastes (Ok, the taste can be pretty wonderful!), but rather with the drug that it contains: caffeine. Let’s face it: most of us are caffeine addicts. But how does this drug affect us? Can it provide any benefits to hikers and backpackers?
+
+<img src="/img/posts/caffeine/coffee.jpg" class="recipe-right" /><br>
+
+## What is it?
+Caffeine is a chemical naturally found in plants such as coffee beans, cocoa beans, kola nuts, tea leaves and guarana.  It can also be extracted from these plants. Because caffeine is water and lipids (fat) soluble, it can easily be added to many foods.  This is how the food industry can create caffeinated sports gels, gummies, chewing gum, energy drinks and so on.
+
+## How does it work?
+For a long period of time, scientists thought the main performance enhancing mechanism of caffeine was associated with glycogen sparing, which means that caffeine would allow the body to rely more on fat and less on carbohydrates for energy. This is of particular importance in endurance exercise, such as hiking or backpacking. However, (relatively) new evidence shows that this mechanism does not occur in the same way for everybody. Along with new studies suggesting performance enhancing effects in short  duration exercise and with low doses of caffeine, it became clear that the sparing of glycogen is not the main mechanism explaining the effects of caffeine on performance.  New reliable  evidence suggests a mechanism that implies the central nervous system (brain). It is now suggested that caffeine acts on the central nervous system by maintaining our will to keep exercising (central drive), reducing the perceived pain and fatigue sensations and sustaining  our muscles’ ability to contract and produce force.
+
+##### In brief, *caffeine blocks our perception of fatigue and pain and allows us to pursue the exercise in spite of fatigue or pain.* 
+
+<br>
+
+## If this seems too good to be true, then it probably is! 
+Caffeine consumed in excess causes side effects, such as: increased anxiety and heart rate, jitters, the inability to focus, insomnia and irritability. Every person reacts differently to caffeine intakes with some people experiencing more severe side effects than others. A moderate intake (about 2-3 cups of coffee/day) or less minimizes the symptoms in most people.
+
+## Does it cause dehydration? 
+For years, it was purported  that caffeine had a considerable diuretic effect.  However, a recent meta-analysis  (a compiled analysis of  the results of several individual studies), suggests a different conclusion. The diuretic effect of caffeine appears to be minor, regardless of the quantity of caffeine ingested. At any rate, the effect would impact women more than men. It should be noted that the slight diuretic effect of caffeine seems to fade during exercise.
+
+##### The bottom line is: *moderate caffeine intake is not a major cause of dehydration.*
+
+<br>
+
+I hope this helps you become a more informed caffeine addict! ;) Feel free to enjoy your coffee or tea on the trail! (In moderation, of course!) 
 
 
-## Wide variety of dried fruits
-We all know that dried fruit are great snacks on the trail, providing carbohydrates to keep your energy level high. They are light and compact, making it easy to carry. However, on long trips, it can be boring to always eat raisins or apricots. On my last trip to Whole Foods, I found dried papaya, cantaloupe and currants in the bulk section. A nice way to add variety to snacks!
+By Gen Masson, MSc, RD, CD
 
-<img src="/img/posts/shopping-for-backpacking-at-whole-foods/dried_fruit.jpg" class="img50" />
+<br>
 
-## Date Coconut rolls
-Simply dates rolled in shredded coconut. You could easily do it at home if you have time. If not, these high-carbs bites will make a nice snack on the trails!
+##### References:
 
-<img src="/img/posts/shopping-for-backpacking-at-whole-foods/rolled_dates.jpg" class="img50" />
+Burke, L., Desbrow, B., & Spriet, L. (2013). Caffeine for Sports Performance: Human kinetics.
+ 
+Zhang, Y., Coca, A., Casa, D. J., Antonio, J., Green, J. M., & Bishop, P. A. (2014). Caffeine and diuresis during rest and exercise: A meta-analysis. J Sci Med Sport. 
 
-## And more foods in bulk!
-You need a special ingredient for a recipe and don’t want to stay stocked with a bunch of unused ingredient? Why not just buying the quantity needed in the bulk section. This is also convenient if you are on the road for your trip and have nowhere to stock unused food. During my last visit, I found 2 different types of almond meal or flour!
-
-<img src="/img/posts/shopping-for-backpacking-at-whole-foods/bulk_foods.jpg" class="img50" />
-
-## Freeze dried fruits
-Freeze dried fruits usually have better vitamin contents than regular dried fruits. They also offer some freshness to meals when you don’t have access to fresh fruits or vegetables. Nice additions to your granolas or oatmeals!
-
-<img src="/img/posts/shopping-for-backpacking-at-whole-foods/freeze_dried.jpg" class="img50" />
-
-## Individual packages of peanut or nut butters
-Relatively lightweight and high in energy, nut and peanut butters are nice to have on the trail. They add energy and proteins to your oatmeal or make a nice combination with crackers. These individual pouches are definitely not the most cost-efficient way to buy nut butter neither the most environmentally friendly but they pack well and can be convenient.
-
-<img src="/img/posts/shopping-for-backpacking-at-whole-foods/nut_butter.jpg" class="img-responsive" />
-
-Please share the foods you like to buy at Whole Foods for your trips by leaving a comment below!
 
