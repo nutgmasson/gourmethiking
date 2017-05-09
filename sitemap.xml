@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gourmethiking.com/blog-post/caffeine/</loc>
+    <lastmod>2017-05-11T16:50:59-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gourmethiking.com/product-reviews/krave-beef-jerky-chili-lime/</loc>
     <lastmod>2017-05-05T21:07:57-07:00</lastmod>
   </url>
@@ -118,7 +123,7 @@
   
   <url>
     <loc>http://gourmethiking.com/blog-post/</loc>
-    <lastmod>2017-04-26T20:39:00-07:00</lastmod>
+    <lastmod>2017-05-11T16:50:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -166,7 +171,7 @@
   
   <url>
     <loc>http://gourmethiking.com/</loc>
-    <lastmod>2017-05-05T21:07:57-07:00</lastmod>
+    <lastmod>2017-05-11T16:50:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   
