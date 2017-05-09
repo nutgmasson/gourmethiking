@@ -1,6 +1,6 @@
 +++
 date = "2017-05-11T16:50:59-08:00"
-title = "Need your espresso fix to start the day even on the trail?"
+title = "Need your espresso fix even on the trail?"
 img = "caffeine/coffee.jpg"
 excerpt = "How does caffeine affect your mood and performance on the trail? Your need for an espresso fix has nothing to do with how coffee tastes (Ok, the taste can be pretty wonderful!), but rather with the drug that it contains: caffeine. Let’s face it: most of us are caffeine addicts. But how does this drug affect us? Can it provide any benefits to hikers and backpackers?"
 
