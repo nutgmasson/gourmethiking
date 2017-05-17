@@ -1,7 +1,7 @@
 +++
 date = "2017-02-05T10:08:55-08:00" # edit date
 title = "Cocoa and Peanut Butter Energy Balls" 
-tags = ["vegetarian", "vegan", "dairy-free", "gluten-free",  "snack", "dessert", "backpacking", "day hike", "low-water", "lightweight", "ready to eat", "freezes",]
+tags = ["vegetarian", "vegan", "dairy-free", "gluten-free",  "snack", "dessert", "backpacking", "day hike", "low-water", "lightweight", "ready to eat", "freezes"]
 img = "cocoa_peanut_ball.jpg"
 pin_img = "cocoa_peanut_ball.png"
 stat_servings = "8 balls"

@@ -1,7 +1,7 @@
 +++
-date = "2017-25-05T10:08:55-08:00" # edit date
-title = "Orange and Chocolate Protein Balls" 
-tags = ["vegetarian", "gluten-free",  "snack", "dessert", "backpacking", "day hike", "low-water", "lightweight", "ready to eat",]
+date = "2017-05-25T10:08:55-08:00"
+title = "Orange and Chocolate Protein Balls"
+tags = ["vegetarian", "gluten-free",  "snack", "dessert", "backpacking", "day hike", "low-water", "lightweight", "ready to eat"]
 img = "orange_choco_protein.jpg"
 pin_img = "orange_chocolate_protein_pin.png"
 stat_servings = "8 servings (16 balls)"
