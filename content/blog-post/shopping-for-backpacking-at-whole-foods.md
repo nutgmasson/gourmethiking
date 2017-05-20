@@ -1,12 +1,12 @@
 +++
-date = "2017-02-05T16:50:59-08:00"
+date = "2017-05-22T16:50:59-08:00"
 title = "Shopping for Backpacking Trips at Whole Foods"
 img = "shopping-for-backpacking-at-whole-foods/thumbnail.jpg"
-excerpt = "Who said you couldn't shop for your next backpacking trip at the same store you shop for your groceries? Ok, Whole Foods is not known for low prices… but there are still some interesting deals to make there! Check out a few sweet ideas of foods to put in your shopping cart for your next backpacking trip!"
-draft=true
+excerpt = "Who said you couldn't shop for your next backpacking trip at the same store you shop for your groceries? Ok, Whole Foods is not known for low prices… but there are still some interesting deals to make there! Check out these ideas of foods to put in your shopping cart for your next backpacking trip!"
+
 +++
 
-Who said you couldn't shop for your next backpacking trip at the same store you shop for your groceries? Ok, Whole Foods is not known for low prices… but there are still some interesting deals to make there! Check out a few sweet ideas of foods to put in your shopping cart for your next backpacking trip!
+Who said you couldn't shop for your next backpacking trip at the same store you shop for your groceries? Ok, Whole Foods is not known for low prices… but there are still some interesting deals to make there! Check out these ideas of foods to put in your shopping cart for your next backpacking trip!
 
 
 ## Wide variety of dried fruits
