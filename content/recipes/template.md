@@ -21,9 +21,10 @@ draft = true
 
 add intro
 
-## Ingredients
-
-- bla
+{{% ingredients %}}
+¾ cup (175 ml) bla
+2 tbsp (30 ml) boo
+{{% /ingredients %}}
 
 ## Preparation
 
