@@ -17,13 +17,13 @@ nf_fat = 1.8 # in g
 
 Sweet to perfection, these energy balls were a success on a backcountry ski trip! They are low-fat and are packed with carbohydrates for energy during the long grueling skin up sections.
 
-## Ingredients
-
-- <span itemprop="ingredients">¾ cup (175 ml) chopped dates</span>
-- <span itemprop="ingredients">½ cup (125 ml) water</span>
-- <span itemprop="ingredients">1 cup (250 ml) old- fashioned oats</span>
-- <span itemprop="ingredients">⅓ cup (80 ml) powdered peanut butter</span>*
-- <span itemprop="ingredients">2 tbsp (30 ml) cocoa</span>
+{{% ingredients %}}
+¾ cup (175 ml) chopped dates
+½ cup (125 ml) water
+1 cup (250 ml) old-fashioned oats
+⅓ cup (80 ml) powdered peanut butter*
+2 tbsp (30 ml) cocoa
+{{% /ingredients %}}
 
 \* I used the PB2 powdered peanut butter.
 

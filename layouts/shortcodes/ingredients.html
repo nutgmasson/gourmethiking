@@ -1,0 +1,8 @@
+<h2 id="ingredients">Ingredients</h2>
+<ul>
+{{ range split (.Inner | chomp) "\n" }}
+	<li itemprop="ingredients">{{ . | plainify }}</li>
+{{ end }}
+</ul>
+
+

@@ -18,17 +18,15 @@ draft = true
 
 Some Canadian friends told me these protein balls remind them of the famous Tim Hortons’ Timbits. Although these protein balls have similar taste and shape than the Timbits, their nutritional value is way more interesting with 4.7g of fiber and 9.3 g of protein per serving (2 balls).
 
-## Ingredients
-
-- <span itemprop="ingredients">¾ cup (175 ml) chopped dates</span>
-- <span itemprop="ingredients">½ cup (125 ml) orange juice</span>
-- <span itemprop="ingredients">2 tsp (10 ml) fresh orange zest </span>
-- <span itemprop="ingredients">3 tbsp (45 ml) cocoa</span>
-- <span itemprop="ingredients">1 cup (250 ml) quick oats</span>
-- <span itemprop="ingredients">¾ cup (175 ml) whey protein isolate</span>
-- <span itemprop="ingredients">⅓ cup (80 ml) coconut flour, divided</span>
-
-
+{{% ingredients %}}
+¾ cup (175 ml) chopped dates
+½ cup (125 ml) orange juice
+2 tsp (10 ml) fresh orange zest
+3 tbsp (45 ml) cocoa
+1 cup (250 ml) quick oats
+¾ cup (175 ml) whey protein isolate
+⅓ cup (80 ml) coconut flour, divided
+{{% /ingredients %}}
 
 ## Preparation
 
