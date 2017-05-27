@@ -17,19 +17,20 @@ nf_other = "20 mg of caffeine"
 
 Perfect bars to fuel your winter adventures! They stay soft even at freezing temperature, which make them easy to eat during a snowy day. Their subtle coffee aroma along with powerful chocolate flavors will make you wish you brought more of these bars with you! Please note, there is about 20mg of caffeine per bar, which is the equivalent of about ¼ of a cup of brewed coffee.
 
-## Ingredients
-- 1 ½ cup (375 ml) pitted dates, cut in small pieces
-- 1 cup (250 ml) water
-- 2 tbsp (30 ml) instant coffee
-- 1 tsp (5 ml) baking powder
-- 1 cup (250 ml) quick oats
-- ½  cup (125 ml) whole wheat flour
-- ½  cup (125 ml) skim milk powder
-- ¼ cup (60 ml) sweetened shredded coconut
-- ⅓ cup (80 ml) cocoa powder
-- 1 pinch of salt
-- ⅔ cup (160 ml) semi-sweet chocolate chips
-- 1 tbsp (15 ml) unsalted butter
+{{% ingredients %}}
+1 ½ cup (375 ml) pitted dates, cut in small pieces
+1 cup (250 ml) water
+2 tbsp (30 ml) instant coffee
+1 tsp (5 ml) baking powder
+1 cup (250 ml) quick oats
+½  cup (125 ml) whole wheat flour
+½  cup (125 ml) skim milk powder
+¼ cup (60 ml) sweetened shredded coconut
+⅓ cup (80 ml) cocoa powder
+1 pinch of salt
+⅔ cup (160 ml) semi-sweet chocolate chips
+1 tbsp (15 ml) unsalted butter
+{{% /ingredients %}}
 
 ## Preparation
 

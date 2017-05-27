@@ -16,13 +16,14 @@ nf_fat = 35.5 # in g
 
 If you like bacon, you’ll love this recipe! It is filling, with 18g of protein per serving, it is a good way to start a day in the outdoors!
 
-## Ingredients
-- ½ cup (125 ml) dehydrated whole eggs
-- 1 tbsp. (15 ml) dried chives
-- ⅓ cup (80 ml) real crumbled bacon (the ones for salads)
-- 3 tbsp. (45 ml) canola oil
-- 4.2 oz. (119g) of dehydrated hashbrowns potatoes* 
-- salt and pepper
+{{% ingredients %}}
+½ cup (125 ml) dehydrated whole eggs
+1 tbsp. (15 ml) dried chives
+⅓ cup (80 ml) real crumbled bacon (the ones for salads)
+3 tbsp. (45 ml) canola oil
+4.2 oz. (119g) of dehydrated hashbrowns potatoes* 
+salt and pepper
+{{% /ingredients %}}
 
 \* I used the brand “Golden Grill”
 

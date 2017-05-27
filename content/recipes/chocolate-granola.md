@@ -21,17 +21,17 @@ Each portion of 3/4 cup contains 9g of protein and is low in fat. Add Greek yogu
 
 To be totally honest with you, this granola is not very sweet. If you have a sweet tooth, I suggest you add dried fruit and why not also chocolate chips to the cooled granola!?
 
-
-## Ingredients
-- 3 cups (750 ml) old-fashioned oats
-- ½ cup (125 ml) oat bran
-- ¼ cup (60 ml) cocoa
-- ½ cup (125 ml) milk powder
-- ½ cup (125 ml) sliced almonds
-- ½ cup (125 ml) sweetened coconut flakes
-- 1 pinch of salt
-- 3 egg whites
-- ¼ cup (60 ml) honey
+{{% ingredients %}}
+3 cups (750 ml) old-fashioned oats
+½ cup (125 ml) oat bran
+¼ cup (60 ml) cocoa
+½ cup (125 ml) milk powder
+½ cup (125 ml) sliced almonds
+½ cup (125 ml) sweetened coconut flakes
+1 pinch of salt
+3 egg whites
+¼ cup (60 ml) honey
+{{% /ingredients %}}
 
 ## Preparation
 1. In a large bowl, mix all the dry ingredients together. 

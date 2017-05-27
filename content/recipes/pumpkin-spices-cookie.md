@@ -21,21 +21,21 @@ Vincent and I tested these cookies on a climb of Mt. St. Helens, WA. The cookies
 Note that I am not a big fan of cinnamon so if you prefer a powerful cinnamon flavor, double the quantity!
 
 
-## Ingredients
-
-- 2 large eggs
--  ⅓ cup (80 ml) canola oil
-- 1 ¾ cup (425 ml) pumpkin purée (in can or fresh)
-- 1 cup (250 ml) brown sugar
-- 3 cups (750 ml) old- fashioned oatmeal
-- 1 cup (250 ml) all- purpose flour
--  ½ cup (125 ml) skim milk powder
--  ½ cup (125 ml) pecans, in small pieces
-- 1 tsp. (5 ml) cinnamon
-- 1 tsp. (5 ml) ginger powder
-- 1/2 tsp. (2.5 ml) nutmeg
-- 1 tsp. (5 ml) baking powder
-- 1 pinch of salt
+{{% ingredients %}}
+2 large eggs
+⅓ cup (80 ml) canola oil
+1 ¾ cup (425 ml) pumpkin purée (in can or fresh)
+1 cup (250 ml) brown sugar
+3 cups (750 ml) old-fashioned oatmeal
+1 cup (250 ml) all-purpose flour
+½ cup (125 ml) skim milk powder
+½ cup (125 ml) pecans, in small pieces
+1 tsp. (5 ml) cinnamon
+1 tsp. (5 ml) ginger powder
+½ tsp. (2.5 ml) nutmeg
+1 tsp. (5 ml) baking powder
+1 pinch of salt
+{{% /ingredients %}}
 
 ## Preparation
 

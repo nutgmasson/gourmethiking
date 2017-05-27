@@ -18,13 +18,14 @@ nf_fat = 21.7 # in g
 
 This oatmeal recipe will satisfy the hungriest backpacker appetite with 19g of protein and 10g of fiber.
 
-## Ingredients
-- ½ cup (125 ml) quick oats
-- 4 tbsp. (60 ml) skim milk powder
-- 4 tbsp. (60 ml) dried blueberries
-- 2 tbsp. (30 ml) chopped pecans
-- 2 tbsp. (30 ml) sweetened and shredded dried coconut
-- 1 tbsp. (15 ml) brown sugar
+{{% ingredients %}}
+½ cup (125 ml) quick oats
+4 tbsp. (60 ml) skim milk powder
+4 tbsp. (60 ml) dried blueberries
+2 tbsp. (30 ml) chopped pecans
+2 tbsp. (30 ml) sweetened and shredded dried coconut
+1 tbsp. (15 ml) brown sugar
+{{% /ingredients %}}
 
 ## Equipment
 - Stove + fuel

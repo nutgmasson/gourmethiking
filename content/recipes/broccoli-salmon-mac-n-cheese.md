@@ -14,17 +14,17 @@ nf_fat = 38.7
 
 Forget the Mac&Cheese mix in a box. This recipe is rich and provides a generous amount of vegetables (quite rare in backpacking!). The high content in protein (48g/serving) will provide a long lasting satiety sensation. The high carbohydrate content will replenish your muscle glycogen and will prepare you for more adventures on the following day. The relatively short list of ingredients makes it easy to prepare at home and on the trail. Enjoy!
  
+{{% ingredients %}}
+2 cups (500 ml) dry macaroni
+3 cups of freeze dried broccoli (I used Mother Earth Products)
+¾ cup of broccoli and cheddar soup mix (I used the brand Bear Creek but any other brand would work)
+1 tsp (5 ml) dried herbs (I used basil)
+½ tsp (2.5 ml) of pepper flakes
+¼ tsp (1 ml) of grounded black pepper
+1 pouch of salmon (2.5 oz or 70g) If you can’t find this, use a 4oz-can.
+1 cup diced mild cheddar cheese
+{{% /ingredients %}}
 
-## Ingredients
-- 2 cups (500 ml) dry macaroni
-- 3 cups of freeze dried broccoli (I used Mother Earth Products)
-- ¾ cup of broccoli and cheddar soup mix (I used the brand Bear Creek but any other brand would work)
-- 1 tsp (5 ml) dried herbs (I used basil)
-- ½ tsp (2.5 ml) of pepper flakes
-- ¼ tsp (1 ml) of grounded black pepper
-- 1 pouch of salmon (2.5 oz or 70g) If you can’t find this, use a 4oz-can.
-- 1 cup diced mild cheddar cheese
- 
 ## Equipment
 - Stove + fuel
 - Pot large enough for 2 liters (8 cups)

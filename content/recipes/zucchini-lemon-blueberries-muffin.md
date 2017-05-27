@@ -20,21 +20,21 @@ As usual, I tested this recipe in the outdoor. Since it makes a dozen, I brought
  
 Sweet and satisfying these muffins make a good snack. Rich in carbohydrate, they will provide the fuel you need for your next outdoor adventure or to stay alert in school. 
 
-## Ingredients
-
-- ½ cup (125 ml) brown sugar
-- 1 cup (250 ml) old-fashioned oatmeal
-- 1 cup (250 ml) all-purpose flour
-- 1 cup (250 ml) oats bran (taste more delicate than wheat bran but still high in fiber)
-- 1 tbsp. (15 ml) lemon zest
-- 2 tsp. (10 ml) baking powder
-- 1 pinch of salt
-- 2 cups (500 ml) zucchini, shredded
-- ¾ cup (180 ml) dried blueberries
-- 2 large eggs
--  ¼ cup (60 ml) vegetable oil
-- ½ cup (125 ml) low- fat milk
-- 1 tsp. (5 ml) vanilla extract
+{{% ingredients %}}
+½ cup (125 ml) brown sugar
+1 cup (250 ml) old-fashioned oatmeal
+1 cup (250 ml) all-purpose flour
+1 cup (250 ml) oats bran (taste more delicate than wheat bran but still high in fiber)
+1 tbsp. (15 ml) lemon zest
+2 tsp. (10 ml) baking powder
+1 pinch of salt
+2 cups (500 ml) zucchini, shredded
+¾ cup (180 ml) dried blueberries
+2 large eggs
+¼ cup (60 ml) vegetable oil
+½ cup (125 ml) low-fat milk
+1 tsp. (5 ml) vanilla extract
+{{% /ingredients %}}
 
 ## Preparation
 

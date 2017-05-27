@@ -13,15 +13,15 @@ nf_fiber = 3.2
 nf_fat = 6.8
 +++
 
-## Ingredients
-
-- 2 cups (500 ml) dry pasta (I used macaroni)
-- 1 can (4 oz – 113g) of shrimp
-- 1 can (6 oz – 170 g) of tomato paste (personally I took one with added herbs for extra flavor!)
-- 3 tbsp (45 ml) powdered milk
-- 1/2 cup Parmesan cheese
-- 1 tsp (5 ml) dried herbs (I mixed oregano and basil)
-- 2/3 cup (150 ml) dried vegetables (I used green peas, corn, tomatoes and spinach).
+{{% ingredients %}}
+2 cups (500 ml) dry pasta (I used macaroni)
+1 can (4 oz – 113g) of shrimp
+1 can (6 oz – 170 g) of tomato paste (personally I took one with added herbs for extra flavor!)
+3 tbsp (45 ml) powdered milk
+½ cup Parmesan cheese
+1 tsp (5 ml) dried herbs (I mixed oregano and basil)
+⅔ cup (150 ml) dried vegetables (I used green peas, corn, tomatoes and spinach)
+{{% /ingredients %}}
 
 ## Equipment
 

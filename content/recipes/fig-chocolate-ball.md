@@ -16,12 +16,12 @@ nf_fat = 6.6 # in g
 
 Hazelnut and chocolate: can we have a better pairing? I don't think so... These balls are perfect on a ski trips or winter hike.
 
-## Ingredients
-
-- 1 cup pitted dates
-- 1 cup dried figs
-- 1 c roasted hazelnuts
-- ¼ c cocoa
+{{% ingredients %}}
+1 cup pitted dates
+1 cup dried figs
+1 c roasted hazelnuts
+¼ c cocoa
+{{% /ingredients %}}
 
 ## Preparation
 

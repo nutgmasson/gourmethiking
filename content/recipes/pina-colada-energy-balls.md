@@ -20,12 +20,12 @@ nf_fat = 5.4 # in g
 
 These sweet energy balls will transport you on a beach with palm trees and white sand! The sugars contained in this snack will provide quick energy to keep you hiking whether you are on the beach or on a snow-covered mountain!
 
-## Ingredients
-
-- ½ cup (125 ml) pitted dates
-- ½ cup (125 ml) dried and sweetened pineapples
-- ½ cup (125 ml) roasted cashews*
-- ½ cup (125 ml) sweetened shredded coconut, divided in 2 equal parts**
+{{% ingredients %}}
+½ cup (125 ml) pitted dates
+½ cup (125 ml) dried and sweetened pineapples
+½ cup (125 ml) roasted cashews*
+½ cup (125 ml) sweetened shredded coconut, divided in 2 equal parts**
+{{% /ingredients %}}
 
 \* I used coconut cashews from Trader Joe’s to get extra coconut taste.
 

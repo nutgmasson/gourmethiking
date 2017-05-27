@@ -19,20 +19,21 @@ These delicious muffins are a good option for breakfast-on-the-go when driving t
 
 Alternatively, these muffins can be a good snack for a low-intensity training. 
  
-## Ingredients
-- 1 small sweet potato, peeled and cut in medium pieces
-- 1 cup (250 ml) all-purpose flour
-- 1 cup (250 ml) oats bran (taste more delicate than wheat bran but still high in fiber)
-- 2 tbsp. (30 ml) of orange zest (about 1 orange, I use organic oranges)
-- ½ cup (125 ml) dried cranberries
-- ½ cup (125 ml) dark chocolate chips
-- ½ cup (125 ml) brown sugar
-- 2 tsp. (10 ml) baking powder
-- 1 pinch of salt
-- 1 large egg, lightly beaten
-- ⅓ cup (80 ml) vegetable oil (I used canola oil)
-- ½ cup (125 ml) orange juice
- 
+{{% ingredients %}}
+1 small sweet potato, peeled and cut in medium pieces
+1 cup (250 ml) all-purpose flour
+1 cup (250 ml) oats bran (taste more delicate than wheat bran but still high in fiber)
+2 tbsp. (30 ml) of orange zest (about 1 orange, I use organic oranges)
+½ cup (125 ml) dried cranberries
+½ cup (125 ml) dark chocolate chips
+½ cup (125 ml) brown sugar
+2 tsp. (10 ml) baking powder
+1 pinch of salt
+1 large egg, lightly beaten
+⅓ cup (80 ml) vegetable oil (I used canola oil)
+½ cup (125 ml) orange juice
+{{% /ingredients %}}
+
 ## Preparation
 1. Put the sweet potato in a microwave safe dish and cover. 
 1. Cook the sweet potato in microwave until it is soft enough to make a puree. 

@@ -18,22 +18,23 @@ nf_fat = 50.6
 Super easy recipe to cook in the outdoor that will remember you of India, wherever you are in the world! Everything can be cooked in a single pot! The high fibre (13 g/serving) and protein (23 g/serving) contents will prevent hunger from coming back too soon. Rich in carbohydrates, this meal will provide the fuel necessary to climb the highest peaks! What else can you ask for? Yummy taste? Yes, this is included too!
  
  
-## Ingredients
-- 1 tbsp (15 ml) olive or canola oil
-- ⅓ cup (80 ml) dried chives or onions
-- 1 tbsp (15 ml) curry powder
-- 1 tsp (5 ml) turmeric
-- ½ tsp (2 ml) fennel seeds
-- ½ cup (120 ml) red lentils (also called “coral lentils)
-- ⅓ cup (80 ml) basmati rice
-- ¼ cup (60 ml) dried tomatoes
-- ⅓ cup (80 ml) dried carrots
-- ¼ tsp (1 ml) coriander seeds, grounded
-- ¼ tsp (1 ml) cardamom, grounded
-- ½ tsp (2 ml) cumin
-- 4 tsp (20 ml) chicken broth powder
-- 1 can (14 oz or 400 ml) coconut milk\*
- 
+{{% ingredients %}}
+1 tbsp (15 ml) olive or canola oil
+⅓ cup (80 ml) dried chives or onions
+1 tbsp (15 ml) curry powder
+1 tsp (5 ml) turmeric
+½ tsp (2 ml) fennel seeds
+½ cup (120 ml) red lentils (also called “coral lentils)
+⅓ cup (80 ml) basmati rice
+¼ cup (60 ml) dried tomatoes
+⅓ cup (80 ml) dried carrots
+¼ tsp (1 ml) coriander seeds, grounded
+¼ tsp (1 ml) cardamom, grounded
+½ tsp (2 ml) cumin
+4 tsp (20 ml) chicken broth powder
+1 can (14 oz or 400 ml) coconut milk\*
+{{% /ingredients %}}
+
 \*For lightweight recipe, substitute by coconut milk powder. It can be found in most Asian grocery stores.
  
 ## Equipment

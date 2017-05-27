@@ -17,13 +17,13 @@ nf_fat = 3.8 # in g
 
 Lack of energy after a few hours of skiing? Whether you are the type of people to earn their turns or to enjoy a ride up in chair lift, try these bars! With 20g of carbohydrates and 2.5g of fiber per portion, these bars will keep your energy level high!
 
-## Ingredients
-
-- 1 cup (250 ml) pitted dates
-- ½ cup (125 ml) dried blueberries
-- ½ cup (125 ml) dried apples
-- ½ cup (125 ml) almond
-- 2 tbsp (30 ml) chia seeds
+{{% ingredients %}}
+1 cup (250 ml) pitted dates
+½ cup (125 ml) dried blueberries
+½ cup (125 ml) dried apples
+½ cup (125 ml) almond
+2 tbsp (30 ml) chia seeds
+{{% /ingredients %}}
 
 ## Preparation
 
