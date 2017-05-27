@@ -2,12 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>High Energy on Gourmet Hiking</title>
-    <link>http://gourmethiking.com/tags/high-energy/index.xml</link>
+    <link>http://gourmethiking.com/tags/high-energy/</link>
     <description>Recent content in High Energy on Gourmet Hiking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, Gourmet Hiking; all rights reserved.</copyright>
-    <atom:link href="http://gourmethiking.com/tags/high-energy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Feb 2017 10:08:55 -0800</lastBuildDate>
+    
+	<atom:link href="http://gourmethiking.com/tags/high-energy/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Broccoli and Salmon Mac&amp;Cheese</title>
@@ -15,50 +18,7 @@
       <pubDate>Sun, 05 Feb 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/recipes/broccoli-salmon-mac-n-cheese/</guid>
-      <description>
-
-&lt;p&gt;Forget the Mac&amp;amp;Cheese mix in a box. This recipe is rich and provides a generous amount of vegetables (quite rare in backpacking!). The high content in protein (48g/serving) will provide a long lasting satiety sensation. The high carbohydrate content will replenish your muscle glycogen and will prepare you for more adventures on the following day. The relatively short list of ingredients makes it easy to prepare at home and on the trail. Enjoy!&lt;/p&gt;
-
-&lt;h2 id=&#34;ingredients&#34;&gt;Ingredients&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;2 cups (500 ml) dry macaroni&lt;/li&gt;
-&lt;li&gt;3 cups of freeze dried broccoli (I used Mother Earth Products)&lt;/li&gt;
-&lt;li&gt;¾ cup of broccoli and cheddar soup mix (I used the brand Bear Creek but any other brand would work)&lt;/li&gt;
-&lt;li&gt;1 tsp (5 ml) dried herbs (I used basil)&lt;/li&gt;
-&lt;li&gt;½ tsp (2.5 ml) of pepper flakes&lt;/li&gt;
-&lt;li&gt;¼ tsp (1 ml) of grounded black pepper&lt;/li&gt;
-&lt;li&gt;1 pouch of salmon (2.5 oz or 70g) If you can’t find this, use a 4oz-can.&lt;/li&gt;
-&lt;li&gt;1 cup diced mild cheddar cheese&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;equipment&#34;&gt;Equipment&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Stove + fuel&lt;/li&gt;
-&lt;li&gt;Pot large enough for 2 liters (8 cups)&lt;/li&gt;
-&lt;li&gt;Wooden spoon to mix&lt;/li&gt;
-&lt;li&gt;Bowls to eat (you could always eat directly in the pot, no judgement here!)&lt;/li&gt;
-&lt;li&gt;sporks or forks!&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;before-trip&#34;&gt;Before trip&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Mix in plastic bag #1: macaroni and broccoli.&lt;/li&gt;
-&lt;li&gt;Mix in plastic bag #2: soup mix, dried herbs, pepper flakes and black pepper.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;at-camp&#34;&gt;At camp&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;Bring 1 L (4 cups or the equivalent of a large Nalgene bottle) to boil.&lt;/li&gt;
-&lt;li&gt;Pour content of bag #1.&lt;/li&gt;
-&lt;li&gt;Cook until pasta are al dente. Do NOT drain.&lt;/li&gt;
-&lt;li&gt;Add the content of plastic bag#2, salmon and cheddar cheese.&lt;/li&gt;
-&lt;li&gt;Mix well and enjoy!&lt;/li&gt;
-&lt;/ol&gt;
-</description>
+      <description>Forget the Mac&amp;amp;Cheese mix in a box. This recipe is rich and provides a generous amount of vegetables (quite rare in backpacking!). The high content in protein (48g/serving) will provide a long lasting satiety sensation. The high carbohydrate content will replenish your muscle glycogen and will prepare you for more adventures on the following day. The relatively short list of ingredients makes it easy to prepare at home and on the trail.</description>
     </item>
     
   </channel>

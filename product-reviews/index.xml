@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Product-reviews on Gourmet Hiking</title>
-    <link>http://gourmethiking.com/product-reviews/index.xml</link>
+    <link>http://gourmethiking.com/product-reviews/</link>
     <description>Recent content in Product-reviews on Gourmet Hiking</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, Gourmet Hiking; all rights reserved.</copyright>
     <lastBuildDate>Fri, 05 May 2017 21:07:57 -0700</lastBuildDate>
-    <atom:link href="http://gourmethiking.com/product-reviews/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://gourmethiking.com/product-reviews/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Krave Chili Lime Beef Jerky</title>
@@ -16,18 +18,9 @@
       <pubDate>Fri, 05 May 2017 21:07:57 -0700</pubDate>
       
       <guid>http://gourmethiking.com/product-reviews/krave-beef-jerky-chili-lime/</guid>
-      <description>
-
-&lt;h2 id=&#34;taste-span-class-badge-3-5-span&#34;&gt;Taste &lt;span class=&#34;badge&#34;&gt;3 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;Subtle notes of lime for the first bite but for the following bites, it seems like the spicyness is the only thing noticeable. Texture is ok.&lt;/p&gt;
-
-&lt;h2 id=&#34;nutrition-analysis-span-class-badge-3-5-5-span&#34;&gt;Nutrition analysis &lt;span class=&#34;badge&#34;&gt;3.5 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt; Low in fat (1.5g/oz). Sodium (380mg/oz) is lower than in other jerkys. Ingredient list relatively easy to understand.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt; more carbohydrates than protein in a meat-based product!&lt;/p&gt;
-</description>
+      <description>Taste 3 / 5 Subtle notes of lime for the first bite but for the following bites, it seems like the spicyness is the only thing noticeable. Texture is ok.
+Nutrition analysis 3.5 / 5 Pros: Low in fat (1.5g/oz). Sodium (380mg/oz) is lower than in other jerkys. Ingredient list relatively easy to understand.
+Cons: more carbohydrates than protein in a meat-based product!</description>
     </item>
     
     <item>
@@ -36,22 +29,8 @@
       <pubDate>Tue, 18 Apr 2017 21:07:57 -0700</pubDate>
       
       <guid>http://gourmethiking.com/product-reviews/hunts-tomato-paste/</guid>
-      <description>
-
-&lt;h2 id=&#34;taste-span-class-badge-5-5-span&#34;&gt;Taste &lt;span class=&#34;badge&#34;&gt;5 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;Tomato pasta in purée. No added herbs or seasoning. It is very versatile and can be used in a lot of recipes on the trail: pasta sauce, mexican rice, chili, stews and soups.&lt;/p&gt;
-
-&lt;h2 id=&#34;nutrition-analysis-span-class-badge-4-5-5-span&#34;&gt;Nutrition analysis &lt;span class=&#34;badge&#34;&gt;4.5 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt; Low in sodium (25mg/ pouch) and high in potassium (420 mg/pouch). It looks like there is no added sugar (according to the ingredient list). High fiber content (3g/pouch).&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt; Only 2 ingredients on the list: tomato paste and citric acid. This last one is a common food preservative. However, there are other tomato-based products that don’t include this preservative.&lt;/p&gt;
-
-&lt;h2 id=&#34;convenience-span-class-badge-5-5-span&#34;&gt;Convenience &lt;span class=&#34;badge&#34;&gt;5 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;Individual plastic pouches allow you to only bring the required quantity on the trail and not have to carry leftovers. It is lightweight and easy to pack out!&lt;/p&gt;
-</description>
+      <description>Taste 5 / 5 Tomato pasta in purée. No added herbs or seasoning. It is very versatile and can be used in a lot of recipes on the trail: pasta sauce, mexican rice, chili, stews and soups.
+Nutrition analysis 4.5 / 5 Pros: Low in sodium (25mg/ pouch) and high in potassium (420 mg/pouch). It looks like there is no added sugar (according to the ingredient list). High fiber content (3g/pouch).</description>
     </item>
     
     <item>
@@ -60,18 +39,8 @@
       <pubDate>Sat, 01 Apr 2017 21:07:57 -0700</pubDate>
       
       <guid>http://gourmethiking.com/product-reviews/oatmega-mint-crisp/</guid>
-      <description>
-
-&lt;h2 id=&#34;taste-span-class-badge-4-5-5-span&#34;&gt;Taste &lt;span class=&#34;badge&#34;&gt;4.5 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;Nice texture that stays soft even at freezing temperature. Good taste of chocolate and mint. Hardly noticeable taste of whey&lt;/p&gt;
-
-&lt;h2 id=&#34;nutrition-analysis-span-class-badge-4-5-span&#34;&gt;Nutrition analysis &lt;span class=&#34;badge&#34;&gt;4 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt; High content of fiber (7g/bar), low simple sugars (5g/bar) and high content in protein (14g/bar) which helps with satiety. It makes it a good snack for low to moderate intensity activities. Whey comes from grass-fed cows and fish oil from responsibly-caught fish.  Unable to get the exact amount of omega-3s&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt; Ingredient list is long and filled with ingredients you won’t find in your pantry!&lt;/p&gt;
-</description>
+      <description>Taste 4.5 / 5 Nice texture that stays soft even at freezing temperature. Good taste of chocolate and mint. Hardly noticeable taste of whey
+Nutrition analysis 4 / 5 Pros: High content of fiber (7g/bar), low simple sugars (5g/bar) and high content in protein (14g/bar) which helps with satiety. It makes it a good snack for low to moderate intensity activities. Whey comes from grass-fed cows and fish oil from responsibly-caught fish.</description>
     </item>
     
     <item>
@@ -80,18 +49,8 @@
       <pubDate>Sat, 01 Apr 2017 21:07:57 -0700</pubDate>
       
       <guid>http://gourmethiking.com/product-reviews/oberto-applewood-smoked-bacon-jerky/</guid>
-      <description>
-
-&lt;h2 id=&#34;taste-span-class-badge-4-5-5-span&#34;&gt;Taste &lt;span class=&#34;badge&#34;&gt;4.5 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;Authentic taste of bacon with a nice applewood smoke twist to it. Although the jerky is pretty dry, it is not too tough to eat. This jerky is good to eat on its own but could also be a good addition to dishes cooked on the trail such as egg scrambles or alfredo pasta.&lt;/p&gt;
-
-&lt;h2 id=&#34;nutrition-analysis-span-class-badge-2-5-5-span&#34;&gt;Nutrition analysis &lt;span class=&#34;badge&#34;&gt;2.5 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt; High in protein (12g/oz) for a jerky. Short list of ingredients. Only a little sugar added compared to other jerkys.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt; It is bacon, which means it is high in fat (9g/oz), in saturated fat (3g/oz) and in sodium (670 mg/oz).&lt;/p&gt;
-</description>
+      <description>Taste 4.5 / 5 Authentic taste of bacon with a nice applewood smoke twist to it. Although the jerky is pretty dry, it is not too tough to eat. This jerky is good to eat on its own but could also be a good addition to dishes cooked on the trail such as egg scrambles or alfredo pasta.
+Nutrition analysis 2.5 / 5 Pros: High in protein (12g/oz) for a jerky.</description>
     </item>
     
     <item>
@@ -100,18 +59,9 @@
       <pubDate>Sat, 01 Apr 2017 21:07:57 -0700</pubDate>
       
       <guid>http://gourmethiking.com/product-reviews/tillamook-teriyaki-meat-stick/</guid>
-      <description>
-
-&lt;h2 id=&#34;taste-span-class-badge-2-5-5-span&#34;&gt;Taste &lt;span class=&#34;badge&#34;&gt;2.5 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;Nothing exceptional here. The taste reminded me of hot-dogs… Inside texture is soft, the outside layer being a little rough.&lt;/p&gt;
-
-&lt;h2 id=&#34;nutrition-analysis-span-class-badge-2-5-span&#34;&gt;Nutrition analysis &lt;span class=&#34;badge&#34;&gt;2 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt; not much to say here… The first ingredients are beef and pork!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt; Long list of ingredients that required advanced nutrition knowledge to understand. High in sodium (533mg/oz). High in fat (8g/oz) and relatively high in saturated fat (3g/oz). Relatively low in protein (5g/oz) for meat-based product.&lt;/p&gt;
-</description>
+      <description>Taste 2.5 / 5 Nothing exceptional here. The taste reminded me of hot-dogs… Inside texture is soft, the outside layer being a little rough.
+Nutrition analysis 2 / 5 Pros: not much to say here… The first ingredients are beef and pork!
+Cons: Long list of ingredients that required advanced nutrition knowledge to understand. High in sodium (533mg/oz). High in fat (8g/oz) and relatively high in saturated fat (3g/oz). Relatively low in protein (5g/oz) for meat-based product.</description>
     </item>
     
     <item>
@@ -120,18 +70,9 @@
       <pubDate>Sat, 01 Apr 2017 21:07:57 -0700</pubDate>
       
       <guid>http://gourmethiking.com/product-reviews/smoked-dried-beef-steak-cuts-teriyaki/</guid>
-      <description>
-
-&lt;h2 id=&#34;taste-span-class-badge-3-5-5-span&#34;&gt;Taste &lt;span class=&#34;badge&#34;&gt;3.5 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;The thick pieces change from the usual thin sliced jerky. Texture is soft. Taste does not offer anything out of the ordinary: sweet soy sauce&amp;hellip;&lt;/p&gt;
-
-&lt;h2 id=&#34;nutrition-analysis-span-class-badge-4-5-span&#34;&gt;Nutrition analysis &lt;span class=&#34;badge&#34;&gt;4 / 5&lt;/span&gt;&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Pros:&lt;/strong&gt; Ingredients’ list is short and very easy to understand. More protein than carbohydrates, which is what we are looking for in a jerky!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cons:&lt;/strong&gt; Sodium (450 mg/oz) is pretty high.&lt;/p&gt;
-</description>
+      <description>Taste 3.5 / 5 The thick pieces change from the usual thin sliced jerky. Texture is soft. Taste does not offer anything out of the ordinary: sweet soy sauce&amp;hellip;
+Nutrition analysis 4 / 5 Pros: Ingredients’ list is short and very easy to understand. More protein than carbohydrates, which is what we are looking for in a jerky!
+Cons: Sodium (450 mg/oz) is pretty high.</description>
     </item>
     
   </channel>
