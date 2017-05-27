@@ -6,7 +6,7 @@
 	</div>
 	<div class="col-xs-12 col-sm-9">
 		<h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-		<p>{{ .Summary }}</p>
+		<p>{{ .Params.excerpt }}</p>
 		<p class="read-more">
 		  <a href="{{ .Permalink }}" class="btn btn-template-main">Continue reading</a>
 		</p>
