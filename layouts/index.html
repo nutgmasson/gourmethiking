@@ -1,28 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  {{ partial "head.html" . }}
-  
-  <body>
-
-    <div id="all">
-        <header>{{ partial "nav.html" . }}</header>
+{{ define "main" }}
             
-        {{ partial "carousel.html" . }}
+{{ partial "carousel.html" . }}
 
-        <div id="content">
-          <div class="container">
-            {{ partial "latest_recipes.html" . }} 
-            {{ partial "latest_product_reviews.html" . }}     
-            {{ partial "latest_blog.html" . }}             
-          </div>
-        </div>
+<div id="content">
+  <div class="container">
+    {{ partial "latest_recipes.html" . }} 
+    {{ partial "latest_product_reviews.html" . }}     
+    {{ partial "latest_blog.html" . }}             
+  </div>
+</div>
 
-        {{ partial "footer.html" . }}
-    </div>
-    <!-- /#all -->
-
-    {{ partial "scripts.html" . }}
-
-  </body>
-</html>
+{{ end }}

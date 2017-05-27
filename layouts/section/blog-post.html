@@ -1,64 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
+{{ define "main" }}
 
-  {{ partial "head.html" . }}
+{{ partial "breadcrumbs.html" . }}
 
-  <body>
-
-    <div id="all">
-
-        <header>
-
-          {{ partial "nav.html" . }}
-
-        </header>
-
-        {{ partial "breadcrumbs.html" . }}
-
-        <div id="content">
-            <div class="container">
+<div id="content">
+    <div class="container">
+        <div class="row">
+            <!-- *** LEFT COLUMN *** -->
+            <div class="col-md-9">
                 <div class="row">
-                    <!-- *** LEFT COLUMN *** -->
-                    <div class="col-md-9">
-                        <div class="row">
-                            {{ range .Data.Pages }}
-                                {{ .Render "summary" }}
-                            {{ end }}
-                        </div>
-                      
-                    </div>
-
-                    <!-- *** LEFT COLUMN END *** -->
-
-                    <!-- *** RIGHT COLUMN ***
-       _________________________________________________________ -->
-
-                    <div class="col-md-3">
-
-                        <!-- *** MENUS AND WIDGETS *** -->
-
-                        {{ partial "sidebar.html" . }}
-
-                        <!-- *** MENUS AND FILTERS END *** -->
-
-                    </div>
-                    <!-- /.col-md-3 -->
-
-                    <!-- *** RIGHT COLUMN END *** -->
-
+                    {{ range .Data.Pages }}
+                        {{ .Render "summary" }}
+                    {{ end }}
                 </div>
-                <!-- /.row -->
+              
             </div>
-            <!-- /.container -->
+
+            <!-- *** LEFT COLUMN END *** -->
+
+            <!-- *** RIGHT COLUMN ***
+_________________________________________________________ -->
+
+            <div class="col-md-3">
+
+                <!-- *** MENUS AND WIDGETS *** -->
+
+                {{ partial "sidebar.html" . }}
+
+                <!-- *** MENUS AND FILTERS END *** -->
+
+            </div>
+            <!-- /.col-md-3 -->
+
+            <!-- *** RIGHT COLUMN END *** -->
+
         </div>
-        <!-- /#content -->
-
-        {{ partial "footer.html" . }}
-
+        <!-- /.row -->
     </div>
-    <!-- /#all -->
+    <!-- /.container -->
+</div>
+<!-- /#content -->
 
-    {{ partial "scripts.html" . }}
-
-  </body>
-</html>
+{{ end }}

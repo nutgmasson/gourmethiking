@@ -1,78 +1,57 @@
-<!DOCTYPE html>
-<html lang="en">
+{{ define "main" }}
 
-  {{ partial "head.html" . }}
+{{ partial "breadcrumbs.html" . }}
 
-  <body>
+<div id="content">
+    <div class="container">
 
-    <div id="all">
+        <div class="row">
 
-        <header>
+            <!-- *** LEFT COLUMN *** -->
 
-          {{ partial "nav.html" . }}
-
-        </header>
-
-        {{ partial "breadcrumbs.html" . }}
-
-        <div id="content">
-            <div class="container">
+            <div class="col-md-9">
 
                 <div class="row">
-
-                    <!-- *** LEFT COLUMN *** -->
-
-                    <div class="col-md-9">
-
-                        <div class="row">
-                            <div class="col-xs-12 col-sm-6">
-                                <img src="/img/product-reviews/{{ .Params.img }}" class="img-responsive"/>
-                            </div>
-                            <div class="col-xs-12 col-sm-6">
-                                {{ .Content }}
-                            </div>
-                        </div>
-                        <!-- /#post-content -->
-                        {{ if .Site.DisqusShortname }}
-                        <div id="comments">
-                            {{ template "_internal/disqus.html" . }}
-                        </div>
-                        {{ end }}
-
+                    <div class="col-xs-12 col-sm-6">
+                        <img src="/img/product-reviews/{{ .Params.img }}" class="img-responsive"/>
                     </div>
-                    <!-- /#blog-post -->
-
-                    <!-- *** LEFT COLUMN END *** -->
-
-                    <!-- *** RIGHT COLUMN *** -->
-
-                    <div class="col-md-3">
-
-                        <!-- *** MENUS AND WIDGETS *** -->
-
-                        {{ partial "sidebar.html" . }}
-
-                        <!-- *** MENUS AND FILTERS END *** -->
-
+                    <div class="col-xs-12 col-sm-6">
+                        {{ .Content }}
                     </div>
-                    <!-- /.col-md-3 -->
-
-                    <!-- *** RIGHT COLUMN END *** -->
-
                 </div>
-                <!-- /.row -->
+                <!-- /#post-content -->
+                {{ if .Site.DisqusShortname }}
+                <div id="comments">
+                    {{ template "_internal/disqus.html" . }}
+                </div>
+                {{ end }}
 
             </div>
-            <!-- /.container -->
-        </div>
-        <!-- /#content -->
+            <!-- /#blog-post -->
 
-        {{ partial "footer.html" . }}
+            <!-- *** LEFT COLUMN END *** -->
+
+            <!-- *** RIGHT COLUMN *** -->
+
+            <div class="col-md-3">
+
+                <!-- *** MENUS AND WIDGETS *** -->
+
+                {{ partial "sidebar.html" . }}
+
+                <!-- *** MENUS AND FILTERS END *** -->
+
+            </div>
+            <!-- /.col-md-3 -->
+
+            <!-- *** RIGHT COLUMN END *** -->
+
+        </div>
+        <!-- /.row -->
 
     </div>
-    <!-- /#all -->
+    <!-- /.container -->
+</div>
+<!-- /#content -->
 
-    {{ partial "scripts.html" . }}
-
-  </body>
-</html>
+{{ end }}
