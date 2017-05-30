@@ -1,5 +1,5 @@
 +++
-date = "2017-05-25T10:08:55-08:00"
+date = "2017-05-30T10:08:55-08:00"
 title = "Orange and Chocolate Protein Balls"
 tags = ["vegetarian", "gluten-free",  "snack", "dessert", "backpacking", "day hike", "low-water", "lightweight", "ready to eat"]
 img = "orange_choco_protein.jpg"
@@ -13,7 +13,7 @@ nf_protein = 9.3 # in g
 nf_carbs = 24.8 # in g
 nf_fiber = 4.7 # in g
 nf_fat = 1.8 # in g
-draft = true
+
 +++
 
 Some Canadian friends told me these protein balls remind them of the famous Tim Hortons’ Timbits. Although these protein balls have similar taste and shape than the Timbits, their nutritional value is way more interesting with 4.7g of fiber and 9.3 g of protein per serving (2 balls).
