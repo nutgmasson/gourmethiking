@@ -19,8 +19,8 @@ Hazelnut and chocolate: can we have a better pairing? I don't think so... These 
 {{% ingredients %}}
 1 cup pitted dates
 1 cup dried figs
-1 c roasted hazelnuts
-¼ c cocoa
+1 cup roasted hazelnuts
+¼ cup cocoa
 {{% /ingredients %}}
 
 ## Preparation
