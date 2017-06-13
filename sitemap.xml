@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gourmethiking.com/recipes/hot-chocolate/</loc>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gourmethiking.com/recipes/chili-stew/</loc>
     <lastmod>2017-06-06T10:08:55-08:00</lastmod>
   </url>
@@ -138,7 +143,7 @@
   
   <url>
     <loc>http://gourmethiking.com/tags/backpacking/</loc>
-    <lastmod>2017-06-06T10:08:55-08:00</lastmod>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -167,19 +172,25 @@
   
   <url>
     <loc>http://gourmethiking.com/tags/day-hike/</loc>
-    <lastmod>2017-05-30T10:08:55-08:00</lastmod>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gourmethiking.com/tags/dessert/</loc>
-    <lastmod>2017-05-30T10:08:55-08:00</lastmod>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://gourmethiking.com/tags/dinner/</loc>
     <lastmod>2017-06-06T10:08:55-08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://gourmethiking.com/tags/drink/</loc>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,7 +208,7 @@
   
   <url>
     <loc>http://gourmethiking.com/</loc>
-    <lastmod>2017-06-06T10:08:55-08:00</lastmod>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -209,7 +220,7 @@
   
   <url>
     <loc>http://gourmethiking.com/tags/lightweight/</loc>
-    <lastmod>2017-05-30T10:08:55-08:00</lastmod>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -227,7 +238,7 @@
   
   <url>
     <loc>http://gourmethiking.com/tags/one-pot/</loc>
-    <lastmod>2017-06-06T10:08:55-08:00</lastmod>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -245,7 +256,7 @@
   
   <url>
     <loc>http://gourmethiking.com/recipes/</loc>
-    <lastmod>2017-06-06T10:08:55-08:00</lastmod>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -257,7 +268,7 @@
   
   <url>
     <loc>http://gourmethiking.com/tags/</loc>
-    <lastmod>2017-06-06T10:08:55-08:00</lastmod>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -269,7 +280,7 @@
   
   <url>
     <loc>http://gourmethiking.com/tags/vegetarian/</loc>
-    <lastmod>2017-05-30T10:08:55-08:00</lastmod>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   

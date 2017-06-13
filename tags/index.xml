@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, Gourmet Hiking; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 06 Jun 2017 10:08:55 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2017 10:08:55 -0800</lastBuildDate>
     
 	<atom:link href="http://gourmethiking.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Backpacking</title>
       <link>http://gourmethiking.com/tags/backpacking/</link>
-      <pubDate>Tue, 06 Jun 2017 10:08:55 -0800</pubDate>
+      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/backpacking/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Day Hike</title>
       <link>http://gourmethiking.com/tags/day-hike/</link>
-      <pubDate>Tue, 30 May 2017 10:08:55 -0800</pubDate>
+      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/day-hike/</guid>
       <description></description>
@@ -51,7 +51,7 @@
     <item>
       <title>Dessert</title>
       <link>http://gourmethiking.com/tags/dessert/</link>
-      <pubDate>Tue, 30 May 2017 10:08:55 -0800</pubDate>
+      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/dessert/</guid>
       <description></description>
@@ -63,6 +63,15 @@
       <pubDate>Tue, 06 Jun 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/dinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Drink</title>
+      <link>http://gourmethiking.com/tags/drink/</link>
+      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
+      
+      <guid>http://gourmethiking.com/tags/drink/</guid>
       <description></description>
     </item>
     
@@ -96,7 +105,7 @@
     <item>
       <title>Lightweight</title>
       <link>http://gourmethiking.com/tags/lightweight/</link>
-      <pubDate>Tue, 30 May 2017 10:08:55 -0800</pubDate>
+      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/lightweight/</guid>
       <description></description>
@@ -123,7 +132,7 @@
     <item>
       <title>One Pot</title>
       <link>http://gourmethiking.com/tags/one-pot/</link>
-      <pubDate>Tue, 06 Jun 2017 10:08:55 -0800</pubDate>
+      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/one-pot/</guid>
       <description></description>
@@ -159,7 +168,7 @@
     <item>
       <title>Vegetarian</title>
       <link>http://gourmethiking.com/tags/vegetarian/</link>
-      <pubDate>Tue, 30 May 2017 10:08:55 -0800</pubDate>
+      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/vegetarian/</guid>
       <description></description>
