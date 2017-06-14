@@ -17,7 +17,7 @@ nf_other = "12.5 mg of caffeine"
 
 +++
 
-Warm, sweet and rich, this basic hot chocolate recipe will help you to relax after a long day of adventuring. This drink also provides 12g of high-quality protein, some quickly absorbed carbohydrates and liquids to kickstart the recovery process. 
+Warm, sweet and rich, this basic hot chocolate recipe will help you to relax after a long day of adventuring. This drink contains 12g of high-quality protein, which is 11g more than your commercial hot chocolate powder prepared with hot water! It also provides some quickly absorbed carbohydrates and liquids to kickstart the recovery process. 
 
 {{% ingredients %}}
 2 tbsp. (30 ml) sugar
