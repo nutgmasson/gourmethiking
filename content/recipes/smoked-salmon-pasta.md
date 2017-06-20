@@ -8,11 +8,11 @@ stat_time = "5 min prep, 15 min cooking"
 stat_weight = "182g / serving"
 nf_energy = 623 # in calories
 nf_energy_density = 3.4 # in calories/g
-nf_protein = 48 # in g
+nf_protein = 48.0 # in g
 nf_carbs = 82.5 # in g
 nf_fiber = 2.7 # in g
 nf_fat = 9.2 # in g
-draft = true
+
 +++
 
 {{% ingredients %}}
@@ -39,10 +39,10 @@ Black pepper to taste
 1. Mix in plastic bag #2: parmesan cheese, powdered milk, dried dill and black pepper
  
 ## At camp
-1. Bring 1 L (4 cups) to boil.
+1. Bring 1 L (4 cups) of water to boil.
 1. Add the content of bag #1 and cook pasta until almost al dente. Do NOT drain.
 1. Add the content of bag #2 and the Alfredo sauce.
-1. Mix well and bring to boil until the sauce thickened. 
+1. Mix well and bring to boil. Let simmer until it thickens. 
 1. Cut smoked salmon jerky in small pieces. 
 1. Add the smoked salmon to the cooked pasta, mix well and enjoy!
 
