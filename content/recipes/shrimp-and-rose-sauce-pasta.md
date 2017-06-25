@@ -7,10 +7,10 @@ tags = ["backpacking", "dinner", "one-pot"]
 stat_time = "5 min prep, 15 min cooking"
 stat_servings = "2 hungry backpackers"
 nf_energy = 736
-nf_carbs = 36.1
-nf_protein = 5.5
-nf_fiber = 3.2
-nf_fat = 6.8
+nf_carbs = 119.5
+nf_protein = 42.0
+nf_fiber = 8.1
+nf_fat = 11.0
 +++
 
 {{% ingredients %}}
