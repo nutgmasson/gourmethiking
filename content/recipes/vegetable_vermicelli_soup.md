@@ -1,9 +1,9 @@
 +++
 date = "2017-06-30T10:08:55-08:00"
 title = "Vegetable and Vermicelli Soup"
-img = "vegetable_vermicelli_soup.jpeg"
-pin_img = "vegetable_vermicelli_soup_pin.jpeg"
-tags = ["backpacking", "day hike", dairy-free", "lunch", dinner", "one-pot"]
+img = "vegetable_vermicelli_soup.jpg"
+pin_img = "vegetable_vermicelli_soup.jpg"
+tags = ["backpacking", "day hike", "dairy-free", "lunch", "dinner", "one-pot"]
 stat_time = "5 min prep, 8 min cooking"
 stat_servings = "2 hungry backpackers"
 nf_energy = 245
