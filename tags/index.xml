@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, Gourmet Hiking; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 25 Jun 2017 10:08:55 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jul 2017 10:08:55 -0800</lastBuildDate>
     
 	<atom:link href="http://gourmethiking.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Backpacking</title>
       <link>http://gourmethiking.com/tags/backpacking/</link>
-      <pubDate>Sun, 25 Jun 2017 10:08:55 -0800</pubDate>
+      <pubDate>Wed, 05 Jul 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/backpacking/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Dairy Free</title>
       <link>http://gourmethiking.com/tags/dairy-free/</link>
-      <pubDate>Tue, 06 Jun 2017 10:08:55 -0800</pubDate>
+      <pubDate>Wed, 05 Jul 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/dairy-free/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Day Hike</title>
       <link>http://gourmethiking.com/tags/day-hike/</link>
-      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
+      <pubDate>Wed, 05 Jul 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/day-hike/</guid>
       <description></description>
@@ -60,7 +60,7 @@
     <item>
       <title>Dinner</title>
       <link>http://gourmethiking.com/tags/dinner/</link>
-      <pubDate>Thu, 15 Jun 2017 10:08:55 -0800</pubDate>
+      <pubDate>Wed, 05 Jul 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/dinner/</guid>
       <description></description>
@@ -121,6 +121,15 @@
     </item>
     
     <item>
+      <title>Lunch</title>
+      <link>http://gourmethiking.com/tags/lunch/</link>
+      <pubDate>Wed, 05 Jul 2017 10:08:55 -0800</pubDate>
+      
+      <guid>http://gourmethiking.com/tags/lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>No Bake</title>
       <link>http://gourmethiking.com/tags/no-bake/</link>
       <pubDate>Sat, 18 Feb 2017 10:08:55 -0800</pubDate>
@@ -132,7 +141,7 @@
     <item>
       <title>One Pot</title>
       <link>http://gourmethiking.com/tags/one-pot/</link>
-      <pubDate>Sun, 25 Jun 2017 10:08:55 -0800</pubDate>
+      <pubDate>Wed, 05 Jul 2017 10:08:55 -0800</pubDate>
       
       <guid>http://gourmethiking.com/tags/one-pot/</guid>
       <description></description>
