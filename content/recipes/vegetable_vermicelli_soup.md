@@ -1,5 +1,5 @@
 +++
-date = "2017-06-30T10:08:55-08:00"
+date = "2017-07-05T10:08:55-08:00"
 title = "Vegetable and Vermicelli Soup"
 img = "vegetable_vermicelli_soup.jpg"
 pin_img = "vegetable_vermicelli_soup.jpg"
@@ -11,11 +11,13 @@ nf_carbs = 49.7
 nf_protein = 10.2
 nf_fiber = 5.9
 nf_fat = 1.9
-draft=true
+
 +++
 
+This soup will warm you up on chilly backpack nights and help you rehydrate after a long day on the trail. This soup is also the perfect appetizer for a multi-course backpack meal!
+
 {{% ingredients %}}
-½ cup (125 ml) dry vermicelli, chopped in small pieces (or other soup pasta)
+½ cup (125 ml) dry vermicelli, chopped in small pieces (or soup pasta)
 5 tsp. (25 ml) chicken broth powder
 3 tbsp. (45 ml) dried spinach
 3 tbsp. (45 ml) dried carrots
