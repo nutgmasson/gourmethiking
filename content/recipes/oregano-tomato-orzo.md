@@ -33,7 +33,7 @@ This recipe is perfect for overnight backpacking trips or when weight and space 
 - Lightweight pan
 - Wooden spoon to mix
 - Knife or penknife
-- Bowls to eat (you could always eat directly in the pot, not judgement here!)
+- Bowls to eat (you could always eat directly in the pot, no judgement here!)
 - Sporks or forks!
  
 ## Before trip
@@ -41,7 +41,7 @@ This recipe is perfect for overnight backpacking trips or when weight and space 
 1. Mix in a plastic bag : orzo, dried vegetables and oregano leaves.
  
 ## At camp
-1. Cut sausages.
+1. Cut sausages in cubes.
 1. Stir-fry the sausages in the pan with the olive oil until nicely colored.
 1. Bring 1.25 L (5 cups) to boil in the pot.
 1. Add the content of the plastic bag.
