@@ -1,5 +1,5 @@
 +++
-date = "2017-08-9T10:08:55-08:00"
+date = "2017-08-09T10:08:55-08:00"
 title = "Bacon Alfredo Gnocchi"
 tags = ["high-energy", "dinner", "backpacking"]
 img = "bacon_alfredo_gnocchi.jpg"
