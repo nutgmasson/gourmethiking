@@ -14,7 +14,6 @@ nf_protein = 16.5# in g
 nf_carbs = 94.8 # in g
 nf_fiber = 4.1 # in g
 nf_fat = 21.0 # in g
-draft = true
 +++
 
 Pancakes are delicious at home and even better on the trail. Topped with real maple syrup and it is pretty close to perfection. Add a fresh coffee and you are in breakfast paradise! 
