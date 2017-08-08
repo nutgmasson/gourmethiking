@@ -2,7 +2,6 @@
 date = "2017-08-03T10:08:55-08:00"
 title = "Blueberry Pancake"
 tags = ["vegetarian", "breakfast", "backpacking", "low-water", "lightweight", "one-pot"]
-# Add two images with this name under static
 img = "blueberry_pancake.jpg"
 pin_img = "blueberry_pancakes.jpg"
 stat_servings = "2 hungry backpacker"
