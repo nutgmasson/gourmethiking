@@ -13,13 +13,14 @@ nf_protein = 31.1 # in g
 nf_carbs = 94.8 # in g
 nf_fiber = 4.2 # in g
 nf_fat = 31.1 # in g
-draft = true
 +++
+
+Rich in flavor (and in calories!), this recipe is perfect for these difficult overnight backpacking trips. 
 
 {{% ingredients %}}
 1 package of 17.6 oz (500g) gnocchi
 3.25 oz. (92g) pre-cooked bacon
-1 can 7.6 fl. oz. (225 ml) table cream on can (I used Table Cream by Nestlé)
+1 can 7.6 fl. oz. (225 ml) table cream (I used Table Cream by Nestlé)
 2 tbsp. (30 ml) dried chives
 1 tbsp. (15 ml) dried parsley
 ⅓ cup (80 ml) parmigiano reggiano, shredded
@@ -42,11 +43,11 @@ draft = true
 ## At camp
 1. Cut or shred the bacon in small pieces.
 1. Sauté the bacon in the pan until it is a little crispy.
-1. Bring about 1 L to boil.
+1. Bring about 1 L of water to boil.
 1. Add the gnocchi. 
 1. Cook until gnocchi float on the water.
 1. Drain.
-1. Add to the pan which has the bacon and sauté for a few minutes.
+1. Add to the pan with the bacon and sauté for a few minutes.
 1. Add the cream and the parmigiano mix.
 1. Mix well and enjoy!
 
