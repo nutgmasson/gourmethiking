@@ -3,6 +3,7 @@ date = "2017-08-14T10:08:55-08:00"
 title = "Mocha Energy Balls" 
 tags = ["vegetarian", "vegan", "dairy-free", "gluten-free",  "snack", "dessert", "backpacking", "day hike", "low-water", "lightweight", "ready to eat", "freezes"]
 img = "mocha_energy_ball.jpg"
+pin_img = "mocha_energy_ball.jpg"
 stat_servings = "12 balls"
 stat_time = "10 min prep, 10 min cooking"
 stat_weight = "36.5g / ball"
