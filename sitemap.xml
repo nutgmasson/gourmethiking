@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://gourmethiking.com/blog-post/altitude-fluid/</loc>
+    <lastmod>2017-08-21T16:50:59-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gourmethiking.com/recipes/spinach_pepper_egg/</loc>
     <lastmod>2017-08-17T10:08:55-08:00</lastmod>
   </url>
@@ -204,7 +209,7 @@
   
   <url>
     <loc>http://gourmethiking.com/blog-post/</loc>
-    <lastmod>2017-07-31T16:50:59-08:00</lastmod>
+    <lastmod>2017-08-21T16:50:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -263,7 +268,7 @@
   
   <url>
     <loc>http://gourmethiking.com/</loc>
-    <lastmod>2017-08-17T10:08:55-08:00</lastmod>
+    <lastmod>2017-08-21T16:50:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   

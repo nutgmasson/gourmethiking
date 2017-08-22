@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, Gourmet Hiking; all rights reserved.</copyright>
-    <lastBuildDate>Thu, 17 Aug 2017 10:08:55 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Aug 2017 16:50:59 -0800</lastBuildDate>
     
 	<atom:link href="http://gourmethiking.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What are your fluid needs at high altitudes?</title>
+      <link>http://gourmethiking.com/blog-post/altitude-fluid/</link>
+      <pubDate>Mon, 21 Aug 2017 16:50:59 -0800</pubDate>
+      
+      <guid>http://gourmethiking.com/blog-post/altitude-fluid/</guid>
+      <description>Hiking and backpacking in remote (and awesome) places such as mountains and glaciers often means reaching higher altitudes than where we normally live. The higher we climb the more the effects of altitude will be felt, such as increased perception of effort (it becomes more difficult to perform the same task) and increased ventilation (breathing more heavily). Some effects of altitude are less noticeable, yet just as significant, such as changes in fluid needs.</description>
+    </item>
     
     <item>
       <title>Spinach and Peppers Egg Scramble with Hashbrowns</title>
