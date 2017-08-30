@@ -1,6 +1,6 @@
 +++
 date = "2017-08-29T16:50:59-08:00"
-title = "Menu for a 3-day backpacking trip with ingredients available at a grocery store"
+title = "Menu for a 3-day backpacking trip with ingredients available at your local grocery store"
 img = "3-day-menu/3-day-backpacking.jpg"
 excerpt = "No time to dehydrate all of your food before your next backpacking trip? Or to order online a bunch of different (and expensive) freeze-dried foods? It can be easy to make tasty and nutritious meals from ingredients available at your grocery stor"
 
