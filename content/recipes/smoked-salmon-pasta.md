@@ -31,7 +31,7 @@ Black pepper to taste
 - Stove + fuel
 - Pot large enough for 2 liters (8 cups)
 - Wooden spoon to mix
-- Bowls to eat (you could always eat directly in the pot, not judgement here!)
+- Bowls to eat (you could always eat directly in the pot, no judgement here!)
 - Sporks or forks!
  
 ## Before trip
