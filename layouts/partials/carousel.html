@@ -1,29 +1,23 @@
-{{ if isset .Site.Params "carousel" }}
-{{ if .Site.Params.carousel.enable }}
-{{ if gt (len .Site.Data.carousel) 0 }}
 <section>
-    <div class="home-carousel">
-        <div class="dark-mask"></div>
-        <div class="container">
-            <div class="homepage owl-carousel">
-                {{ range sort .Site.Data.carousel "weight" }}
-                <div class="item">
-                    <div class="row">
-                        <div class="col-sm-12 right">
-                            <h2>{{ .title }}</h2><br/>
-                            <span class="subtitle">{{ .description | safeHTML }}</span>
-                        </div>
-                        <!-- <div class="col-sm-7">
-                            <img class="img-responsive" src="{{ .image }}" alt="">
-                        </div> -->
-                    </div>
+    <div id="home-carousel" class="carousel slide" data-ride="carousel">
+
+        <ol class="carousel-indicators">
+            {{ range sort .Site.Data.carousel "weight" }}
+                <li data-target="#home-carousel" data-slide-to="{{ .weight }}" {{ if eq .weight 0 }} class="active"{{ end }}></li>
+            {{ end }}
+        </ol>
+
+        <div class="carousel-inner" role="listbox">
+            {{ range sort .Site.Data.carousel "weight" }}
+            <div class="item{{ if eq .weight 0 }} active{{ end }}">
+                <div class="carousel-image" style="background-image:url('img/carousel/{{ .image  }}')"></div>
+                <div class="carousel-caption">
+                    <h2>{{ .title }}</h2>
+                    <br/>
+                    <span class="subtitle">{{ .description | safeHTML }}</a></span>
                 </div>
-                {{ end }}
             </div>
-            <!-- /.project owl-slider -->
+            {{ end }}
         </div>
     </div>
 </section>
-{{ end }}
-{{ end }}
-{{ end }}

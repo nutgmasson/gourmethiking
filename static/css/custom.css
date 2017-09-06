@@ -45,21 +45,6 @@ div#copyright {
 	padding: 20px 0;
 }
 
-div.home-carousel {
-	height: 300px;
-}
-
-div.home-carousel .dark-mask {
-	display: none;
-}
-
-div.home-carousel .item h2, div.home-carousel .item span.subtitle {
-	background-color: white;
-	color: #44914e;
-	display: inline;
-	padding: 0 10px;
-}
-
 div.recipe-stats {
 	margin-bottom: 10px;
 	line-height: 40px;
@@ -103,4 +88,54 @@ img.recipe-right {
     .auto-clear .col-xs-3:nth-child(4n+1){clear:left;}
     .auto-clear .col-xs-4:nth-child(3n+1){clear:left;}
     .auto-clear .col-xs-6:nth-child(odd){clear:left;}
+}
+
+div#home-carousel {
+	height: 300px;
+}
+
+div#home-carousel div.carousel-inner {
+	height: 100%;
+}
+
+div#home-carousel div.carousel-inner div.item {
+	height: 100%;
+}
+
+div#home-carousel div.carousel-image {
+	background-repeat: repeat;
+	background-position: center center;
+	background-size: cover;
+	width: 100%;
+	height: 100%;
+}
+
+div#home-carousel .item .carousel-caption {
+	text-align: right;
+	top: 40px;
+	right: 10%;
+}
+
+div#home-carousel .item h2 {
+	font-weight: 700;
+	text-transform: uppercase;
+	font-size: 40px;
+	letter-spacing: 0.08em;
+}
+
+div#home-carousel .item span.subtitle {
+	font-size: 24px;
+}
+
+div#home-carousel .item span.subtitle a {
+	text-decoration: underline;
+}
+
+div#home-carousel .item h2, div#home-carousel .item span.subtitle {
+	background-color: white;
+	color: #333333;
+	display: inline;
+	padding: 0 10px;
+	text-shadow: none;
+	text-align: right;
 }
