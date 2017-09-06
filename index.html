@@ -26,6 +26,7 @@
   
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js">
 
   
   <link href="http://gourmethiking.com/css/animate.css" rel="stylesheet">
@@ -138,33 +139,51 @@
         
         
             
-
-
-
 <section>
-    <div class="home-carousel">
-        <div class="dark-mask"></div>
-        <div class="container">
-            <div class="homepage owl-carousel">
-                
-                <div class="item">
-                    <div class="row">
-                        <div class="col-sm-12 right">
-                            <h2>Bored of eating commercial bars?</h2><br/>
-                            <span class="subtitle">Try these <a href='/tags/snack'>unique snack recipes!</a></span>
-                        </div>
-                        
-                    </div>
+    <div id="home-carousel" class="carousel slide" data-ride="carousel">
+
+        <ol class="carousel-indicators">
+            
+                <li data-target="#home-carousel" data-slide-to="0"  class="active"></li>
+            
+                <li data-target="#home-carousel" data-slide-to="1" ></li>
+            
+                <li data-target="#home-carousel" data-slide-to="2" ></li>
+            
+        </ol>
+
+        <div class="carousel-inner" role="listbox">
+            
+            <div class="item active">
+                <div class="carousel-image" style="background-image:url('img/carousel/snowmass.jpg')"></div>
+                <div class="carousel-caption">
+                    <h2>Looking for new breakfast ideas?</h2>
+                    <br/>
+                    <span class="subtitle">Check out these <a href='/tags/breakfast'>recipes!</a></a></span>
                 </div>
-                
+            </div>
+            
+            <div class="item">
+                <div class="carousel-image" style="background-image:url('img/carousel/rainier.jpg')"></div>
+                <div class="carousel-caption">
+                    <h2>Pasta lovers?</h2>
+                    <br/>
+                    <span class="subtitle">Try these <a href='/tags/pasta'>pasta meals!</a></a></span>
+                </div>
+            </div>
+            
+            <div class="item">
+                <div class="carousel-image" style="background-image:url('img/carousel/enchantments.jpg')"></div>
+                <div class="carousel-caption">
+                    <h2>Bored of eating commercial bars?</h2>
+                    <br/>
+                    <span class="subtitle">Try these <a href='/tags/snack'>unique snack recipes!</a></a></span>
+                </div>
             </div>
             
         </div>
     </div>
 </section>
-
-
-
 
 
 <div id="content">
@@ -220,8 +239,31 @@
 </div>
     
 </div> 
+    <div class="row">
+	<div class="heading">
+    	<h2 style="margin-top: 0px;">Latest blog</h2>
+    </div>
+    
+        <div class="row">
+	<div class="col-xs-12 col-sm-3">
+		<a href="http://gourmethiking.com/blog-post/3-day-menu/">
+			<img src="/img/posts/3-day-menu/3-day-backpacking.jpg" class="img-responsive">
+		</a>
+	</div>
+	<div class="col-xs-12 col-sm-9">
+		<h2><a href="http://gourmethiking.com/blog-post/3-day-menu/">Menu for a 3-day backpacking trip with ingredients available at your local grocery store</a></h2>
+		<p>No time to dehydrate all of your food before your next backpacking trip? Or to order online a bunch of different (and expensive) freeze-dried foods? It can be easy to make tasty and nutritious meals from ingredients available at your grocery stor</p>
+		<p class="read-more">
+		  <a href="http://gourmethiking.com/blog-post/3-day-menu/" class="btn btn-template-main">Continue reading</a>
+		</p>
+	</div>
+</div>
+
+    
+</div>
+        
     <div class="heading">
-	<h2>Latest Product Reviews</h2>
+	<h2 style="margin-top: 40px;">Latest Product Reviews</h2>
 </div>
 <div class="row auto-clear">
     
@@ -269,29 +311,8 @@
 	</div>
 </div>
     
-</div>     
-    <div class="row">
-	<div class="heading">
-    	<h2>Latest blog</h2>
-    </div>
-    
-        <div class="row">
-	<div class="col-xs-12 col-sm-3">
-		<a href="http://gourmethiking.com/blog-post/3-day-menu/">
-			<img src="/img/posts/3-day-menu/3-day-backpacking.jpg" class="img-responsive">
-		</a>
-	</div>
-	<div class="col-xs-12 col-sm-9">
-		<h2><a href="http://gourmethiking.com/blog-post/3-day-menu/">Menu for a 3-day backpacking trip with ingredients available at your local grocery store</a></h2>
-		<p>No time to dehydrate all of your food before your next backpacking trip? Or to order online a bunch of different (and expensive) freeze-dried foods? It can be easy to make tasty and nutritious meals from ingredients available at your grocery stor</p>
-		<p class="read-more">
-		  <a href="http://gourmethiking.com/blog-post/3-day-menu/" class="btn btn-template-main">Continue reading</a>
-		</p>
-	</div>
 </div>
-
-    
-</div>             
+          
   </div>
 </div>
 
