@@ -1,7 +1,7 @@
 +++
 date = "2017-06-15T10:08:55-08:00"
 title = "Smoked Salmon Pasta"
-tags = ["dinner", "backpacking", "lightweight", "one-pot"]
+tags = ["dinner", "backpacking", "lightweight", "one-pot", "pasta"]
 img = "smoked_salmon_pasta.jpg"
 stat_servings = "3 hungry backpackers"
 stat_time = "5 min prep, 15 min cooking"

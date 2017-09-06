@@ -1,7 +1,7 @@
 +++
 date = "2017-07-19T10:08:55-08:00"
 title = "Oregano, Tomato and Sausage Orzo"
-tags = ["dairy-free", "dinner", "backpacking"]
+tags = ["dairy-free", "dinner", "backpacking", "pasta"]
 img = "oregano_tomato_orzo.jpg"
 stat_servings = "3 hungry backpackers"
 stat_time = "5 min prep, 20 min cooking"

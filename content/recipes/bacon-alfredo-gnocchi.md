@@ -1,7 +1,7 @@
 +++
 date = "2017-08-08T10:08:55-08:00"
 title = "Bacon Alfredo Gnocchi"
-tags = ["high-energy", "dinner", "backpacking"]
+tags = ["high-energy", "dinner", "backpacking", "pasta"]
 img = "bacon_alfredo_gnocchi.jpg"
 pin_img = "bacon_alfredo_gnocchi.jpg"
 stat_servings = "2 very hungry backpackers"

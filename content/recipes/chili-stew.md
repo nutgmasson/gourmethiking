@@ -1,7 +1,7 @@
 +++
 date = "2017-06-06T10:08:55-08:00"
 title = "Chili-Type Stew"
-tags = ["dairy-free", "dinner", "backpacking", "one-pot"]
+tags = ["dairy-free", "dinner", "backpacking", "one-pot", "pasta"]
 img = "chili_stew.jpg"
 pin_img = "chili_stew.jpg"
 stat_servings = "2 hungry backpackers"
