@@ -35,6 +35,9 @@ echo gourmethiking.com >> CNAME
 echo "Updating gh-pages branch"
 git add --all && git commit -m "Publishing to gh-pages (deploy.sh)"
 
+echo "Fetching remote branches"
+git fetch
+
 echo "Pushing changes to gh-pages"
 git push origin gh-pages
 
