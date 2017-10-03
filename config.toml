@@ -1,7 +1,7 @@
 DefaultContentLanguage = "en-US"
 languageCode = "en-US"
 title = "Gourmet Hiking"
-baseurl = "http://gourmethiking.com/"
+baseurl = "//gourmethiking.com/"
 theme = "hugo-universal-theme"
 
 # Define the number of posts per page
