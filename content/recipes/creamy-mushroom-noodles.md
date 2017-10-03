@@ -1,6 +1,6 @@
 +++
 date = "2017-09-30T10:08:55-08:00"
-title = "Creamy Mushroom Egg noodles"
+title = "Creamy Mushroom Egg Noodles"
 tags = ["dinner", "backpacking", "one-pot", "pasta"]
 img = "mushroom_noodle_top.jpg"
 stat_servings = "3 backpackers"
