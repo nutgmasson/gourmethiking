@@ -1,5 +1,5 @@
 +++
-date = "2017-10-12T16:50:59-08:00"
+date = "2017-10-12T8:50:59-08:00"
 title = "Tons of ideas to pimp your pasta meals on the trail"
 img = "/pasta-ideas/pasta_meals.jpg"
 excerpt = "Pasta and other wheat products have a kind of a bad reputation these days. This is too bad because pasta is rich in carbohydrates, the preferred energy source of muscles while hiking and performing other physical activity tasks."
