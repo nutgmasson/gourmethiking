@@ -1,7 +1,7 @@
 +++
 date = "2017-09-05T10:08:55-08:00"
 title = "Sun Dried Tomato and Basil Pesto Tortellini"
-tags = ["dinner", "vegetarian", "backpacking", "one-pot"]
+tags = ["dinner", "vegetarian", "backpacking", "one-pot", "pasta"]
 img = "tortellinis_prep.jpg"
 pin_img = "sundried_tortellinis_pin.jpg"
 stat_servings = "2 hungry backpackers"

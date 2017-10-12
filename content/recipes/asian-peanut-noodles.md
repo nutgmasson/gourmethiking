@@ -1,7 +1,7 @@
 +++
 date = "2017-10-10T10:08:55-08:00"
 title = "Asian Peanut Noodles"
-tags = ["dinner", "vegetarian", "vegan", "dairy-free", "high-energy", "backpacking", "one-pot"]
+tags = ["dinner", "vegetarian", "vegan", "dairy-free", "high-energy", "backpacking", "one-pot", "pasta"]
 img = "asian_peanut.jpg"
 pin_img = "asian_peanut_noodles.jpg"
 stat_servings = "2 hungry backpackers"
