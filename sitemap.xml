@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//gourmethiking.com/blog-post/pasta-ideas/</loc>
+    <lastmod>2017-10-12T16:50:59-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//gourmethiking.com/recipes/apple-pecan-muffins/</loc>
     <lastmod>2017-10-10T10:08:55-08:00</lastmod>
   </url>
@@ -234,7 +239,7 @@
   
   <url>
     <loc>//gourmethiking.com/blog-post/</loc>
-    <lastmod>2017-08-29T16:50:59-08:00</lastmod>
+    <lastmod>2017-10-12T16:50:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -293,7 +298,7 @@
   
   <url>
     <loc>//gourmethiking.com/</loc>
-    <lastmod>2017-10-10T10:08:55-08:00</lastmod>
+    <lastmod>2017-10-12T16:50:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -335,7 +340,7 @@
   
   <url>
     <loc>//gourmethiking.com/tags/pasta/</loc>
-    <lastmod>2017-09-30T10:08:55-08:00</lastmod>
+    <lastmod>2017-10-10T10:08:55-08:00</lastmod>
     <priority>0</priority>
   </url>
   
