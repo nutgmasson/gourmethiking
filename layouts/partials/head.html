@@ -67,7 +67,7 @@
   <meta property="og:description" content="{{ .Description }}">
   {{ end }}
   {{ if .Params.pin_img }}
-  <meta property="og:image" content="{{ .Site.BaseURL }}img/recipes/pins/{{ .Params.pin_img }}">
+  <meta property="og:image" content="http:{{ .Site.BaseURL }}img/recipes/pins/{{ .Params.pin_img }}">
   {{ end }}
 
 </head>
