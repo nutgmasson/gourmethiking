@@ -12,10 +12,10 @@ Reaching a mountaintop still covered with snow in August, exploring glaciers at 
 
 
 ## Soups
-A great way to warm up and rehydrate after a long day in the backcountry. Since most commercial dehydrated soups are low in calories and proteins, you should consider only using those for an appetizer and then have a proper meal. You can also make your own soup mixes such as the [vegetable and vermicelli soup](/recipes/vegetable_vermicelli_soup/). 
+A great way to warm up and rehydrate after a long day in the backcountry. Since most commercial dehydrated soups are low in calories and proteins, you should consider only using those for an appetizer and then have a proper meal. You can also make your own soup mixes, for example, [vegetable and vermicelli soup](/recipes/vegetable_vermicelli_soup/). 
 
 ## Stews, chili and other “saucy” comfort foods
-These dishes stay warm longer in your bowls while eating than “dryer” meals and generally contain more calories and protein than soups. Add richness and calories to your stews by including fat sources such as ghee, oil, coconut milk or powdered cream. Try these 2 delicious recipes: [chili-type stew](/recipes/chili-stew/) and [Indian lentil curry](/recipes/indian-lentil-curry/) 
+These dishes keep warm longer in your bowl while you eat than “dryer” meals and generally contain more calories and protein than soups. Add richness and calories to your stews by including fat sources such as ghee, oil, coconut milk or powdered cream. Try these 2 delicious recipes: [chili-type stew](/recipes/chili-stew/) and [Indian lentil curry](/recipes/indian-lentil-curry/) 
 
 
 ## Hot beverages
@@ -23,7 +23,7 @@ There is nothing like drinking a hot beverage on a cold day of adventuring. Carr
 
 
 ## Oatmeal
-Warm and quick to prepare, oatmeal is a great breakfast option on chilly mornings. It can also be a dinner on these nights when cooking in the cold just doesn’t sound appealing! Make sure to add protein and fat sources to make your oatmeal a consistent meal. Get some inspiration from these oatmeal recipes: [Choco-banana](/recipes/choco-banana-oatmeal/) and [Blueberry Pecan](/recipes/blueberry-pecan-oatmeal/). 
+Warm and quick to prepare, oatmeal is a great breakfast option on chilly mornings. It can also be served as dinner on those nights when cooking in the cold just doesn’t sound appealing! Make sure to add protein and fat sources to make your oatmeal a consistent meal. Get some inspiration from these oatmeal recipes: [Choco-banana](/recipes/choco-banana-oatmeal/) and [Blueberry Pecan](/recipes/blueberry-pecan-oatmeal/). 
 
 
 ## Boiling water filled Nalgene bottle in your sleeping bag
@@ -31,7 +31,7 @@ Ok, this one is not exactly a food option, but it helps to keep warm at night! W
 
 <br>
 
-There are tons of advice out there on how to keep warm by choosing the right gear or making sure you stay dry. And most of these tips can really make the difference between an enjoyable outdoor experience and a terrible one so I encourage you to pursue your researches on this topic. 
+There is a ton of advice out there on how to keep warm by choosing the right gear or making sure you stay dry. And most of these tips can really make the difference between an enjoyable outdoor experience and a terrible one so I encourage you to do research on the topic before you set off.
 
 <br>
 
