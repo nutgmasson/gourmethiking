@@ -23,7 +23,6 @@ Perfect for these laid-back mornings when watching the sunrise while sipping you
 ½ cup (125 ml) skim milk powder
 2 tbsp (30 ml) brown sugar
 2 tbsp (30 ml) canola oil
-1 tbsp (15 ml) brown sugar
 4 tbsp (60 ml) real maple syrup
 ½ cup (125 ml) chopped roasted pecans
 {{% /ingredients %}}
