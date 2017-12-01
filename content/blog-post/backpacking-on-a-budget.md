@@ -1,8 +1,10 @@
 +++
+
 date = "2017-04-26T20:39:00-07:00"
 title = "Shopping for Backpacking Food at the Grocery Store"
 excerpt = "No time to shop online for specialized freeze-dried or dehydrated foods? Your regular grocery store has a lot more to offer for backpacking foods than you might think!"
 img = "grocery_shopping/thumbnail.jpg"
+draft=true
 
 +++
 
