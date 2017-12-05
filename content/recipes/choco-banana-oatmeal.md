@@ -4,7 +4,7 @@ title = "Choco-banana oatmeal"
 tags = ["vegetarian", "gluten-free", "breakfast", "backpacking", "low-water", "lightweight", "one-pot"]
 # Add two images with this name under static
 img = "choco_banana_oatmeal.jpg"
-pin_img = "choco_banana_oatmeal.jpg"
+pin_recipe = "choco_banana_oatmeal.jpg"
 stat_servings = "3 hungry backpacker"
 stat_time = "5 min prep, 3 min cooking"
 stat_weight = "135g / serving"
