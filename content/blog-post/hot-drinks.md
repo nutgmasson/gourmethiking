@@ -2,6 +2,7 @@
 date = "2017-12-04T16:50:59-08:00"
 title = "Top 10 Hot Drinks to Fuel Your Winter Adventures"
 img = "hot-drinks/thumbnail.jpg"
+pin_post = "hot-drinks/pin.jpg"
 excerpt = "There is nothing more satisfying on a winter adventure than sipping on a hot drink while looking at an amazing snow-covered view. What about making this moment even more satisfying by bringing tasteful drinks on your adventures."
 
 +++
