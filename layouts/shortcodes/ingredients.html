@@ -1,6 +1,11 @@
 <h2 id="ingredients">Ingredients</h2>
+
+{{ if in (.Inner | htmlUnescape) "gourmethiking-20" }}
+<p><small>Note: This recipe contains affiliate links. You can read my disclosure <a href="#affiliateDisclosure" data-target="#affiliateDisclosure" data-toggle="modal">here</a>.</small></p>
+{{ end }}
+
 <ul>
 {{ range split (.Inner | chomp) "\n" }}
-	<li itemprop="ingredients">{{ . | plainify }}</li>
+	<li itemprop="ingredients">{{  . | replaceRE "(<p>|</p>)" ""  | safeHTML }}</li>
 {{ end }}
 </ul>

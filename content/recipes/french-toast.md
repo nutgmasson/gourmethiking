@@ -18,8 +18,8 @@ nf_fat = 31.8 # in g
 Perfect for these laid-back mornings when watching the sunrise while sipping your coffee and enjoying a delicious breakfast is more important than hitting the trail early! Feel free to add your personal twist by changing the toppings: walnuts + honey or cranberries + white chocolate + macademia nuts. Just make sure to include nuts or seeds to bump the energy (calorie) content of your meal.
 
 {{% ingredients %}}
-9 Engligh muffin halves (4.5 English muffin)
-½ cup (125 ml) dehydrated whole eggs
+9 English muffin halves (4.5 English muffin)
+½ cup (125 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B01G24Z06G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G24Z06G&linkCode=as2&tag=gourmethiking-20&linkId=aebfb956080e1a1ff91385b93e66d8e5">dehydrated whole eggs</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B01G24Z06G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ½ cup (125 ml) skim milk powder
 2 tbsp (30 ml) brown sugar
 2 tbsp (30 ml) canola oil
