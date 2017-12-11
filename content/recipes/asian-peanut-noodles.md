@@ -19,19 +19,19 @@ This recipe includes the peanut trio for real fans: chopped peanuts, real peanut
 
 {{% ingredients %}}
 (5.3 oz) 150 g thick rice noodles (like the ones for pad thai)
-½ cup (125 ml) textured vegetable protein (TVP)*
-½ cup (125 ml) mix of dried bell peppers
-¼ cup ( 60 ml) dried wakame seaweed**
-¼ cup ( 60 ml) dried carrots
+½ cup (125 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B001O8KG74/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001O8KG74&linkCode=as2&tag=gourmethiking-20&linkId=aa10f3cdf53a5f6a2c7ad1aed9b2ab46">textured vegetable protein (TVP)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B001O8KG74" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> *
+½ cup (125 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7D2D6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7D2D6&linkCode=as2&tag=gourmethiking-20&linkId=5b56f5d3ec2990fd9813ea9dcb7dcabc">mix of dried bell peppers</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7D2D6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+¼ cup ( 60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B001BKNFSC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001BKNFSC&linkCode=as2&tag=gourmethiking-20&linkId=d75537bbcae364c08bbfe0379b4598a7">dried wakame seaweed</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B001BKNFSC" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> **
+¼ cup ( 60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7H412/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7H412&linkCode=as2&tag=gourmethiking-20&linkId=578f903ee879e402f0754f49c92adfb0">dried carrots</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7H412" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 2 tbsp (30 ml) dried chives
 2 tsp (10 ml) ground ginger
 1 tsp (5 ml) pepper flakes
-½ cup (125 ml) powdered peanut butter
+½ cup (125 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B004P4POZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004P4POZ8&linkCode=as2&tag=gourmethiking-20&linkId=cbbb3cc498f04ae07cf096c072ad6028">powdered peanut butter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B004P4POZ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ½ cup (125 ml) chopped peanuts
 2 tbsp (30 ml) sesame seeds
 1 tbsp (15 ml) brown sugar
 4 individual (7 ml) packages of soy sauce 
-2 oz (60 ml) peanut butter (I used 2 individual packages of Justin’s)
+2 oz (60 ml) peanut butter (I used 2 <a target="_blank" href="https://www.amazon.com/gp/product/B00E1XPY3A/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00E1XPY3A&linkCode=as2&tag=gourmethiking-20&linkId=bffe7242471b2a6ea91e5c7ae88b249d">individual packages of Justin’s</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00E1XPY3A" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
 {{% /ingredients %}}
 
 ## Equipment
