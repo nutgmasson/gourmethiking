@@ -42,5 +42,5 @@ A few fresh rosemary leaves (optional)
 1. Let it cool down before slicing. 
 1. Enjoy and make sure to save some for your adventure!
 
-*The dough is gonna be wetter than a regular bread. It is ok and you do not need to knead it.
+*The dough will be wetter than a regular bread. It is ok. No need to knead it.
 
