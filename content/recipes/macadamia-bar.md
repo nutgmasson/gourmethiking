@@ -40,7 +40,7 @@ These bars will fuel your winter adventures and put a smile on your face after e
 1. Add the vanilla extract.
 1. In a large bowl, mix the baking powder, oats, whole wheat flour, skim milk powder, sweetened shredded coconut and salt.
 1. Add the date and raspberry mix and stir well. 
-1. Add the macadamia nuts and mix again.
+1. Add the macadamia nuts and the rest of the frozen raspberries (½ cup or 125 ml) and mix again.
 1. Oil a 9x13” rectangular pan and spread the dough in it.
 1. Bake for 40 minutes in a preheated oven at 350F (175C).
 1. Let it cool for at least 1 hour. 
