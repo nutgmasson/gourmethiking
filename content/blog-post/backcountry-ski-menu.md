@@ -1,6 +1,7 @@
 +++
 date = "2018-01-24T20:39:00-07:00"
 title = "Menu for the Intense Backcountry Skier"
+pin_post = "backcountry-ski-menu/pin.jpg"
 excerpt = "The intense backcountry skier skins up as quickly as possible in the early morning to have fresh tracks and repeats this as often as possible well into the afternoon (or until the avalanche risk becomes too high)."
 img = "backcountry-ski-menu/blewett_pass.jpg"
 
@@ -68,7 +69,7 @@ Water needs vary greatly from one person to the other and based on weather. Howe
 
 
 
-This menu represents only a generic example and might not meet your specific needs. If you need specific advice for a particular condition or trip, please feel reach out to me. 
+This menu represents only a generic example and might not meet your specific needs. If you need specific advice for a particular condition or trip, please reach out to me. 
 
 <br>
 
