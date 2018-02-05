@@ -2,7 +2,7 @@
 date = "2018-02-05T16:50:59-08:00"
 title = "5 tips for the perfect foodie Valentine’s Day in the Backcountry"
 img = "valentine-day/garibaldi.jpg"
-pin_post = "hot-drinks/pin.jpg"
+pin_post = "valentine-day/valentine-pin.jpg"
 excerpt = "This year for Valentine’s Day, why not doing something different? Your partner or spouse prefers the quietness of nature to the crowded environment of restaurants? And thinks there is nothing like spending time together hiking, snowshoeing or skiing?  Instead of going to a restaurant with your lover (and some many other couples!), why not packing lovely food and enjoy it in the outdoors?  Check out these five pieces of advice for a successful outdoor Valentine’s Day."
 
 +++
