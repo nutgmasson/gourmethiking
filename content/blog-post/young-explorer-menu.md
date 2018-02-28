@@ -3,7 +3,7 @@ date = "2018-02-27T20:39:00-07:00"
 title = "Menu for the Young Explorers"
 pin_post = "young-explorer-menu/pin.jpg"
 excerpt = "The young explorers are happy (or sometimes not that happy) to follow their parents in the outdoors. Depending on the personality and the energy level of the young explorer, the moving pace can be pretty high or painfully slow. But what should we feed these young explorers? "
-img = "birdwatcher-menu/birdwatcher.jpg"
+img = "young-explorer-menu/young-explorer.jpg"
 
 +++
 
