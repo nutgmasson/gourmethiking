@@ -1,6 +1,6 @@
 +++
 date = "2018-01-11T10:08:55-08:00" 
-title = "Maple candied pecans and apples with sea salt spinkles"  
+title = "Maple candied pecans and apples with sea salt sprinkles"  
 tags = ["vegetarian", "vegan", "gluten-free", "dairy-free", "snack", "dessert","lightweight", "day hike", "backpacking", "low-water", "ready to eat", "freezes"]
 img = "maple_candied_pecans.jpg"
 pin_recipe = "maple_candied_pecans.jpg"
