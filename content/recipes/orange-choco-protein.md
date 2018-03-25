@@ -24,7 +24,7 @@ Some Canadian friends told me these protein balls remind them of the famous Tim 
 2 tsp (10 ml) fresh orange zest
 3 tbsp (45 ml) cocoa
 1 cup (250 ml) quick oats
-¾ cup (175 ml) whey protein isolate
+¾ cup (175 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B00ATFPG8C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00ATFPG8C&linkCode=as2&tag=gourmethiking-20&linkId=4002dd0951e440d927255338dfd758d6">whey protein isolate</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00ATFPG8C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ⅓ cup (80 ml) coconut flour, divided
 {{% /ingredients %}}
 
