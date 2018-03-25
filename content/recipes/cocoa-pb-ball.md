@@ -21,11 +21,10 @@ Sweet to perfection, these energy balls were a success on a backcountry ski trip
 ¾ cup (175 ml) chopped dates
 ½ cup (125 ml) water
 1 cup (250 ml) old-fashioned oats
-⅓ cup (80 ml) powdered peanut butter*
+⅓ cup (80 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B004P4POZ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004P4POZ8&linkCode=as2&tag=gourmethiking-20&linkId=cbbb3cc498f04ae07cf096c072ad6028">powdered peanut butter</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B004P4POZ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 2 tbsp (30 ml) cocoa
 {{% /ingredients %}}
 
-\* I used the PB2 powdered peanut butter.
 
 ## Preparation
 
