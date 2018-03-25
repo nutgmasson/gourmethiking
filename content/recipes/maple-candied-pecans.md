@@ -21,7 +21,7 @@ The fanciest of trail mixes, this mix combines sweet and salty flavors for a pre
 ½ cup (125 ml) gluten-free puffed rice
 1 cup (250 ml) pecans
 ½ cup (125 ml) dried apples
-¼ cup (60 ml) maple syrup
+¼ cup (60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B009VFUO1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009VFUO1K&linkCode=as2&tag=gourmethiking-20&linkId=af7d394231577522b2c7a5bd3b15870f">real maple syrup</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B009VFUO1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ½ tsp. (2.5 ml) sea salt
 {{% /ingredients %}}
 ## Preparation
