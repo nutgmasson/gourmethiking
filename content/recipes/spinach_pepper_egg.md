@@ -18,18 +18,16 @@ nf_fat = 40.7 # in g
 This recipe is very filling with a surprising 26g of protein per serving. It is also delicious and a nice change from the sweet breakfast options.
 
 {{% ingredients %}}
-1 cup (250 ml) dehydrated whole eggs
-1 tbsp (15 ml) dried chives
-3 tbsp (45 ml) dried bell peppers (I used a mix of green and red peppers)
-3 tbsp (45 ml) dried spinach
+1 cup (250 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B01G24Z06G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G24Z06G&linkCode=as2&tag=gourmethiking-20&linkId=aebfb956080e1a1ff91385b93e66d8e5">dehydrated whole eggs</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B01G24Z06G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+1 tbsp (15 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7IGTQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7IGTQ&linkCode=as2&tag=gourmethiking-20&linkId=f4af7ca9eb5b401ed64af271716268bb">dried chives</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7IGTQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+3 tbsp (45 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7D2D6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7D2D6&linkCode=as2&tag=gourmethiking-20&linkId=9f4e3c3870f8f3672bafc88d846b7af2">dried bell peppers</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7D2D6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (I used a mix of green and red peppers)
+3 tbsp (45 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7PPY0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7PPY0&linkCode=as2&tag=gourmethiking-20&linkId=c688f0b48387d2f3ec9f77638a97cccc">dried spinach</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7PPY0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 2 tsp (10 ml) dried basil
 ½ tsp (2.5 ml) salt
 Ground black pepper to taste
-4.2 oz. (119g) of dehydrated hashbrowns potatoes* 
+4.2 oz. (119g) <a target="_blank" href="https://www.amazon.com/gp/product/B01H6GRIPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01H6GRIPK&linkCode=as2&tag=gourmethiking-20&linkId=beda58a94d73baab76ebdec00e109781">dehydrated hashbrowns potatoes</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B01H6GRIPK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 3 tbsp (45 ml) canola oil
 {{% /ingredients %}}
-
-\* I used the brand “Golden Grill”
 
 ## Equipment
 - Stove + fuel
