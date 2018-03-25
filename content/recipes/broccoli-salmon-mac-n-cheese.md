@@ -16,7 +16,7 @@ Forget the Mac&Cheese mix in a box. This recipe is rich and provides a generous 
  
 {{% ingredients %}}
 2 cups (500 ml) dry macaroni
-3 cups of freeze dried broccoli (I used Mother Earth Products)
+3 cups of <a target="_blank" href="https://www.amazon.com/gp/product/B00846WORO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00846WORO&linkCode=as2&tag=gourmethiking-20&linkId=61f739a2f45abd6063dc8d1ea748a725">freeze dried broccoli</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00846WORO" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (I used Mother Earth Products)
 ¾ cup of broccoli and cheddar soup mix (I used the brand Bear Creek but any other brand would work)
 1 tsp (5 ml) dried herbs (I used basil)
 ½ tsp (2.5 ml) of pepper flakes
