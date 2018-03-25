@@ -23,7 +23,7 @@ Perfect for these laid-back mornings when watching the sunrise while sipping you
 ½ cup (125 ml) skim milk powder
 2 tbsp (30 ml) brown sugar
 2 tbsp (30 ml) canola oil
-4 tbsp (60 ml) real maple syrup
+4 tbsp (60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B009VFUO1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009VFUO1K&linkCode=as2&tag=gourmethiking-20&linkId=af7d394231577522b2c7a5bd3b15870f">real maple syrup</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B009VFUO1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ½ cup (125 ml) chopped roasted pecans
 {{% /ingredients %}}
 
