@@ -15,7 +15,7 @@ nf_fat = 5.2 # in g
 +++
 
 {{% ingredients %}}
-¼ cup (60 ml) freeze dried raspberries
+¼ cup (60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B00CQN07UW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00CQN07UW&linkCode=as2&tag=gourmethiking-20&linkId=86080b0704c5670f443c8ded33a172b0">freeze dried raspberries</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00CQN07UW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 2 Oreo cookies, crushed
 3 tbsp. (45 ml) instant chocolate pudding mix
 3 tbsp. (45 ml) powdered skim milk
