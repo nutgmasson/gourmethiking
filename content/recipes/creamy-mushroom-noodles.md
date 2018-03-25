@@ -20,14 +20,14 @@ Perfect recipe for mushroom lovers! Rich and creamy, this dish is the perfect co
 
 {{% ingredients %}}
 3 ½  cups (875 ml) dry egg noodles
-¾ cup (175 ml) freeze-dried white mushrooms
+¾ cup (175 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B0084FTR3O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0084FTR3O&linkCode=as2&tag=gourmethiking-20&linkId=a439774fda24a7e58b54e02ab2c557ac">freeze dried white mushrooms</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B0084FTR3O" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ¾ cup (175 ml) dried chanterelle mushrooms
-¾ cup (175 ml) textured vegetable protein (TVP)
+¾ cup (175 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B001O8KG74/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001O8KG74&linkCode=as2&tag=gourmethiking-20&linkId=aa10f3cdf53a5f6a2c7ad1aed9b2ab46">textured vegetable protein (TVP)</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B001O8KG74" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 1 cube beef broth
 1 tbsp (15 ml) dried tarragon
-3 tbsp (45 ml) dried chives
+3 tbsp (45 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7IGTQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7IGTQ&linkCode=as2&tag=gourmethiking-20&linkId=f4af7ca9eb5b401ed64af271716268bb">dried chives</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7IGTQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 Black pepper to taste
-1 can (225 ml) of Nestlé Media Crema Table (thick cream)
+1 can (225 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B00D31FJ0E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00D31FJ0E&linkCode=as2&tag=gourmethiking-20&linkId=021c02757c8dce2b539f6197d711bc20">Table Cream by Nestlé</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00D31FJ0E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (thick cream)
 {{% /ingredients %}}
 
 ## Equipment
