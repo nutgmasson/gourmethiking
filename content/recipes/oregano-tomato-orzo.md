@@ -20,7 +20,7 @@ This recipe is perfect for overnight backpacking trips or when weight and space 
 2 tbsp. (30 ml) olive oil
 2 packages of cooked chicken sausages (12 oz or 340g each)*
 2  cups (500 ml) dry orzo 
-⅔ cup (150 ml) dried vegetables ( I used a mix)
+⅔ cup (150 ml) dried vegetables (I used a mix)
 1 tsp. (10 ml) dried oregano leaves
 4.5 oz (127 g) double-concentrated tomato paste. 
 {{% /ingredients %}}
