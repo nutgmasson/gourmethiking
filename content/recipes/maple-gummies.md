@@ -21,7 +21,7 @@ This is the perfect snack for high intensity workouts. Going for a stairs traini
 {{% ingredients %}}
 3 tbsp (45 ml) water
 2 envelopes (7.2 g each) of <a target="_blank" href="https://www.amazon.com/gp/product/B007Y3HM5C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007Y3HM5C&linkCode=as2&tag=gourmethiking-20&linkId=916c353fd3b7174702edca2815ca4dec">unflavored gelatin</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007Y3HM5C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-⅓ cup (80 ml) real maple syrup
+⅓ cup (80 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B009VFUO1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009VFUO1K&linkCode=as2&tag=gourmethiking-20&linkId=af7d394231577522b2c7a5bd3b15870f">real maple syrup</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B009VFUO1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ¼ tsp (1.25 ml) sea salt
 {{% /ingredients %}}
 
