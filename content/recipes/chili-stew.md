@@ -20,9 +20,9 @@ This stew is inspired by chili sin carne recipes. The black bean pasta replace b
  
 {{% ingredients %}}
 1 ½ cup (375 ml) black bean pasta (I used Black Bean Rotini by Trader Joe’s)
-¾ cup (175 ml) freeze-dried corn
-½ cup (125 ml) dehydrated tomatoes
-⅓ cup (80 ml) dehydrated carrots 
+¾ cup (175 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B008470PLU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008470PLU&linkCode=as2&tag=gourmethiking-20&linkId=0a9b9ec5eb7a9f1099e1dae915f6aef0">freeze dried corn</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B008470PLU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+½ cup (125 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7QPTE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7QPTE&linkCode=as2&tag=gourmethiking-20&linkId=2aa348dd83b1d5ed4b3cae99daf89db6">dried tomatoes</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7QPTE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+⅓ cup (80 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7H412/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7H412&linkCode=as2&tag=gourmethiking-20&linkId=dca0b5345d36a863caf9e53e0996439b">dried carrots</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7H412" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
 4 tsp (20 ml) chicken broth powder\*
 1 tbsp (15 ml) chili powder
 1 tsp (5 ml) paprika
