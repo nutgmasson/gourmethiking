@@ -20,8 +20,8 @@ Rich in flavor (and in calories!), this recipe is perfect for these difficult ov
 {{% ingredients %}}
 1 package of 17.6 oz (500g) gnocchi
 3.25 oz. (92g) pre-cooked bacon
-1 can 7.6 fl. oz. (225 ml) table cream (I used Table Cream by Nestlé)
-2 tbsp. (30 ml) dried chives
+1 can 7.6 fl. oz. (225 ml) table cream (I used <a target="_blank" href="https://www.amazon.com/gp/product/B00D31FJ0E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00D31FJ0E&linkCode=as2&tag=gourmethiking-20&linkId=021c02757c8dce2b539f6197d711bc20">Table Cream by Nestlé</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00D31FJ0E" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />)
+2 tbsp. (30 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7IGTQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7IGTQ&linkCode=as2&tag=gourmethiking-20&linkId=f4af7ca9eb5b401ed64af271716268bb">dried chives</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7IGTQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 1 tbsp. (15 ml) dried parsley
 ⅓ cup (80 ml) parmigiano reggiano, shredded
 ¼ tsp. (1 ml) salt
