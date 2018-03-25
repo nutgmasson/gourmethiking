@@ -17,15 +17,14 @@ nf_fat = 35.5 # in g
 If you like bacon, you’ll love this recipe! It is filling, with 18g of protein per serving, it is a good way to start a day in the outdoors!
 
 {{% ingredients %}}
-½ cup (125 ml) dehydrated whole eggs
-1 tbsp. (15 ml) dried chives
+½ cup (125 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B01G24Z06G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G24Z06G&linkCode=as2&tag=gourmethiking-20&linkId=aebfb956080e1a1ff91385b93e66d8e5">dehydrated whole eggs</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B01G24Z06G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+1 tbsp. (15 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7IGTQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7IGTQ&linkCode=as2&tag=gourmethiking-20&linkId=f4af7ca9eb5b401ed64af271716268bb">dried chives</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7IGTQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ⅓ cup (80 ml) real crumbled bacon (the ones for salads)
 3 tbsp. (45 ml) canola oil
-4.2 oz. (119g) of dehydrated hashbrowns potatoes* 
+4.2 oz. (119g) <a target="_blank" href="https://www.amazon.com/gp/product/B01H6GRIPK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01H6GRIPK&linkCode=as2&tag=gourmethiking-20&linkId=beda58a94d73baab76ebdec00e109781">dehydrated hashbrowns potatoes</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B01H6GRIPK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 salt and pepper
 {{% /ingredients %}}
 
-\* I used the brand “Golden Grill”
 
 ## Equipment
 - Stove + fuel
