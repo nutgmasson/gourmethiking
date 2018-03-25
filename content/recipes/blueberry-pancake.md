@@ -20,10 +20,10 @@ Pancakes are delicious at home and even better on the trail. Topped with real ma
 {{% ingredients %}}
 ⅔ cup (150 ml) all-purpose flour
 4 tbsp. (60 ml) skim milk powder
-4 tbsp. (60 ml) dried whole eggs
-4 tbsp. (60 ml) real maple syrup
+4 tbsp. (60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B01G24Z06G/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01G24Z06G&linkCode=as2&tag=gourmethiking-20&linkId=aebfb956080e1a1ff91385b93e66d8e5">dehydrated whole eggs</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B01G24Z06G" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+4 tbsp. (60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B009VFUO1K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009VFUO1K&linkCode=as2&tag=gourmethiking-20&linkId=af7d394231577522b2c7a5bd3b15870f">real maple syrup</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B009VFUO1K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 2 tsp. (10 ml) baking powder
-½ cup (125 ml) dried blueberries
+½ cup (125 ml) <a target="_blank" href="https://www.amazon.com/dp/B012XC03DQ/ref=sxr_rr_xsim_1?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_p=3513574162&amp;pd_rd_wg=NxCQA&amp;pf_rd_r=NWFJXGAPHWF9A0GKYCKS&amp;pf_rd_s=desktop-rhs-carousels&amp;pf_rd_t=301&amp;pd_rd_i=B012XC03DQ&amp;pd_rd_w=358AM&amp;pf_rd_i=dried%2Bblueberries&amp;pd_rd_r=415e1070-4f12-4c83-80e1-476a9b0e07e2&amp;ie=UTF8&amp;qid=1522014210&amp;sr=1&amp;th=1&_encoding=UTF8&tag=gourmethiking-20&linkCode=ur2&linkId=e0a94e21bb77799ed6decc27eda01a97&camp=1789&creative=9325">dried blueberries</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 1 pinch of salt
 2 tbsp. (30 ml) canola oil
 {{% /ingredients %}}
