@@ -20,7 +20,7 @@ Super easy recipe to cook in the outdoor that will remember you of India, wherev
  
 {{% ingredients %}}
 1 tbsp (15 ml) olive or canola oil
-⅓ cup (80 ml) dried chives or onions
+⅓ cup (80 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7IGTQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7IGTQ&linkCode=as2&tag=gourmethiking-20&linkId=f4af7ca9eb5b401ed64af271716268bb">dried chives</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7IGTQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> or onions
 1 tbsp (15 ml) curry powder
 1 tsp (5 ml) turmeric
 ½ tsp (2 ml) fennel seeds
@@ -35,7 +35,7 @@ Super easy recipe to cook in the outdoor that will remember you of India, wherev
 1 can (14 oz or 400 ml) coconut milk\*
 {{% /ingredients %}}
 
-\*For lightweight recipe, substitute by coconut milk powder. It can be found in most Asian grocery stores.
+\*For lightweight recipe, substitute by <a target="_blank" href="https://www.amazon.com/gp/product/B015HT13H2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B015HT13H2&linkCode=as2&tag=gourmethiking-20&linkId=97ff2eb8c8b426b53dba0226c6d76843">coconut milk powder</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B015HT13H2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. It can be found in most Asian grocery stores.
  
 ## Equipment
 - Stove + fuel
