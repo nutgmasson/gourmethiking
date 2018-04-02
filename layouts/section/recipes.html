@@ -5,9 +5,112 @@
 <div id="content">
     <div class="container">
         <div class="row auto-clear">
-            {{ range sort .Data.Pages "Title" }}
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/dinner">
+                        <img src="/img/recipes/thumbnails/mushroom_noodle_top.jpg" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/dinner">Dinner</a></h3>
+                     </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/breakfast">
+                        <img src="/img/recipes/thumbnails/oatmeal_blueberries_pecan.jpg" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/breakfast">Breakfast</a></h3>
+                     </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/snack">
+                        <img src="/img/recipes/thumbnails/molasse_cookie.JPG" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/snack">Snack</a></h3>
+                     </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/lunch">
+                        <img src="/img/recipes/thumbnails/cheese_ham_bread_2.jpg" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/lunch">Lunch</a></h3>
+                     </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/dessert">
+                        <img src="/img/recipes/thumbnails/dirt_pudding_choc_rasp.jpg" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/dessert">Dessert</a></h3>
+                     </div>
+                </div>
+            </div>            
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/drink">
+                        <img src="/img/recipes/thumbnails/hot_chocolate.jpg" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/drink">Drink</a></h3>
+                     </div>
+                </div>
+            </div>
+        </div>
+        <h2>Dietary restrictions</h2>
+        <div class="row auto-clear">            
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/vegan">
+                        <img src="/img/recipes/thumbnails/asian_peanut.jpg" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/vegan">Vegan</a></h3>
+                     </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/vegetarian">
+                        <img src="/img/recipes/thumbnails/tortellinis_prep.jpg" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/vegetarian">Vegetarian</a></h3>
+                     </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/gluten-free">
+                        <img src="/img/recipes/thumbnails/egg_bacon_hashbrown.jpg" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/gluten-free">Gluten-Free</a></h3>
+                     </div>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+                <div class="thumbnail">
+                    <a href="/tags/dairy-free">
+                        <img src="/img/recipes/thumbnails/indian_lentil_curry.jpg" class="img-responsive"/>
+                    </a>
+                    <div class="caption">
+                        <h3><a href="/tags/dairy-free">Dairy Free</a></h3>
+                     </div>
+                </div>
+            </div>
+            <!-- {{ range sort .Data.Pages "Title" }}
                 {{ .Render "thumbnail" }}
-            {{ end }}
+            {{ end }} -->
            <!--  {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
                 {{ range $page := $taxonomy.Pages | shuffle | first 1 }}
                     <div class="col-lg-3">
