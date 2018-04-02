@@ -25,7 +25,7 @@ Cocoa nibs provide a nice crunch to this oatmeal as well as balancing perfectly 
 4 tbsp. (60 ml) roasted sliced almonds
 2 tbsp. (30 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B077H6F69T/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B077H6F69T&linkCode=as2&tag=gourmethiking-20&linkId=822c44ca2ee9360dc9c75df54eef770c">roasted cocoa nibs</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B077H6F69T" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 1 tbsp. (15 ml) brown sugar
-1 pinch salt
+1 pinch of salt
 {{% /ingredients %}}
 
 ## Equipment
