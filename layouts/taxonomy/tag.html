@@ -31,16 +31,20 @@
 		        </div>
 	    	</div>
 	    	<div role="tabpanel" class="tab-pane" id="table">
-	    		<table class="table table-striped">
-	    			<tr>
-	    				<th>Recipe</th>
-	    				<th>Energy</th>
-	    				<th>Energy Density</th>
-	    				<th>Protein</th>
-	    			</tr>
-	    			{{ range .Data.Pages }}
-	    				{{ .Render "tablerow" }}
-	    			{{ end }}	    			
+	    		<table class="table table-striped" data-sortable>
+	    			<thead>
+	    				<tr>
+		    				<th data-sortable-type="alpha">Recipe</th>
+		    				<th data-sorted="true" data-sorted-direction="descending">Energy</th>
+		    				<th>Energy Density</th>
+		    				<th>Protein</th>
+		    			</tr>
+		    		</thead>
+		    		<tbody>
+		    			{{ range sort .Data.Pages "Params.nf_energy" "desc" }}
+		    				{{ .Render "tablerow" }}
+		    			{{ end }}	 
+	    			</tbody>   			
 	    		</table>
 	    	</div>
     	</div>
