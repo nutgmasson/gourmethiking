@@ -26,7 +26,6 @@
   
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js">
 
   
   <link href="//gourmethiking.com/css/animate.css" rel="stylesheet">
@@ -46,6 +45,9 @@
   <link rel="icon" type="image/png" href="//gourmethiking.com/img/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="//gourmethiking.com/img/favicon-16x16.png" sizes="16x16">
   
+
+  
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/sortable/0.8.0/css/sortable-theme-minimal.min.css">
 
   <link href="//gourmethiking.com/css/owl.carousel.css" rel="stylesheet">
   <link href="//gourmethiking.com/css/owl.theme.css" rel="stylesheet">
@@ -157,9 +159,29 @@
 
 <div id="content">
     <div class="container">
-        <div class="row auto-clear">
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    	<div class="row heading">
+    		<div class="col-sm-12">
+	    		<ul class="nav nav-pills" role="tablist">
+	    			<li role="presentation" class="active">
+	    				<a href="#gallery" aria-controls="gallery" role="tab" data-toggle="tab">
+	    					<span class="glyphicon glyphicon-th" aria-hidden="true"></span>
+	    					Gallery
+	    				</a>
+	    			</li>
+	    			<li role="presentation">	    				
+	    				<a href="#table" aria-controls="table" role="tab" data-toggle="tab">
+	    					<span class="glyphicon glyphicon-list" aria-hidden="true"></span>
+	    					Table
+	    				</a>
+	    			</li>
+	    		</ul>
+    		</div>
+    	</div>
+    	<div class="tab-content" style="border-width:0; padding:0;">
+    		<div role="tabpanel" class="tab-pane active" id="gallery">
+		        <div class="row auto-clear">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/raspberry-cocoa-oatmeal/">
 			<img src="/img/recipes/thumbnails/raspberry_nibs_oatmeal.JPG" class="img-responsive"/>
@@ -169,8 +191,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/french-toast/">
 			<img src="/img/recipes/thumbnails/french_toast.jpg" class="img-responsive"/>
@@ -180,8 +202,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/asian-peanut-noodles/">
 			<img src="/img/recipes/thumbnails/asian_peanut.jpg" class="img-responsive"/>
@@ -191,8 +213,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/creamy-mushroom-noodles/">
 			<img src="/img/recipes/thumbnails/mushroom_noodle_top.jpg" class="img-responsive"/>
@@ -202,8 +224,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/sundried-tortellinis/">
 			<img src="/img/recipes/thumbnails/tortellinis_prep.jpg" class="img-responsive"/>
@@ -213,8 +235,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/blueberry-pancake/">
 			<img src="/img/recipes/thumbnails/blueberry_pancake.jpg" class="img-responsive"/>
@@ -224,8 +246,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/dirt_pudding_choc_rasp/">
 			<img src="/img/recipes/thumbnails/dirt_pudding_choc_rasp.jpg" class="img-responsive"/>
@@ -235,8 +257,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/vegetable_vermicelli_soup/">
 			<img src="/img/recipes/thumbnails/vegetable_vermicelli_soup.jpg" class="img-responsive"/>
@@ -246,8 +268,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/choco-banana-oatmeal/">
 			<img src="/img/recipes/thumbnails/choco_banana_oatmeal.jpg" class="img-responsive"/>
@@ -257,8 +279,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/smoked-salmon-pasta/">
 			<img src="/img/recipes/thumbnails/smoked_salmon_pasta.jpg" class="img-responsive"/>
@@ -268,8 +290,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/hot-chocolate/">
 			<img src="/img/recipes/thumbnails/hot_chocolate.jpg" class="img-responsive"/>
@@ -279,8 +301,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/chili-stew/">
 			<img src="/img/recipes/thumbnails/chili_stew.jpg" class="img-responsive"/>
@@ -290,8 +312,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/blueberry-pecan-oatmeal/">
 			<img src="/img/recipes/thumbnails/oatmeal_blueberries_pecan.jpg" class="img-responsive"/>
@@ -301,8 +323,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/broccoli-salmon-mac-n-cheese/">
 			<img src="/img/recipes/thumbnails/broccoli_mac_cheese.jpg" class="img-responsive"/>
@@ -312,8 +334,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/indian-lentil-curry/">
 			<img src="/img/recipes/thumbnails/indian_lentil_curry.jpg" class="img-responsive"/>
@@ -323,8 +345,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/shrimp-and-rose-sauce-pasta/">
 			<img src="/img/recipes/thumbnails/shrimp_rose_sauce_pasta.jpeg" class="img-responsive"/>
@@ -334,8 +356,339 @@
 		 </div>
 	</div>
 </div>
-            
-        </div>
+		            
+		        </div>
+	    	</div>
+	    	<div role="tabpanel" class="tab-pane" id="table">
+	    		<table class="table table-striped" data-sortable>
+	    			<thead>
+	    				<tr>
+		    				<th data-sortable-type="alpha">Recipe</th>
+		    				<th data-sorted="true" data-sorted-direction="descending">Energy</th>
+		    				<th>Energy Density</th>
+		    				<th>Protein</th>
+		    			</tr>
+		    		</thead>
+		    		<tbody>
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/broccoli-salmon-mac-n-cheese/">Broccoli and Salmon Mac&amp;Cheese</a></td>
+	<td data-value="1086">
+		
+		1086 calories
+		
+	</td>
+	<td data-value="">
+		
+	</td>
+	<td data-value="47.6">
+		
+		47.6 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/asian-peanut-noodles/">Asian Peanut Noodles</a></td>
+	<td data-value="995">
+		
+		995 calories
+		
+	</td>
+	<td data-value="4.1">
+		
+		4.1 calories/g
+		
+	</td>
+	<td data-value="47.1">
+		
+		47.1 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/indian-lentil-curry/">Indian Lentil Curry</a></td>
+	<td data-value="855">
+		
+		855 calories
+		
+	</td>
+	<td data-value="5.6">
+		
+		5.6 calories/g
+		
+	</td>
+	<td data-value="22.5">
+		
+		22.5 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/shrimp-and-rose-sauce-pasta/">Shrimp and Rosé Sauce Pasta</a></td>
+	<td data-value="736">
+		
+		736 calories
+		
+	</td>
+	<td data-value="">
+		
+	</td>
+	<td data-value="42">
+		
+		42 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/raspberry-cocoa-oatmeal/">Raspberry and Cocoa Nibs Oatmeal</a></td>
+	<td data-value="675">
+		
+		675 calories
+		
+	</td>
+	<td data-value="4.1">
+		
+		4.1 calories/g
+		
+	</td>
+	<td data-value="27.6">
+		
+		27.6 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/french-toast/">Backpacker&#39;s French Toasts</a></td>
+	<td data-value="664">
+		
+		664 calories
+		
+	</td>
+	<td data-value="3.6">
+		
+		3.6 calories/g
+		
+	</td>
+	<td data-value="24.3">
+		
+		24.3 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/blueberry-pancake/">Blueberry Pancake</a></td>
+	<td data-value="627">
+		
+		627 calories
+		
+	</td>
+	<td data-value="7.6">
+		
+		7.6 calories/g
+		
+	</td>
+	<td data-value="16.5">
+		
+		16.5 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/smoked-salmon-pasta/">Smoked Salmon Pasta</a></td>
+	<td data-value="623">
+		
+		623 calories
+		
+	</td>
+	<td data-value="3.4">
+		
+		3.4 calories/g
+		
+	</td>
+	<td data-value="48">
+		
+		48 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/blueberry-pecan-oatmeal/">Blueberry Pecan Oatmeal</a></td>
+	<td data-value="620">
+		
+		620 calories
+		
+	</td>
+	<td data-value="4.1">
+		
+		4.1 calories/g
+		
+	</td>
+	<td data-value="19.3">
+		
+		19.3 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/sundried-tortellinis/">Sun Dried Tomato and Basil Pesto Tortellini</a></td>
+	<td data-value="609">
+		
+		609 calories
+		
+	</td>
+	<td data-value="4.4">
+		
+		4.4 calories/g
+		
+	</td>
+	<td data-value="19.9">
+		
+		19.9 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/chili-stew/">Chili-Type Stew</a></td>
+	<td data-value="576">
+		
+		576 calories
+		
+	</td>
+	<td data-value="2.4">
+		
+		2.4 calories/g
+		
+	</td>
+	<td data-value="26.6">
+		
+		26.6 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/choco-banana-oatmeal/">Choco-banana oatmeal</a></td>
+	<td data-value="572">
+		
+		572 calories
+		
+	</td>
+	<td data-value="4.2">
+		
+		4.2 calories/g
+		
+	</td>
+	<td data-value="17.8">
+		
+		17.8 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/creamy-mushroom-noodles/">Creamy Mushroom Egg Noodles</a></td>
+	<td data-value="497">
+		
+		497 calories
+		
+	</td>
+	<td data-value="2.7">
+		
+		2.7 calories/g
+		
+	</td>
+	<td data-value="20.9">
+		
+		20.9 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/dirt_pudding_choc_rasp/">Chocolate and Raspberries Dirt Pudding</a></td>
+	<td data-value="295">
+		
+		295 calories
+		
+	</td>
+	<td data-value="4">
+		
+		4 calories/g
+		
+	</td>
+	<td data-value="11">
+		
+		11 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/vegetable_vermicelli_soup/">Vegetable and Vermicelli Soup</a></td>
+	<td data-value="245">
+		
+		245 calories
+		
+	</td>
+	<td data-value="">
+		
+	</td>
+	<td data-value="10.2">
+		
+		10.2 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/hot-chocolate/">Homemade Hot Chocolate</a></td>
+	<td data-value="220">
+		
+		220 calories
+		
+	</td>
+	<td data-value="3.6">
+		
+		3.6 calories/g
+		
+	</td>
+	<td data-value="12">
+		
+		12 g
+		
+	</td>
+</tr>
+
+		    				 
+	    			</tbody>   			
+	    		</table>
+	    	</div>
+    	</div>
         
     </div>
     
@@ -415,6 +768,9 @@ ga('send', 'pageview');
 
 <script src="//gourmethiking.com/js/owl.carousel.min.js"></script>
 <script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="3e20a93d46eed55452adca08e6413a09" async="async"></script>
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/sortable/0.8.0/js/sortable.min.js"></script>
 
   </body>
 </html>

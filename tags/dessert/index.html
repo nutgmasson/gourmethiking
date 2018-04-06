@@ -26,7 +26,6 @@
   
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js">
 
   
   <link href="//gourmethiking.com/css/animate.css" rel="stylesheet">
@@ -46,6 +45,9 @@
   <link rel="icon" type="image/png" href="//gourmethiking.com/img/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="//gourmethiking.com/img/favicon-16x16.png" sizes="16x16">
   
+
+  
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/sortable/0.8.0/css/sortable-theme-minimal.min.css">
 
   <link href="//gourmethiking.com/css/owl.carousel.css" rel="stylesheet">
   <link href="//gourmethiking.com/css/owl.theme.css" rel="stylesheet">
@@ -157,9 +159,29 @@
 
 <div id="content">
     <div class="container">
-        <div class="row auto-clear">
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    	<div class="row heading">
+    		<div class="col-sm-12">
+	    		<ul class="nav nav-pills" role="tablist">
+	    			<li role="presentation" class="active">
+	    				<a href="#gallery" aria-controls="gallery" role="tab" data-toggle="tab">
+	    					<span class="glyphicon glyphicon-th" aria-hidden="true"></span>
+	    					Gallery
+	    				</a>
+	    			</li>
+	    			<li role="presentation">	    				
+	    				<a href="#table" aria-controls="table" role="tab" data-toggle="tab">
+	    					<span class="glyphicon glyphicon-list" aria-hidden="true"></span>
+	    					Table
+	    				</a>
+	    			</li>
+	    		</ul>
+    		</div>
+    	</div>
+    	<div class="tab-content" style="border-width:0; padding:0;">
+    		<div role="tabpanel" class="tab-pane active" id="gallery">
+		        <div class="row auto-clear">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/maple-gummies/">
 			<img src="/img/recipes/thumbnails/maple_gummies.jpg" class="img-responsive"/>
@@ -169,8 +191,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/expedition-molasse-cookies/">
 			<img src="/img/recipes/thumbnails/molasse_cookie.JPG" class="img-responsive"/>
@@ -180,8 +202,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/macadamia-bar/">
 			<img src="/img/recipes/thumbnails/macadamia_bar2.jpg" class="img-responsive"/>
@@ -191,8 +213,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/maple-candied-pecans/">
 			<img src="/img/recipes/thumbnails/maple_candied_pecans.jpg" class="img-responsive"/>
@@ -202,8 +224,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/mocha-energy-ball/">
 			<img src="/img/recipes/thumbnails/mocha_energy_ball.jpg" class="img-responsive"/>
@@ -213,8 +235,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/dirt_pudding_choc_rasp/">
 			<img src="/img/recipes/thumbnails/dirt_pudding_choc_rasp.jpg" class="img-responsive"/>
@@ -224,8 +246,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/hot-chocolate/">
 			<img src="/img/recipes/thumbnails/hot_chocolate.jpg" class="img-responsive"/>
@@ -235,8 +257,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/orange-choco-protein/">
 			<img src="/img/recipes/thumbnails/orange_choco_protein.jpg" class="img-responsive"/>
@@ -246,8 +268,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/pina-colada-energy-balls/">
 			<img src="/img/recipes/thumbnails/pina_colada_energy_balls.jpg" class="img-responsive"/>
@@ -257,8 +279,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/cocoa-pb-ball/">
 			<img src="/img/recipes/thumbnails/cocoa_peanut_ball.jpg" class="img-responsive"/>
@@ -268,8 +290,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/fig-chocolate-ball/">
 			<img src="/img/recipes/thumbnails/fig_hazelnut_choc_ball.jpg" class="img-responsive"/>
@@ -279,8 +301,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/mocha-energy-bar/">
 			<img src="/img/recipes/thumbnails/mocha_bar.jpg" class="img-responsive"/>
@@ -290,8 +312,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/pumpkin-spices-cookie/">
 			<img src="/img/recipes/thumbnails/pumpkin_spices_cookie.jpg" class="img-responsive"/>
@@ -301,8 +323,285 @@
 		 </div>
 	</div>
 </div>
-            
-        </div>
+		            
+		        </div>
+	    	</div>
+	    	<div role="tabpanel" class="tab-pane" id="table">
+	    		<table class="table table-striped" data-sortable>
+	    			<thead>
+	    				<tr>
+		    				<th data-sortable-type="alpha">Recipe</th>
+		    				<th data-sorted="true" data-sorted-direction="descending">Energy</th>
+		    				<th>Energy Density</th>
+		    				<th>Protein</th>
+		    			</tr>
+		    		</thead>
+		    		<tbody>
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/expedition-molasse-cookies/">Expedition Molasse Cookies</a></td>
+	<td data-value="314">
+		
+		314 calories
+		
+	</td>
+	<td data-value="4">
+		
+		4 calories/g
+		
+	</td>
+	<td data-value="9.7">
+		
+		9.7 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/dirt_pudding_choc_rasp/">Chocolate and Raspberries Dirt Pudding</a></td>
+	<td data-value="295">
+		
+		295 calories
+		
+	</td>
+	<td data-value="4">
+		
+		4 calories/g
+		
+	</td>
+	<td data-value="11">
+		
+		11 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/macadamia-bar/">Macadamia nuts, raspberries and white chocolate goodness</a></td>
+	<td data-value="282">
+		
+		282 calories
+		
+	</td>
+	<td data-value="3.6">
+		
+		3.6 calories/g
+		
+	</td>
+	<td data-value="7">
+		
+		7 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/pumpkin-spices-cookie/">Pumpkin and Spices Cookies</a></td>
+	<td data-value="249">
+		
+		249 calories
+		
+	</td>
+	<td data-value="2.9">
+		
+		2.9 calories/g
+		
+	</td>
+	<td data-value="6.8">
+		
+		6.8 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/hot-chocolate/">Homemade Hot Chocolate</a></td>
+	<td data-value="220">
+		
+		220 calories
+		
+	</td>
+	<td data-value="3.6">
+		
+		3.6 calories/g
+		
+	</td>
+	<td data-value="12">
+		
+		12 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/mocha-energy-bar/">Mocha Energy Bar</a></td>
+	<td data-value="211">
+		
+		211 calories
+		
+	</td>
+	<td data-value="2.7">
+		
+		2.7 calories/g
+		
+	</td>
+	<td data-value="5.5">
+		
+		5.5 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/orange-choco-protein/">Orange and Chocolate Protein Balls</a></td>
+	<td data-value="144">
+		
+		144 calories
+		
+	</td>
+	<td data-value="2.5">
+		
+		2.5 calories/g
+		
+	</td>
+	<td data-value="9.3">
+		
+		9.3 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/maple-candied-pecans/">Maple candied pecans and apples with sea salt sprinkles</a></td>
+	<td data-value="142">
+		
+		142 calories
+		
+	</td>
+	<td data-value="4.6">
+		
+		4.6 calories/g
+		
+	</td>
+	<td data-value="3.7">
+		
+		3.7 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/fig-chocolate-ball/">Fig, Hazelnut and Chocolate Energy Balls</a></td>
+	<td data-value="130">
+		
+		130 calories
+		
+	</td>
+	<td data-value="2.7">
+		
+		2.7 calories/g
+		
+	</td>
+	<td data-value="2.5">
+		
+		2.5 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/cocoa-pb-ball/">Cocoa and Peanut Butter Energy Balls</a></td>
+	<td data-value="115">
+		
+		115 calories
+		
+	</td>
+	<td data-value="2.3">
+		
+		2.3 calories/g
+		
+	</td>
+	<td data-value="4.5">
+		
+		4.5 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/mocha-energy-ball/">Mocha Energy Balls</a></td>
+	<td data-value="98">
+		
+		98 calories
+		
+	</td>
+	<td data-value="2.7">
+		
+		2.7 calories/g
+		
+	</td>
+	<td data-value="2">
+		
+		2 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/pina-colada-energy-balls/">Pina Colada Energy Balls</a></td>
+	<td data-value="97">
+		
+		97 calories
+		
+	</td>
+	<td data-value="3">
+		
+		3 calories/g
+		
+	</td>
+	<td data-value="1.4">
+		
+		1.4 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/maple-gummies/">Homemade Maple Energetic Gummies</a></td>
+	<td data-value="24">
+		
+		24 calories
+		
+	</td>
+	<td data-value="2.4">
+		
+		2.4 calories/g
+		
+	</td>
+	<td data-value="0.8">
+		
+		0.8 g
+		
+	</td>
+</tr>
+
+		    				 
+	    			</tbody>   			
+	    		</table>
+	    	</div>
+    	</div>
         
     </div>
     
@@ -382,6 +681,9 @@ ga('send', 'pageview');
 
 <script src="//gourmethiking.com/js/owl.carousel.min.js"></script>
 <script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="3e20a93d46eed55452adca08e6413a09" async="async"></script>
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/sortable/0.8.0/js/sortable.min.js"></script>
 
   </body>
 </html>

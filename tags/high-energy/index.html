@@ -26,7 +26,6 @@
   
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
-  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js">
 
   
   <link href="//gourmethiking.com/css/animate.css" rel="stylesheet">
@@ -46,6 +45,9 @@
   <link rel="icon" type="image/png" href="//gourmethiking.com/img/favicon-32x32.png" sizes="32x32">
   <link rel="icon" type="image/png" href="//gourmethiking.com/img/favicon-16x16.png" sizes="16x16">
   
+
+  
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/sortable/0.8.0/css/sortable-theme-minimal.min.css">
 
   <link href="//gourmethiking.com/css/owl.carousel.css" rel="stylesheet">
   <link href="//gourmethiking.com/css/owl.theme.css" rel="stylesheet">
@@ -157,9 +159,29 @@
 
 <div id="content">
     <div class="container">
-        <div class="row auto-clear">
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+    	<div class="row heading">
+    		<div class="col-sm-12">
+	    		<ul class="nav nav-pills" role="tablist">
+	    			<li role="presentation" class="active">
+	    				<a href="#gallery" aria-controls="gallery" role="tab" data-toggle="tab">
+	    					<span class="glyphicon glyphicon-th" aria-hidden="true"></span>
+	    					Gallery
+	    				</a>
+	    			</li>
+	    			<li role="presentation">	    				
+	    				<a href="#table" aria-controls="table" role="tab" data-toggle="tab">
+	    					<span class="glyphicon glyphicon-list" aria-hidden="true"></span>
+	    					Table
+	    				</a>
+	    			</li>
+	    		</ul>
+    		</div>
+    	</div>
+    	<div class="tab-content" style="border-width:0; padding:0;">
+    		<div role="tabpanel" class="tab-pane active" id="gallery">
+		        <div class="row auto-clear">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/asian-peanut-noodles/">
 			<img src="/img/recipes/thumbnails/asian_peanut.jpg" class="img-responsive"/>
@@ -169,8 +191,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/bacon-alfredo-gnocchi/">
 			<img src="/img/recipes/thumbnails/bacon_alfredo_gnocchi.jpg" class="img-responsive"/>
@@ -180,8 +202,8 @@
 		 </div>
 	</div>
 </div>
-            
-                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+		            
+		                <div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
 	<div class="thumbnail">
 		<a href="//gourmethiking.com/recipes/broccoli-salmon-mac-n-cheese/">
 			<img src="/img/recipes/thumbnails/broccoli_mac_cheese.jpg" class="img-responsive"/>
@@ -191,8 +213,83 @@
 		 </div>
 	</div>
 </div>
-            
-        </div>
+		            
+		        </div>
+	    	</div>
+	    	<div role="tabpanel" class="tab-pane" id="table">
+	    		<table class="table table-striped" data-sortable>
+	    			<thead>
+	    				<tr>
+		    				<th data-sortable-type="alpha">Recipe</th>
+		    				<th data-sorted="true" data-sorted-direction="descending">Energy</th>
+		    				<th>Energy Density</th>
+		    				<th>Protein</th>
+		    			</tr>
+		    		</thead>
+		    		<tbody>
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/broccoli-salmon-mac-n-cheese/">Broccoli and Salmon Mac&amp;Cheese</a></td>
+	<td data-value="1086">
+		
+		1086 calories
+		
+	</td>
+	<td data-value="">
+		
+	</td>
+	<td data-value="47.6">
+		
+		47.6 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/bacon-alfredo-gnocchi/">Bacon Alfredo Gnocchi</a></td>
+	<td data-value="1000">
+		
+		1000 calories
+		
+	</td>
+	<td data-value="2.3">
+		
+		2.3 calories/g
+		
+	</td>
+	<td data-value="31.1">
+		
+		31.1 g
+		
+	</td>
+</tr>
+
+		    			
+		    				<tr>
+	<td><a href="//gourmethiking.com/recipes/asian-peanut-noodles/">Asian Peanut Noodles</a></td>
+	<td data-value="995">
+		
+		995 calories
+		
+	</td>
+	<td data-value="4.1">
+		
+		4.1 calories/g
+		
+	</td>
+	<td data-value="47.1">
+		
+		47.1 g
+		
+	</td>
+</tr>
+
+		    				 
+	    			</tbody>   			
+	    		</table>
+	    	</div>
+    	</div>
         
     </div>
     
@@ -272,6 +369,9 @@ ga('send', 'pageview');
 
 <script src="//gourmethiking.com/js/owl.carousel.min.js"></script>
 <script type="text/javascript" data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" data-shr-siteid="3e20a93d46eed55452adca08e6413a09" async="async"></script>
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/sortable/0.8.0/js/sortable.min.js"></script>
 
   </body>
 </html>
