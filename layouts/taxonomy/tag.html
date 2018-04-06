@@ -4,11 +4,46 @@
 
 <div id="content">
     <div class="container">
-        <div class="row auto-clear">
-            {{ range .Data.Pages }}
-                {{ .Render "thumbnail" }}
-            {{ end }}
-        </div>
+    	<div class="row heading">
+    		<div class="col-sm-12">
+	    		<ul class="nav nav-pills" role="tablist">
+	    			<li role="presentation" class="active">
+	    				<a href="#gallery" aria-controls="gallery" role="tab" data-toggle="tab">
+	    					<span class="glyphicon glyphicon-th" aria-hidden="true"></span>
+	    					Gallery
+	    				</a>
+	    			</li>
+	    			<li role="presentation">	    				
+	    				<a href="#table" aria-controls="table" role="tab" data-toggle="tab">
+	    					<span class="glyphicon glyphicon-list" aria-hidden="true"></span>
+	    					Table
+	    				</a>
+	    			</li>
+	    		</ul>
+    		</div>
+    	</div>
+    	<div class="tab-content" style="border-width:0; padding:0;">
+    		<div role="tabpanel" class="tab-pane active" id="gallery">
+		        <div class="row auto-clear">
+		            {{ range .Data.Pages }}
+		                {{ .Render "thumbnail" }}
+		            {{ end }}
+		        </div>
+	    	</div>
+	    	<div role="tabpanel" class="tab-pane" id="table">
+	    		<table class="table table-striped">
+	    			<tr>
+	    				<th>Recipe</th>
+	    				<th>Energy</th>
+	    				<th>Energy Density</th>
+	    				<th>Protein</th>
+	    			</tr>
+	    			{{ range .Data.Pages }}
+	    				{{ .Render "tablerow" }}
+	    			{{ end }}	    			
+	    		</table>
+	    	</div>
+    	</div>
         <!-- /.row -->
     </div>
     <!-- /.container -->

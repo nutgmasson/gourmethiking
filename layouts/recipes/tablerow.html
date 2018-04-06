@@ -1,0 +1,18 @@
+<tr>
+	<td><a href="{{ .Permalink }}">{{ .Title }}</a></td>
+	<td>
+		{{ if isset .Params "nf_energy" }}
+		{{ .Params.nf_energy }} calories
+		{{ end }}
+	</td>
+	<td>
+		{{ if isset .Params "nf_energy_density" }}
+		{{ .Params.nf_energy_density }} calories/g
+		{{ end }}
+	</td>
+	<td>
+		{{ if isset .Params "nf_protein" }}
+		{{ .Params.nf_protein }} g
+		{{ end }}
+	</td>
+</tr>
