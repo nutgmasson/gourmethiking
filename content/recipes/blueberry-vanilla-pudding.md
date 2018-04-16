@@ -13,10 +13,9 @@ nf_protein = 10.2 # in g
 nf_carbs = 73.8 # in g
 nf_fiber = 3.4 # in g
 nf_fat = 2.8 # in g
-draft = true
 +++
 
-Dessert is always good and even more on the trail. Add 10g of protein to your meal by adding this delicious dessert. Top this pudding with fresh blueberries found on the side of the trail, when in season, for extra nutrients and antioxidants. 
+Dessert is always good and even more on the trail. Add 10g of protein to your meal by adding this delicious dessert. Top this pudding with fresh blueberries found on the side of the trail, when in season, for extra nutrients and antioxidants. Replace powdered skim milk instead by full-fat milk for extra calories.
 
 {{% ingredients %}}
 ¼ cup (60 ml) <a target="_blank" href="https://www.amazon.com/dp/B012XC03DQ/ref=sxr_rr_xsim_1?pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_p=3513574162&amp;pd_rd_wg=NxCQA&amp;pf_rd_r=NWFJXGAPHWF9A0GKYCKS&amp;pf_rd_s=desktop-rhs-carousels&amp;pf_rd_t=301&amp;pd_rd_i=B012XC03DQ&amp;pd_rd_w=358AM&amp;pf_rd_i=dried%2Bblueberries&amp;pd_rd_r=415e1070-4f12-4c83-80e1-476a9b0e07e2&amp;ie=UTF8&amp;qid=1522014210&amp;sr=1&amp;th=1&_encoding=UTF8&tag=gourmethiking-20&linkCode=ur2&linkId=e0a94e21bb77799ed6decc27eda01a97&camp=1789&creative=9325">dried blueberries</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
