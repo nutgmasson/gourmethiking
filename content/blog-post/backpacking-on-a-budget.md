@@ -9,6 +9,8 @@ You want to get into backpacking but the price of the packaged freeze-dried meal
  
  <img src="/img/posts/budget/budget.jpg" class="recipe-right" /> 
 
+ <p><small>Note: This blog post contains affiliate links. You can read my disclosure <a href="#affiliateDisclosure" data-target="#affiliateDisclosure" data-toggle="modal">here</a>.</small></p>
+
 ### #1 Cook your own meals rather than relying on commercial freeze-dried meals.
 
 That’s really the # 1 tip to cut down on cost. Check out our [recipes section](/recipes) for tons of meal ideas.
