@@ -1,5 +1,5 @@
 +++
-date = "2018-05-09T10:08:55-08:00"
+date = "2018-05-16T10:08:55-08:00"
 title = "Berries and Granola on-the-go"
 tags = ["vegetarian", "breakfast", "backpacking", "low-water", "no-bake", "lightweight", "one-pot"]
 # Add two images with this name under static
@@ -14,7 +14,7 @@ nf_protein = 21.0 # in g
 nf_carbs = 61.8 # in g
 nf_fiber = 7.7 # in g
 nf_fat = 6.9 # in g
-draft=true
+
 +++
 
 The freeze-dried berries bring a nice freshness to this quick breakfast recipe. High in protein (21g/serving) and ridiculously easy to make on the trail, this breakfast will allow you an early start on the trail. Substitute the skim milk powder by full-fat milk powder (e.g. Nido) to add 80 calories to your meal.
