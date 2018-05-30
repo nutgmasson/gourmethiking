@@ -1,5 +1,5 @@
 +++
-date = "2018-04-13T10:08:55-08:00"
+date = "2018-05-29T10:08:55-08:00"
 title = "Barley and Mushroom Soup"
 img = "barley_mushroom_soup.JPG"
 pin_recipe = "barley_mushroom_soup_pin.jpg"
@@ -13,10 +13,9 @@ nf_carbs = 23.7
 nf_protein = 3.9
 nf_fiber = 4.9
 nf_fat = 0.7
-draft = true
 +++
 
-This soup super-easy-to-make soup is the perfect way to rehydrate after a long day in the outdoors. It does not contain enough energy (only 112 calories) for a dinner but is the perfect appetizer! 
+This super-easy-to-make soup is the perfect way to rehydrate after a long day in the outdoors. It does not contain enough energy (only 112 calories) for a dinner but is the perfect appetizer! 
 
 {{% ingredients %}}
 2 tbsp. (30 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B00KDSD7AE/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00KDSD7AE&linkCode=as2&tag=gourmethiking-20&linkId=f3dd397a5decb961f1651b322e246a1d">10 minute barley</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00KDSD7AE" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
