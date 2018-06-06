@@ -3,7 +3,7 @@ date = "2018-06-06T16:50:59-08:00"
 title = "Gourmet Menu for a 5-day Backpacking Trip "
 img = "/5-day-menu/5-day-backpacking-menu.jpg"
 excerpt = "Need food inspiration for a multi-day backpacking trip for this summer? Don’t look further! This 5-day menu will satisfy your taste buds while fueling your muscles for the all those hills to climb."
-
+draft=true
 +++
 
 Need food inspiration for a multi-day backpacking trip for this summer? Don’t look further! This 5-day menu will satisfy your taste buds while fueling your muscles for the all those hills to climb. None of these recipes requires the use of a dehydrator. You will only need to combine dry ingredients. Disclaimer: An effort was made to select recipes that are not too heavy, however ultralight backpackers might have to make modifications.
