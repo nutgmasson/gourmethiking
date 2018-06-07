@@ -1,5 +1,5 @@
 +++
-date = "2018-05-08T10:08:55-08:00"
+date = "2018-06-07T10:08:55-08:00"
 title = "Morrocan Apricot Chickpeas"
 tags = ["vegetarian", "vegan", "dairy-free", "dinner", "backpacking", "lightweight"]
 img = "morrocan_chickpeas.JPG"
@@ -13,7 +13,7 @@ nf_fiber = 14.5
 nf_protein = 28.6
 nf_fat = 17.0
 nf_other = "6.1 mg of iron"
-draft = true
+
 +++
 
 Warm, comforting and sweet, this dish will transport your taste buds somewhere else. Perfect to add variety to your backpacking meals. And you will not believe that this vegan recipe contains 28g of proteins and 6.1 mg of iron (thanks to the dried apricots for this nice contribution!)
@@ -25,7 +25,7 @@ salt and pepper, to taste
 1 cup (250 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B0085NBPIU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0085NBPIU&linkCode=as2&tag=gourmethiking-20&linkId=633512a5d8d5de3e2fe443b1af9b5781">dehydrated fast cooking chickpeas</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B0085NBPIU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ¼ cup (60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B001VNGMW0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001VNGMW0&linkCode=as2&tag=gourmethiking-20&linkId=332519d0941ce0d0ae06eb472ad89ff2">dried onion flakes</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B001VNGMW0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ½ cup (125 ml) dehydrated apricots, chopped in small cubes
-½ tsp (2 ml) coriander seeds, grounded
+½ tsp (2 ml) ground coriander seeds
 ½ tsp (2 ml) ground ginger
 ½ tsp (2 ml) cumin
 ¼ tsp (1 ml) cinnamon
@@ -39,7 +39,7 @@ salt and pepper, to taste
 - Stove + fuel
 - Pot large enough for 1.5 liters (6 cups)
 - Wooden spoon to mix
-- At least one bowl or other container to cook the couscous. 
+- At least one bowl or other container to hydrate the couscous. 
 - sporks or spoon
  
 ## At home 
