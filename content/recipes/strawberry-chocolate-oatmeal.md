@@ -4,7 +4,7 @@ title = "Strawberry Extra-Chocolate Oatmeal"
 tags = ["vegetarian", "gluten-free", "breakfast", "backpacking", "low-water", "lightweight", "one-pot"]
 # Add two images with this name under static
 img = "choco-strawberries-oatmeal.JPG"
-pin_recipe = "strawberries-choco_pin.JPG"
+pin_recipe = "strawberries-choco_pin.jpg"
 stat_servings = "1 hungry backpacker"
 stat_time = "5 min prep, 3 min cooking"
 stat_weight = "133g / serving"
