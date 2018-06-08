@@ -1,7 +1,7 @@
 +++
 date = "2018-06-07T10:08:55-08:00"
 title = "Red Curry Rice Vermicelli"
-tags = ["vegetarian", "vegan", "dairy-free", "high-energy" "dinner", "backpacking", "lightweight", "one-pot", "pasta"]
+tags = ["vegetarian", "vegan", "dairy-free", "high-energy", "dinner", "backpacking", "lightweight", "one-pot", "pasta"]
 img = "red_curry_vermicelli.JPG"
 pin_recipe = "red-curry-vermicelli-pin.jpg"
 stat_servings = "1 hungry backpacker"
