@@ -58,7 +58,7 @@ Need food inspiration for a multi-day backpacking trip for this summer? Don’t 
 ### Day 4 
 
 #### Breakfast:
-- [Bacon, Egg and Hashbrowns Skillet](/recipes/blueberry-vanilla-pudding/)
+- [Bacon, Egg and Hashbrowns Skillet](/recipes/egg-bacon-hashbrown/)
 
 #### Lunch: 
 - Sundried tomatoes, <a target="_blank" href="https://www.amazon.com/gp/product/B00LTL5YOG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00LTL5YOG&linkCode=as2&tag=gourmethiking-20&linkId=084668e64b76fe45392e07928a3460cd">rehydrated hummus mix</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00LTL5YOG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> and <a target="_blank" href="https://www.amazon.com/gp/product/B00N32KXQ8/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00N32KXQ8&linkCode=as2&tag=gourmethiking-20&linkId=8609bbdf8ea559aeaf24158d9fbffa1f">olives</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00N32KXQ8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> in a tortilla 
