@@ -34,7 +34,7 @@ type = "bare"
 			<div class="col-md-6">
 				<h2 class="text-uppercase">Genevieve (or just Gen!) Masson</h2>
 				<p class="lead mb-small">
-				Originally from the province of Quebec in Canada, I grew up in a family in which sports was a religion. Racing in cross-country skiing at a national level taught me a lot, especially about perseverance and hard work. Add to the mix a passion for cooking and a strong interest for science, becoming a sports dietitian was just a natural go-to! I am a <a href="http://www.eatrightpro.org/resources/about-us/what-is-an-rdn-and-dtr/what-is-a-registered-dietitian-nutritionist" style="color:white; text-decoration: underline;">registered dietitian nutritionist</a> licensed Canada and USA. Now living in Seattle, I enjoy hiking, backpacking, rock climbing, biking and obviously, trying recipes in the Northwest outdoors!
+				Originally from the province of Quebec in Canada, I grew up in a family in which sports was a religion. Racing in cross-country skiing at a national level taught me a lot, especially about perseverance and hard work. Add to the mix a passion for cooking and a strong interest for science, becoming a sports dietitian was just a natural go-to! I am a <a href="http://www.eatrightpro.org/resources/about-us/what-is-an-rdn-and-dtr/what-is-a-registered-dietitian-nutritionist" style="color:white; text-decoration: underline;">registered dietitian nutritionist</a> licensed in Canada and USA. Now living in Seattle, I enjoy hiking, backpacking, rock climbing, biking and obviously, trying recipes in the Northwest outdoors!
 				</p>
 				<p class="lead mb-small text-center" style="font-weight: bold;">
  				Curiosity, passion and hard work define me</p>
