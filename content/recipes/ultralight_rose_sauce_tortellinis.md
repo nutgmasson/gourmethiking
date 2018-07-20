@@ -20,6 +20,7 @@ nf_fat = 17.7 # in g
 ¼ cup ( 60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7PPY0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7PPY0&linkCode=as2&tag=gourmethiking-20&linkId=c688f0b48387d2f3ec9f77638a97cccc">dried spinach</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7PPY0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ½ cup (125 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B00FRFRZF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FRFRZF6&linkCode=as2&tag=gourmethiking-20&linkId=f7d69f70caf1f6c64d69cf2302439691">whole milk powder</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00FRFRZF6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ¼ cup ( 60 ml) parmesan cheese
+2 tsp (10 ml) dried basil
 {{% /ingredients %}}
 \*You can also use some tomato paste in tube.
 
