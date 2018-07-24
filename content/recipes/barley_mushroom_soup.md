@@ -30,7 +30,7 @@ This super-easy-to-make soup is the perfect way to rehydrate after a long day in
 - Stove + fuel
 - Pot large enough for 2 liters (8 cups)
 - Wooden spoon to mix
-- Bowl to eat (you could always eat directly in the pot, not judgement here!)
+- Bowl to eat (you could always eat directly in the pot, no judgement here!)
 - sporks or spoons!
 
 ## Before trip
