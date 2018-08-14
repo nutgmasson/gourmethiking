@@ -1,5 +1,5 @@
 +++
-date = "2018-08-14T10:08:55-08:00"
+date = "2018-08-13T10:08:55-08:00"
 title = "Miso and Edamame Soup"
 img = "miso_soup.JPG"
 pin_recipe = "miso_soup_pin.jpg"
