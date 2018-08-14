@@ -1,5 +1,5 @@
 +++
-date = "2018-07-24T10:08:55-08:00"
+date = "2018-08-14T10:08:55-08:00"
 title = "Miso and Edamame Soup"
 img = "miso_soup.JPG"
 pin_recipe = "miso_soup_pin.jpg"
@@ -13,7 +13,6 @@ nf_carbs = 32.2
 nf_protein = 7.8
 nf_fiber = 2.9
 nf_fat = 3.2
-draft = true
 +++
 
 This soup makes a perfect appetizer and kick-starts the rehydration process after a long day on the trail.
