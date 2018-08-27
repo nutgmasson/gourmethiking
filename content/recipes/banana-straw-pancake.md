@@ -1,5 +1,5 @@
 +++
-date = "2018-08-16T10:08:55-08:00"
+date = "2018-08-26T10:08:55-08:00"
 title = "Banana Strawberry Extra-Protein Pancakes"
 tags = ["vegetarian", "breakfast", "backpacking", "low-water", "one-pot"]
 img = "banana_pancake.JPG"
@@ -13,7 +13,6 @@ nf_protein = 21.3 # in g
 nf_carbs = 72.8 # in g
 nf_fiber = 2.2 # in g
 nf_fat = 31.4 # in g
-draft = true
 +++
 
 These pancakes contain 5g of protein more than our other pancake recipe, thanks to the generous amounts of whole milk powder and dehydrated eggs. 
