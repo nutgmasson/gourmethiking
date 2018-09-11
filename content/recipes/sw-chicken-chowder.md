@@ -22,7 +22,7 @@ This chowder with southwest notes makes a consistent meal with 40g of protein pe
 3 tbsp (45 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B007C7D2D6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007C7D2D6&linkCode=as2&tag=gourmethiking-20&linkId=9f4e3c3870f8f3672bafc88d846b7af2">dried bell peppers</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B007C7D2D6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (I used a mix of green and red peppers)
 1 cup (250 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B008470PLU/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B008470PLU&linkCode=as2&tag=gourmethiking-20&linkId=0a9b9ec5eb7a9f1099e1dae915f6aef0">freeze dried corn</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B008470PLU" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 1 cup (250 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B000M8071M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000M8071M&linkCode=as2&tag=gourmethiking-20&linkId=9844477455f5e823b7f670506e351c0b">freeze dried chicken</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B000M8071M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-15 tsp (15 ml) chicken broth powder
+1 tbsp (15 ml) chicken broth powder
 ¼ tsp (1 ml) cayenne pepper
 ¼ tsp (1 ml) drief thyme
 ¼ tsp (1 ml) black pepper
