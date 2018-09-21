@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//gourmethiking.com/product-reviews/camp-cuisine-hummus/</loc>
+    <lastmod>2018-09-21T21:07:57-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//gourmethiking.com/recipes/tropical_pearl_couscous/</loc>
     <lastmod>2018-09-11T10:08:55-08:00</lastmod>
   </url>
@@ -478,7 +483,7 @@
   
   <url>
     <loc>//gourmethiking.com/</loc>
-    <lastmod>2018-09-11T10:08:55-08:00</lastmod>
+    <lastmod>2018-09-21T21:07:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -526,7 +531,7 @@
   
   <url>
     <loc>//gourmethiking.com/product-reviews/</loc>
-    <lastmod>2017-05-05T21:07:57-07:00</lastmod>
+    <lastmod>2018-09-21T21:07:57-07:00</lastmod>
     <priority>0</priority>
   </url>
   
