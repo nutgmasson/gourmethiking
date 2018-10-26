@@ -1,7 +1,7 @@
 +++
 date = "2018-10-26T10:08:55-08:00" # edit date
 title = "Pumpkin Fruit Leather" # edit title
-tags = ["vegetarian", "vegan", "snack", "dessert", "day hike", "backpacking", "low-water", "ready to eat", "freezes"]
+tags = ["vegetarian", "vegan", "dairy-free", "gluten-free", "snack", "dessert", "day hike", "backpacking", "low-water", "ready to eat", "freezes"]
 img = "pumpkin_leather.JPG"
 stat_servings = "4 large fruit leathers"
 stat_time = "15 min prep, 15 min cooking, 9-12 hours drying"
