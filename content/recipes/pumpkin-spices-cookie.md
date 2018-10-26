@@ -42,7 +42,7 @@ Note that I am not a big fan of cinnamon so if you prefer a powerful cinnamon fl
 1. In a large bowl, mix the eggs, pumpkin purée, canola oil and brown sugar. Mix well. 
 1. Add all the other ingredients and mix again. 
 1. Put parchment paper on 3 cookie sheets and apply some oil on it. 
-1. Drop cookie dough 3 tbsp. at a time onto prepared onto the prepared cookie sheet. 
+1. Drop cookie dough 3 tbsp. at a time onto the prepared cookie sheet. 
 1. Bake for 16 minutes at 375F (190C).
 
 
