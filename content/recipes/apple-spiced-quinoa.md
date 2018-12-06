@@ -7,17 +7,17 @@ img = "apple_spiced_quinoa.jpg"
 pin_recipe = ".jpg"
 stat_servings = "1 hungry backpacker"
 stat_time = "5 min prep, 15 min cooking"
-stat_weight = "206 g / serving"
-nf_energy = 0 # in calories
-nf_energy_density = 0 # in calories/g
-nf_protein = 0 # in g
-nf_carbs = 0 # in g
-nf_fiber = 0 # in g
-nf_fat = 0 # in g
+stat_weight = "160 g / serving"
+nf_energy = 636 # in calories
+nf_energy_density = 4.0 # in calories/g
+nf_protein = 17.8 # in g
+nf_carbs = 73.5 # in g
+nf_fiber = 8.0 # in g
+nf_fat = 32.2 # in g
 draft = true
 +++
 
-This oatmeal recipe will satisfy the hungriest backpacker appetite with 19g of protein and 10g of fiber.
+Quinoa for breakfast: why not? With 18g of protein and 8g of fiber, this breakfast is satisfying and will provide energy for a long time. 
 
 {{% ingredients %}}
 ½ cup (125 ml) quinoa
@@ -43,4 +43,4 @@ This oatmeal recipe will satisfy the hungriest backpacker appetite with 19g of p
 1. Pour the content of bag #1 and 1 cup of water in a pot.
 1. Bring to boil and cook for about 15 minutes or until the quinoa is fully cooked.
 1. Add the content of bag #2. 
-1. Enjoy
+1. Enjoy!
