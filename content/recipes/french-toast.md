@@ -1,7 +1,7 @@
 +++
 date = "2017-11-16T10:08:55-08:00"
 title = "Backpacker's French Toasts"
-tags = ["breakfast", "vegetarian", "backpacking", "low-water", "one-pot", "pasta"]
+tags = ["breakfast", "vegetarian", "backpacking", "low-water", "one-pot"]
 img = "french_toast.jpg"
 pin_recipe = "french_toast_pin.jpg"
 stat_servings = "3 hungry backpackers"
