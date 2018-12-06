@@ -4,30 +4,28 @@ title = "Top 10 Holiday Gift Ideas for Gourmet Hikers"
 img = "holiday-gifts/holiday_gifts.jpg"
 pin_post = "holiday-gifts/gifts-pin.jpg"
 excerpt = "Are you still looking for holiday gift ideas for your favorite gourmet hiker? Don’t look any further, check out this top 10 holiday gift ideas under 35$."
-draft = true
 
 +++
 
 Are you still looking for holiday gift ideas for your favorite gourmet hiker? Don’t look any further, check out this top 10 holiday gift ideas under 35$. 
 
-<img src="/img/posts/holiday-gifts/holiday_gifts.jpg" class="recipe-right" />
 
  <p><small>Note: This blog post contains affiliate links. You can read my disclosure <a href="#affiliateDisclosure" data-target="#affiliateDisclosure" data-toggle="modal">here</a>.</small></p>
 
 
+<img src="/img/posts/holiday-gifts/holiday_gifts.jpg" class="recipe-right" />
 
 ## Cooking Stuff
 
 ### Spork
-A combination of fork and spoon to save on weight and space. A favorite of many hikers! The ones in titanium tend to be more resistant. <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gourmethiking-20&marketplace=amazon&region=US&placement=B000AR2N76&asins=B000AR2N76&linkId=9ec747b7b1a4707e5d8ababf04cbd9ba&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+A combination of fork and spoon to save on weight and space. A favorite of many hikers! The <a target="_blank" href="https://www.amazon.com/gp/product/B000AR2N76/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000AR2N76&linkCode=as2&tag=gourmethiking-20&linkId=535a151fd3cad6d5f51aea2d261708a7">titanium sporks</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B000AR2N76" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> tend to be more resistant and last longer than the plastic ones.
+   
 
 ### GoToob Containers
-These containers are great trying to limit weight on packpacking trips. Allow you to bring small amounts of your favorite condiments. <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gourmethiking-20&marketplace=amazon&region=US&placement=B0076DNUEW&asins=B0076DNUEW&linkId=79f55a20ae4571a3d6efd1a7bdf7ccfa&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+The <a target="_blank" href="https://www.amazon.com/gp/product/B009NJUYI2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B009NJUYI2&linkCode=as2&tag=gourmethiking-20&linkId=9cfcbb0f762d4999e67d50212a094ae3">GoToob travel bottles</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B009NJUYI2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> are great when trying to limit weight on packpacking trips. Allow you to bring small amounts of your favorite condiments. 
 
 ### Small Nalgene bottles kit
-Another good idea to store condiments, oil, soap and other liquids while backpacking. <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gourmethiking-20&marketplace=amazon&region=US&placement=B00076RC0S&asins=B00076RC0S&linkId=2575dd962e44fbc6ba2615baccb5b628&show_border=true&link_opens_in_new_window=true"></iframe>
+<a target="_blank" href="https://www.amazon.com/gp/product/B00076RC0S/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00076RC0S&linkCode=as2&tag=gourmethiking-20&linkId=d69e7ec7a0ffbb5345963ea9d7507356">Nalgene</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00076RC0S" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> offers another good idea to store condiments, oil, soap and other liquids while backpacking. 
 
 <br>
 
@@ -37,12 +35,11 @@ Another good idea to store condiments, oil, soap and other liquids while backpac
 Is it not special to receive a homemade holiday gift? This [homemade hot chocolate recipe](/recipes/hot-chocolate/) doesn't require crafty skills and is simply delicious. Get creative and add dried orange zest, cinnamon or cardamon to make deluxe versions.
 
 ### Instant Coffee packages
-Instant coffee can be both convenient and delicious in the backcountry. The best instant coffee out there is definitely made by Starbucks. <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gourmethiking-20&marketplace=amazon&region=US&placement=B01LTI962O&asins=B01LTI962O&linkId=7ca8a609ea1b5a628c8b4e5e1c7d905a&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+Instant coffee can be both convenient and delicious in the backcountry. The best instant coffee out there is definitely made by <a target="_blank" href="https://www.amazon.com/gp/product/B01LTI961K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LTI961K&linkCode=as2&tag=gourmethiking-20&linkId=5d26350e1e7904314b26e01cb1a6cadd">Starbucks</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B01LTI961K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> 
+  
 
 ### Energy Bars
-Hikers consume so many bars while backpacking, there is nothing like tasting new varieties. In general, the higher in calories they are, the better it is. <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gourmethiking-20&marketplace=amazon&region=US&placement=B018H3LFJG&asins=B018H3LFJG&linkId=5f46fc8aabbe5a71533bca9493391b9d&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+Hikers consume so many bars while backpacking, there is nothing like tasting new varieties. In general, the higher in calories they are, the better it is. If your favorite gourmet hiker hasn't tried the <a target="_blank" href="https://www.amazon.com/gp/product/B01BX6CTIK/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01BX6CTIK&linkCode=as2&tag=gourmethiking-20&linkId=8154019c183d5d0f904bca3b9711e739">RxBar Real Food Protein Bars</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B01BX6CTIK" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> before, now is the time to give them this opportunity!
 
 <br>
 
@@ -50,26 +47,32 @@ Hikers consume so many bars while backpacking, there is nothing like tasting new
 ## Hydration Stuff
 
 ### LifeStraw
-Lightweight, easy to use and convenient, this is a great addition to anyone's hiking kit. <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gourmethiking-20&marketplace=amazon&region=US&placement=B006QF3TW4&asins=B006QF3TW4&linkId=b516bcfe5599000a018c1fca1a2e151f&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
+The <a target="_blank" href="https://www.amazon.com/gp/product/B006QF3TW4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006QF3TW4&linkCode=as2&tag=gourmethiking-20&linkId=b516bcfe5599000a018c1fca1a2e151f">LifeStraw</a> is lightweight, easy to use and convenient to filter water in the backcountry, this is a great addition to anyone's hiking kit.
+
 
 ### Aquatabs
-Cheap, small and sooo convenient as a backup for other water filtration methods. <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=gourmethiking-20&marketplace=amazon&region=US&placement=B06XPCCD4Y&asins=B06XPCCD4Y&linkId=f34702a403f3570ede26fb970e34d38b&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
+Cheap, small and sooo convenient as a backup for other water filtration methods, the <a target="_blank" href="https://www.amazon.com/gp/product/B06XPCCD4Y/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B06XPCCD4Y&linkCode=as2&tag=gourmethiking-20&linkId=70dab3fec11e074d1b3a5397ce7dacd2">Aquatabs</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B06XPCCD4Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> can make a difference between getting sick and remaining healthy on trips.
     </iframe>
 
 ### Nalgene Bottles
-Definitely the best bottles for hiking as they are resistant to heat and impact. Can me used as a measuring cup as well. You just never have enough. <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gourmethiking-20&marketplace=amazon&region=US&placement=B002PLU912&asins=B002PLU912&linkId=94dd55c13a0ceed5b24d2df81b582e80&show_border=true&link_opens_in_new_window=true"></iframe>
-
-## Other "nice-to-have"
-
-## Snow Peak Mini Lantern 
-Great when you have to cook in the dark or the play cards at night. Compact and lightweight, this lantern is a great addition to your backpacking kit. <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=gourmethiking-20&marketplace=amazon&region=US&placement=B074PG44TY&asins=B074PG44TY&linkId=c148ade0538ee10ed994425f55fc1980&show_border=true&link_opens_in_new_window=true"></iframe>
+The <a target="_blank" href="https://www.amazon.com/gp/product/B001NCDE7K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B001NCDE7K&linkCode=as2&tag=gourmethiking-20&linkId=ba2ecc7118b2b2c06e9d4a1cf1fe86a8">Nalgene wide mouth water bottles</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B001NCDE7K" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> are definitely the best bottles for hiking as they are resistant to both heat and impact. Can be used to measure liquids when cooking as well. You just never have enough. 
 
 <br>
 
-Still looking for gift ideas? Why not offering the gift of time? Either by offering your help to make [homemade backpacking meals](/recipes/), coordinate resupply shipments or to dehydrate a bunch of food. 
+## Other "nice-to-have"
 
-I wish all a happy holiday season!
+### Snow Peak Mini Lantern 
+Great when you have to cook in the dark or the play cards at night. Compact and lightweight, this <a target="_blank" href="https://www.amazon.com/gp/product/B079DN5NV4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079DN5NV4&linkCode=as2&tag=gourmethiking-20&linkId=7b3b26f8418e0a19b708d2ee49b04d18">Snow Peak mini lantern</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B079DN5NV4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> is a great addition to gourmet backpacking kit. 
 
+<br>
+
+## Still looking for gift ideas? 
+Why not offering the gift of time? Either by offering your help to make [homemade backpacking meals](/recipes/), to coordinate trail resupplies or to dehydrate a bunch of food. 
+
+<br>
+
+I wish a happy holiday season to everyone!
+
+<br>
 
 Gen Masson, MSc, RD, CSSD
