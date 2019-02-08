@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright (c) 2017, Gourmet Hiking; all rights reserved.</copyright>
-    <lastBuildDate>Tue, 04 Dec 2018 16:50:59 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 08 Feb 2019 16:50:59 -0800</lastBuildDate>
     
 	<atom:link href="//gourmethiking.com/blog-post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chocolate Lovers in the Backcountry</title>
+      <link>//gourmethiking.com/blog-post/chocolate-recipes/</link>
+      <pubDate>Fri, 08 Feb 2019 16:50:59 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/blog-post/chocolate-recipes/</guid>
+      <description>Chocolate is for many a treat and for others an essential part of their diet. On the trail, it is definitely a food that brings people together. It can also bring motivation or courage: I remember a guide feeding us chocolate before crossing a glacier fed river or when hours of hiking under cold rain was still needed. When it comes to its nutritional value cocoa contains epicatechin, an antioxidant, for which preliminary research suggests benefits for exercise performance.</description>
+    </item>
     
     <item>
       <title>Top 10 Holiday Gift Ideas for Gourmet Hikers</title>
