@@ -13,7 +13,6 @@ nf_protein = 3.7 # in g
 nf_carbs = 13.3 # in g
 nf_fiber = 2.0 # in g
 nf_fat = 5.9 # in g
-draft = true
 +++
 
 Do you have old bananas agonizing on your kitchen counter? If yes, this recipe will relieve their long wait! You add chocolate and PB: you have the perfect trio!
