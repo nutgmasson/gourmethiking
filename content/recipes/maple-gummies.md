@@ -28,9 +28,9 @@ This is the perfect snack for high intensity workouts. Going for a stairs traini
 
 ## Preparation
 
-1. In a small mixing bowl, mix water and gelatine. The gelatine will absorb all of water and forms lumps. Don’t worry about it.
+1. In a small mixing bowl, mix water and gelatin. The gelatin will absorb all of the water and forms lumps. Don’t worry about it.
 1. Bring the maple syrup and salt to boil and mix for a few seconds to dissolve the salt. 
-1. Take off the heat and pour over the gelatine lumps.
+1. Take off the heat and pour over the gelatin lumps.
 1. Stir until the gelatin is dissolved. 
 1. Pour in silicone candy molds (<a target="_blank" href="https://www.amazon.com/gp/product/B00BB64Y6I/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00BB64Y6I&linkCode=as2&tag=gourmethiking-20&linkId=a38f486f53cc3f5dab846dc20d6d6dd7">silicone candy molds</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00BB64Y6I" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />) and let it cool for about an hour.
 1. Remove from molds and pack for your next adventure!
