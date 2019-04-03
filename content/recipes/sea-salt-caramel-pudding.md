@@ -1,18 +1,17 @@
 +++
-date = "2018-09-20T10:08:55-08:00"
+date = "2019-04-02T10:08:55-08:00"
 title = "Sea Salt Caramel Pudding"
 tags = ["vegetarian", "low-water", "no-bake", "dessert", "backpacking", "lightweight", "one-pot"]
-img = "salt_caramel_pudding.JPG"
-pin = "salt_caramel_pudding.jpg"
+img = "salt-caramel-pudding.JPG"
 stat_servings = "1 backpacker"
 stat_time = "5 min prep, 1 hour waiting time"
-stat_weight = " 0 g / serving"
-nf_energy = 0 # in calories
-nf_energy_density = 0 # in calories/g
-nf_protein = 0 # in g
-nf_carbs = 0 # in g
+stat_weight = " 70.5 g / serving"
+nf_energy = 98 # in calories
+nf_energy_density = 1.4 # in calories/g
+nf_protein = 6.2 # in g
+nf_carbs = 14.3 # in g
 nf_fiber = 0 # in g
-nf_fat = 0 # in g
+nf_fat = 1.8 # in g
 draft = true
 +++
 
@@ -22,7 +21,7 @@ Perfect sweet and salty combination to finish a backpacking day!
 ¼ tsp. sea salt
 3 tbsp. (45 ml) instant caramel pudding mix
 3 tbsp. (45 ml) powdered skim milk
-2 biscottis (add link)
+2 biscottis (optional)
 {{% /ingredients %}}
 
 ## Equipment
