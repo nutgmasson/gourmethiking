@@ -1,7 +1,7 @@
 +++
 date = "2018-04-27T10:08:55-08:00"
 title = "Orange Cranberry Couscous"
-tags = ["vegetarian", "gluten-free", "breakfast", "backpacking", "low-water", "lightweight", "one-pot"]
+tags = ["vegetarian", "breakfast", "backpacking", "low-water", "lightweight", "one-pot"]
 # Add two images with this name under static
 img = "orange_couscous.JPG"
 pin_recipe = "orange_cranberry_couscous.jpg"
