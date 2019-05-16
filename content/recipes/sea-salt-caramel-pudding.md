@@ -1,5 +1,5 @@
 +++
-date = "2019-04-02T10:08:55-08:00"
+date = "2019-05-15T10:08:55-08:00"
 title = "Sea Salt Caramel Pudding"
 tags = ["vegetarian", "low-water", "no-bake", "dessert", "backpacking", "lightweight", "one-pot"]
 img = "salt-caramel-pudding.JPG"
@@ -12,7 +12,6 @@ nf_protein = 6.2 # in g
 nf_carbs = 14.3 # in g
 nf_fiber = 0 # in g
 nf_fat = 1.8 # in g
-draft = true
 +++
 
 Perfect sweet and salty combination to finish a backpacking day! 
@@ -36,6 +35,6 @@ Perfect sweet and salty combination to finish a backpacking day!
 1. Add ½ cup (125 ml) of cold water to bag # 1. 
 1. Mix well by shaking the bag for a few minutes. 
 1. Wait for at least 1 hour for the mix to thicken up. Put in a cool place (shade, cold creek) if needed to help thickens.
-1. Eat with the biscottis
+1. Eat with biscottis
 
 
