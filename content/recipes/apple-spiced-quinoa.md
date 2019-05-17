@@ -18,7 +18,7 @@ nf_fat = 32.2 # in g
 Quinoa for breakfast: why not? With 18g of protein and 8g of fiber, this breakfast is satisfying and will provide energy for a long time. 
 
 {{% ingredients %}}
-½ cup (125 ml) quinoa
+¼ cup (60 ml) quinoa
 ¼ tsp. (1 ml) sea salt
 4 tbsp. (60 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B00FRFRZF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FRFRZF6&linkCode=as2&tag=gourmethiking-20&linkId=f7d69f70caf1f6c64d69cf2302439691">whole milk powder</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00FRFRZF6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ⅓ cup (80 ml) dried apples
