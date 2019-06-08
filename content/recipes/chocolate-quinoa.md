@@ -1,5 +1,5 @@
 +++
-date = "2019-05-16T10:08:55-08:00"
+date = "2019-06-07T10:08:55-08:00"
 title = "Creamy Chocolate Breakfast Quinoa"
 tags = ["vegetarian", "gluten-free", "breakfast", "backpacking", "low-water", "lightweight", "one-pot"]
 # Add two images with this name under static
