@@ -13,7 +13,6 @@ nf_protein = 18.5 # in g
 nf_carbs = 64.8 # in g
 nf_fiber = 8.1 # in g
 nf_fat = 28.6 # in g
-draft = true
 +++
 
 Quinoa for breakfast: why not? Chocolate for breakfast: double why not? With 19g of protein and 8g of fiber, this breakfast is satisfying and will provide energy for a long time. Add freeze dried berries for added texture, flavor and nutrients. 
@@ -36,8 +35,8 @@ Quinoa for breakfast: why not? Chocolate for breakfast: double why not? With 19g
 - sporks or forks!
 
 ## Before trip
-1. Mix in plastic bag #1 : mix the quinoa and salt.
-1. Mix in plastic bag #2: mix whole milk powder, cocoa powder, coconut flakes, cocoa nibs, pecans and brown sugar.
+1. Mix in plastic bag #1 :  quinoa and salt.
+1. Mix in plastic bag #2: whole milk powder, cocoa powder, coconut flakes, cocoa nibs, pecans and brown sugar.
  
 ## At camp
 1. Pour the content of bag #1 and 1 cup of water in a pot.
