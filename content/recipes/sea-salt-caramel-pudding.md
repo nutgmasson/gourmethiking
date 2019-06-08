@@ -28,7 +28,7 @@ Perfect sweet and salty combination to finish a backpacking day!
 - Spork or spoon
  
 ## Before trip
-1. Mix in plastic bag #1: pudding mix and powdered skim milk.
+1. Mix in plastic bag #1: sea salt, pudding mix and powdered skim milk.
 1. Pack the biscotti in a separate bag or container.
  
 ## At camp
