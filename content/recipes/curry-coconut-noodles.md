@@ -1,8 +1,8 @@
 +++
-date = "2019-06-14T10:08:55-08:00"
-title = "Curry Coconut Noodles"
-tags = ["dinner", "vegetarian", "vegan", "dairy-free", "backpacking", "one-pot", "pasta"]
-img = " "
+date = "2019-07-02T10:08:55-08:00"
+title = "Coconut Curry Noodles"
+tags = ["dinner", "vegetarian", "vegan", "dairy-free", "gluten-free", "backpacking", "lightweight", "one-pot", "pasta"]
+img = "curry_coconut_noodles.JPG"
 stat_servings = "1 hungry backpacker"
 stat_time = "5 min prep, 5 min cooking, 8 minutes wait time"
 stat_weight = "164 g / serving"
@@ -12,10 +12,10 @@ nf_protein = 21.3 # in g
 nf_carbs = 90.3 # in g
 nf_fiber = 12.9 # in g
 nf_fat = 34.0 # in g
-draft = true
+
 +++
 
-This noodle dish contains a rich and generous broth. It is an hybrid between a soup and a traditional noodle dish. Quick to prepare on the trail as it only needs boiling water to rehydrate, tt will not disappoint.
+This noodle dish contains a rich and generous broth. It is an hybrid between a soup and a traditional noodle dish. Quick to prepare on the trail as it only requires boiling water to rehydrate, it will not disappoint. And bonus: very little dishes to clean!
 
 {{% ingredients %}}
 (2 oz) 60 g thin rice vermicelli (like the ones for spring rolls)
@@ -32,12 +32,12 @@ This noodle dish contains a rich and generous broth. It is an hybrid between a s
 
 ## Equipment
 - Stove + fuel
-- 2 <a target="_blank" href="https://www.amazon.com/gp/product/B00967K3EQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00967K3EQ&linkCode=as2&tag=gourmethiking-20&linkId=f4e13060617e765da5e097b0a634649f">1-quart mylar bags</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00967K3EQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+- <a target="_blank" href="https://www.amazon.com/gp/product/B00967K3EQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00967K3EQ&linkCode=as2&tag=gourmethiking-20&linkId=f4e13060617e765da5e097b0a634649f">1-quart mylar bag</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00967K3EQ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 - Clip or tape to close the mylar bag.
 - Spork or fork!
  
 ## Before trip
-1. Mix in mylar bag : all the ingredients.
+1. In a mylar bag : mix all the ingredients.
 
  
 ## At camp
