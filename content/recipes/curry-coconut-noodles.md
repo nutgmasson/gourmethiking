@@ -12,7 +12,6 @@ nf_protein = 21.3 # in g
 nf_carbs = 90.3 # in g
 nf_fiber = 12.9 # in g
 nf_fat = 34.0 # in g
-
 +++
 
 This noodle dish contains a rich and generous broth. It is an hybrid between a soup and a traditional noodle dish. Quick to prepare on the trail as it only requires boiling water to rehydrate, it will not disappoint. And bonus: very little dishes to clean!

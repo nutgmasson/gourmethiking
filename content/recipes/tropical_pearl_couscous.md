@@ -19,7 +19,6 @@ nf_fat = 14.2 # in g
 ½ cup (125 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B0052OP43C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0052OP43C&linkCode=as2&tag=gourmethiking-20&linkId=5bb8d73565bd2309875513acaaaa3bb7">Pearl Couscous</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B0052OP43C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> (also called "Israeli Couscous")
 ⅓ cup (80 ml) dried tropical fruits \* 
 ⅓ cup (80 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B00FRFRZF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FRFRZF6&linkCode=as2&tag=gourmethiking-20&linkId=f7d69f70caf1f6c64d69cf2302439691">whole milk powder</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00FRFRZF6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-¼ cup ( 60 ml) parmesan cheese
 1 tbsp (15 ml) sweetened coconut flakes
 {{% /ingredients %}}
 \*I used a mix of pineapples and mangoes

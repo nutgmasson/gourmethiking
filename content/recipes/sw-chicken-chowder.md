@@ -24,7 +24,7 @@ This chowder with southwest notes makes a consistent meal with 40g of protein pe
 1 cup (250 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B000M8071M/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000M8071M&linkCode=as2&tag=gourmethiking-20&linkId=9844477455f5e823b7f670506e351c0b">freeze dried chicken</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B000M8071M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 1 tbsp (15 ml) chicken broth powder
 ¼ tsp (1 ml) cayenne pepper
-¼ tsp (1 ml) drief thyme
+¼ tsp (1 ml) dried thyme
 ¼ tsp (1 ml) black pepper
 2 tbsp (30 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B0046IIPMW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0046IIPMW&linkCode=as2&tag=gourmethiking-20&linkId=cbb65cd3ef47763aa8ca49b97015ba84">ghee</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B0046IIPMW" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 ¾ cup (175 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B00FRFRZF6/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00FRFRZF6&linkCode=as2&tag=gourmethiking-20&linkId=f7d69f70caf1f6c64d69cf2302439691">whole milk powder</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B00FRFRZF6" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
