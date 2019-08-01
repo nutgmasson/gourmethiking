@@ -1,7 +1,7 @@
 +++
 date = "2017-06-13T10:08:55-08:00" 
 title = "Homemade Hot Chocolate" 
-tags = ["vegetarian", "dessert", "drink", "backpacking", "day hike", "lightweight", "one-pot"]
+tags = ["vegetarian", "dessert", "drink", "backpacking", "day hike", "lightweight", "one-pot", "gluten-free"]
 img = "hot_chocolate.jpg"
 pin_recipe = "hot-chocolate.jpg"
 stat_servings = "1 serving"
