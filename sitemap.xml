@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>//gourmethiking.com/blog-post/gluten-free/</loc>
+    <lastmod>2019-08-01T16:50:59-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>//gourmethiking.com/recipes/berry-choco-overnight-oats/</loc>
     <lastmod>2019-07-23T10:08:55-08:00</lastmod>
   </url>
@@ -519,7 +524,7 @@
   
   <url>
     <loc>//gourmethiking.com/blog-post/</loc>
-    <lastmod>2019-03-27T16:50:59-08:00</lastmod>
+    <lastmod>2019-08-01T16:50:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -578,7 +583,7 @@
   
   <url>
     <loc>//gourmethiking.com/</loc>
-    <lastmod>2019-07-23T10:08:55-08:00</lastmod>
+    <lastmod>2019-08-01T16:50:59-08:00</lastmod>
     <priority>0</priority>
   </url>
   
