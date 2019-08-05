@@ -37,7 +37,7 @@ Forget the Mac&Cheese mix in a box. This recipe is rich and provides a generous 
 1. Mix in plastic bag #2: soup mix, dried herbs, pepper flakes and black pepper.
  
 ## At camp
-1. Bring 1 L (4 cups or the equivalent of a large Nalgene bottle) to boil.
+1. Bring 1 L of water (4 cups or the equivalent of a large Nalgene bottle) to boil.
 1. Pour content of bag #1.
 1. Cook until pasta are al dente. Do NOT drain.
 1. Add the content of plastic bag#2, salmon and cheddar cheese.
