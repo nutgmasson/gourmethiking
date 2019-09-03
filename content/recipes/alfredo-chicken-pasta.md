@@ -1,5 +1,5 @@
 +++
-date = "2019-08-05T10:08:55-08:00"
+date = "2019-09-02T10:08:55-08:00"
 title = "Alfredo Chicken Pasta"
 tags = ["high-energy","dinner", "backpacking", "one pot", "pasta"]
 img = "alfredo_chicken_pasta.JPG"
@@ -12,7 +12,7 @@ nf_protein = 48.4
 nf_carbs = 68.9
 nf_fiber = 4.6
 nf_fat = 60.3
-draft = true
+
 +++
 
 This high-calorie meal is perfect to refuel after a long day of adventuring. Tasty and filling, without being overly heavy. Try it and you'll adopt it!
