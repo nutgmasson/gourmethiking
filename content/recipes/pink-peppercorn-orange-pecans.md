@@ -20,7 +20,7 @@ This spicy and sweet seasoning is so addictive! If you are able to refain from e
 
 {{% ingredients %}}
 1 cup (250 ml) pecans (whole or halves)
-1½ cup (22.5 ml) honey
+1½ tbsp (22.5 ml) honey
 1 tbsp (15 ml) <a target="_blank" href="https://www.amazon.com/gp/product/B003X3WGVM/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003X3WGVM&linkCode=as2&tag=gourmethiking-20&linkId=d0ea686b1997838df276b270c248b844">pink peppercorns</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=gourmethiking-20&l=am2&o=1&a=B003X3WGVM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, slightly crushed
 1 tsp. (5 ml) orange zest
 1 pinch of salt
