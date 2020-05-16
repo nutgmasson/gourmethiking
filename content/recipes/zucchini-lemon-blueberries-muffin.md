@@ -2,7 +2,7 @@
 date = "2017-02-05T10:08:55-08:00" # edit date
 title = "Zucchini, Lemon and Blueberries Muffins" # edit title
 tags = ["vegetarian", "breakfast", "snack", "day hike", "low-water", "ready to eat", "freezes"]
-img = "zucchini_lemon_muffins.jpg"
+img = "zucchini_lemon_muffins2.jpg"
 stat_servings = "12 muffins"
 stat_time = "15 min prep, 25 min cooking"
 stat_weight = "89.9g / muffin"
