@@ -25,6 +25,7 @@ _testmain.go
 
 # Hugo
 public/
+.hugo_build.lock
 
 # Sublime
 *.sublime-project
