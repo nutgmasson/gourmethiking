@@ -52,6 +52,6 @@ echo "Fetching remote branches"
 git fetch
 
 echo "Pushing changes to gh-pages"
-git push origin gh-pages
+git push -f origin gh-pages
 
 cd ..
