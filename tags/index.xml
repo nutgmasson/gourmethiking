@@ -1,19 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Gourmet Hiking</title>
     <link>//gourmethiking.com/tags/</link>
     <description>Recent content in Tags on Gourmet Hiking</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <copyright>Copyright (c) 2017, Gourmet Hiking; all rights reserved.</copyright>
-    <lastBuildDate>Fri, 13 Sep 2019 10:08:55 -0800</lastBuildDate>
-    
-	<atom:link href="//gourmethiking.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Sep 2019 10:08:55 -0800</lastBuildDate><atom:link href="//gourmethiking.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Backpacking</title>
+      <title>backpacking</title>
       <link>//gourmethiking.com/tags/backpacking/</link>
       <pubDate>Fri, 13 Sep 2019 10:08:55 -0800</pubDate>
       
@@ -22,25 +17,7 @@
     </item>
     
     <item>
-      <title>Breakfast</title>
-      <link>//gourmethiking.com/tags/breakfast/</link>
-      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/breakfast/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dairy Free</title>
-      <link>//gourmethiking.com/tags/dairy-free/</link>
-      <pubDate>Tue, 02 Jul 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/dairy-free/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Day Hike</title>
+      <title>day hike</title>
       <link>//gourmethiking.com/tags/day-hike/</link>
       <pubDate>Fri, 13 Sep 2019 10:08:55 -0800</pubDate>
       
@@ -49,34 +26,7 @@
     </item>
     
     <item>
-      <title>Dessert</title>
-      <link>//gourmethiking.com/tags/dessert/</link>
-      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/dessert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dinner</title>
-      <link>//gourmethiking.com/tags/dinner/</link>
-      <pubDate>Mon, 02 Sep 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/dinner/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Drink</title>
-      <link>//gourmethiking.com/tags/drink/</link>
-      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/drink/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Freezes</title>
+      <title>freezes</title>
       <link>//gourmethiking.com/tags/freezes/</link>
       <pubDate>Fri, 13 Sep 2019 10:08:55 -0800</pubDate>
       
@@ -85,25 +35,7 @@
     </item>
     
     <item>
-      <title>Gluten Free</title>
-      <link>//gourmethiking.com/tags/gluten-free/</link>
-      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/gluten-free/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>High Energy</title>
-      <link>//gourmethiking.com/tags/high-energy/</link>
-      <pubDate>Mon, 02 Sep 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/high-energy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lightweight</title>
+      <title>lightweight</title>
       <link>//gourmethiking.com/tags/lightweight/</link>
       <pubDate>Fri, 13 Sep 2019 10:08:55 -0800</pubDate>
       
@@ -112,52 +44,7 @@
     </item>
     
     <item>
-      <title>Low Water</title>
-      <link>//gourmethiking.com/tags/low-water/</link>
-      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/low-water/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Lunch</title>
-      <link>//gourmethiking.com/tags/lunch/</link>
-      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/lunch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>No Bake</title>
-      <link>//gourmethiking.com/tags/no-bake/</link>
-      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/no-bake/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>One Pot</title>
-      <link>//gourmethiking.com/tags/one-pot/</link>
-      <pubDate>Mon, 02 Sep 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/one-pot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pasta</title>
-      <link>//gourmethiking.com/tags/pasta/</link>
-      <pubDate>Mon, 02 Sep 2019 10:08:55 -0800</pubDate>
-      
-      <guid>//gourmethiking.com/tags/pasta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ready to Eat</title>
+      <title>ready to eat</title>
       <link>//gourmethiking.com/tags/ready-to-eat/</link>
       <pubDate>Fri, 13 Sep 2019 10:08:55 -0800</pubDate>
       
@@ -166,7 +53,7 @@
     </item>
     
     <item>
-      <title>Snack</title>
+      <title>snack</title>
       <link>//gourmethiking.com/tags/snack/</link>
       <pubDate>Fri, 13 Sep 2019 10:08:55 -0800</pubDate>
       
@@ -175,7 +62,115 @@
     </item>
     
     <item>
-      <title>Vegan</title>
+      <title>vegetarian</title>
+      <link>//gourmethiking.com/tags/vegetarian/</link>
+      <pubDate>Fri, 13 Sep 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/vegetarian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dinner</title>
+      <link>//gourmethiking.com/tags/dinner/</link>
+      <pubDate>Mon, 02 Sep 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/dinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>high-energy</title>
+      <link>//gourmethiking.com/tags/high-energy/</link>
+      <pubDate>Mon, 02 Sep 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/high-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>one pot</title>
+      <link>//gourmethiking.com/tags/one-pot/</link>
+      <pubDate>Mon, 02 Sep 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/one-pot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pasta</title>
+      <link>//gourmethiking.com/tags/pasta/</link>
+      <pubDate>Mon, 02 Sep 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/pasta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>breakfast</title>
+      <link>//gourmethiking.com/tags/breakfast/</link>
+      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/breakfast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dessert</title>
+      <link>//gourmethiking.com/tags/dessert/</link>
+      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gluten-free</title>
+      <link>//gourmethiking.com/tags/gluten-free/</link>
+      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/gluten-free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>low-water</title>
+      <link>//gourmethiking.com/tags/low-water/</link>
+      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/low-water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lunch</title>
+      <link>//gourmethiking.com/tags/lunch/</link>
+      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/lunch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>no-bake</title>
+      <link>//gourmethiking.com/tags/no-bake/</link>
+      <pubDate>Mon, 05 Aug 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/no-bake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dairy-free</title>
+      <link>//gourmethiking.com/tags/dairy-free/</link>
+      <pubDate>Tue, 02 Jul 2019 10:08:55 -0800</pubDate>
+      
+      <guid>//gourmethiking.com/tags/dairy-free/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vegan</title>
       <link>//gourmethiking.com/tags/vegan/</link>
       <pubDate>Tue, 02 Jul 2019 10:08:55 -0800</pubDate>
       
@@ -184,11 +179,11 @@
     </item>
     
     <item>
-      <title>Vegetarian</title>
-      <link>//gourmethiking.com/tags/vegetarian/</link>
-      <pubDate>Fri, 13 Sep 2019 10:08:55 -0800</pubDate>
+      <title>drink</title>
+      <link>//gourmethiking.com/tags/drink/</link>
+      <pubDate>Tue, 13 Jun 2017 10:08:55 -0800</pubDate>
       
-      <guid>//gourmethiking.com/tags/vegetarian/</guid>
+      <guid>//gourmethiking.com/tags/drink/</guid>
       <description></description>
     </item>
     

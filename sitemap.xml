@@ -1,694 +1,402 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/cherry-almond-bar/</loc>
-    <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/alfredo-chicken-pasta/</loc>
-    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/mango-rice-pudding/</loc>
-    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/pizza-wrap/</loc>
-    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/gluten-free/</loc>
-    <lastmod>2019-08-01T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/berry-choco-overnight-oats/</loc>
-    <lastmod>2019-07-23T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/curry-coconut-noodles/</loc>
-    <lastmod>2019-07-02T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/chocolate-quinoa/</loc>
-    <lastmod>2019-06-07T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/sea-salt-caramel-pudding/</loc>
-    <lastmod>2019-05-15T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/breakfast-hashbrown-just-add-water/</loc>
-    <lastmod>2019-03-28T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/oatmeal-breakfast/</loc>
-    <lastmod>2019-03-27T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/apple-spiced-quinoa/</loc>
-    <lastmod>2019-03-27T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/homemade-pill/</loc>
-    <lastmod>2019-03-27T08:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/mango-gummies/</loc>
-    <lastmod>2019-03-19T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/banana-choco-pb-cookie/</loc>
-    <lastmod>2019-02-20T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/chocolate-recipes/</loc>
-    <lastmod>2019-02-08T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/roasted-curried-chickpeas/</loc>
-    <lastmod>2019-02-06T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/pink-peppercorn-orange-pecans/</loc>
-    <lastmod>2018-12-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/holiday-gifts/</loc>
-    <lastmod>2018-12-04T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/choco-mint-ball/</loc>
-    <lastmod>2018-12-04T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/pumpkin-fruit-leather/</loc>
-    <lastmod>2018-10-26T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/pumpkin-lentil-curry-copy/</loc>
-    <lastmod>2018-10-02T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/pumpkin-pancake/</loc>
-    <lastmod>2018-10-02T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/pumpkin-powder/</loc>
-    <lastmod>2018-09-24T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/product-reviews/camp-cuisine-hummus/</loc>
-    <lastmod>2018-09-21T21:07:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/tropical_pearl_couscous/</loc>
-    <lastmod>2018-09-11T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/sw-chicken-chowder/</loc>
-    <lastmod>2018-08-29T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/banana-straw-pancake/</loc>
-    <lastmod>2018-08-26T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/trail-cranberry-muffins/</loc>
-    <lastmod>2018-08-15T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/miso_edamame_soup/</loc>
-    <lastmod>2018-08-13T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/jambalaya/</loc>
-    <lastmod>2018-07-24T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/sweet-potato-casserole/</loc>
-    <lastmod>2018-07-24T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/ultralight_rose_sauce_tortellinis/</loc>
-    <lastmod>2018-07-10T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/bear-safety/</loc>
-    <lastmod>2018-06-07T20:39:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/morrocan_apricot_chickpea/</loc>
-    <lastmod>2018-06-07T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/red-curry-vermicelli/</loc>
-    <lastmod>2018-06-07T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/strawberry-chocolate-oatmeal/</loc>
-    <lastmod>2018-06-07T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/5-day-menu/</loc>
-    <lastmod>2018-06-06T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/barley_mushroom_soup/</loc>
-    <lastmod>2018-05-29T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/berries_granola/</loc>
-    <lastmod>2018-05-16T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/ultralight-mac-cheese/</loc>
-    <lastmod>2018-04-30T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/orange-couscous/</loc>
-    <lastmod>2018-04-27T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/backpacking-on-a-budget/</loc>
-    <lastmod>2018-04-24T20:39:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/garam_masala_chickpeas/</loc>
-    <lastmod>2018-04-23T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/protein-backpacking/</loc>
-    <lastmod>2018-04-04T20:39:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/blueberry-vanilla-pudding/</loc>
-    <lastmod>2018-04-02T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/raspberry-cocoa-oatmeal/</loc>
-    <lastmod>2018-04-02T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/hut-visitor-menu/</loc>
-    <lastmod>2018-03-13T20:39:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/maple-syrup-recipes/</loc>
-    <lastmod>2018-03-06T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/maple-gummies/</loc>
-    <lastmod>2018-02-28T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/young-explorer-menu/</loc>
-    <lastmod>2018-02-27T20:39:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/valentine-day/</loc>
-    <lastmod>2018-02-05T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/expedition-molasse-cookies/</loc>
-    <lastmod>2018-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/birdwatcher-menu/</loc>
-    <lastmod>2018-01-29T20:39:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/backcountry-ski-menu/</loc>
-    <lastmod>2018-01-24T20:39:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/macadamia-bar/</loc>
-    <lastmod>2018-01-18T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/maple-candied-pecans/</loc>
-    <lastmod>2018-01-11T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/hot-drinks/</loc>
-    <lastmod>2017-12-04T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/cheese-ham-bread/</loc>
-    <lastmod>2017-12-04T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/french-toast/</loc>
-    <lastmod>2017-11-16T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/foods-keep-warm/</loc>
-    <lastmod>2017-11-01T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/pasta-ideas/</loc>
-    <lastmod>2017-10-12T08:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/apple-pecan-muffins/</loc>
-    <lastmod>2017-10-10T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/asian-peanut-noodles/</loc>
-    <lastmod>2017-10-10T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/creamy-mushroom-noodles/</loc>
-    <lastmod>2017-09-30T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/sundried-tortellinis/</loc>
-    <lastmod>2017-09-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/3-day-menu/</loc>
-    <lastmod>2017-08-29T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/altitude-fluid/</loc>
-    <lastmod>2017-08-21T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/spinach_pepper_egg/</loc>
-    <lastmod>2017-08-17T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/mocha-energy-ball/</loc>
-    <lastmod>2017-08-14T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/bacon-alfredo-gnocchi/</loc>
-    <lastmod>2017-08-08T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/blueberry-pancake/</loc>
-    <lastmod>2017-08-03T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/overnight-menus/</loc>
-    <lastmod>2017-07-31T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/oregano-tomato-orzo/</loc>
-    <lastmod>2017-07-19T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/dirt_pudding_choc_rasp/</loc>
-    <lastmod>2017-07-14T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/vegetable_vermicelli_soup/</loc>
-    <lastmod>2017-07-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/choco-banana-oatmeal/</loc>
-    <lastmod>2017-06-25T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/trader-joes/</loc>
-    <lastmod>2017-06-16T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/smoked-salmon-pasta/</loc>
-    <lastmod>2017-06-15T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/hot-chocolate/</loc>
-    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/chili-stew/</loc>
-    <lastmod>2017-06-06T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/orange-choco-protein/</loc>
-    <lastmod>2017-05-30T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/shopping-for-backpacking-at-whole-foods/</loc>
-    <lastmod>2017-05-22T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/egg-bacon-hashbrown/</loc>
-    <lastmod>2017-05-18T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/caffeine/</loc>
-    <lastmod>2017-05-11T16:50:59-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/product-reviews/krave-beef-jerky-chili-lime/</loc>
-    <lastmod>2017-05-05T21:07:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/blueberry-pecan-oatmeal/</loc>
-    <lastmod>2017-05-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/shopping-for-backpacking-food-at-the-grocery-store/</loc>
-    <lastmod>2017-04-26T20:39:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/product-reviews/hunts-tomato-paste/</loc>
-    <lastmod>2017-04-18T21:07:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/website-launch/</loc>
-    <lastmod>2017-04-09T20:39:00-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/product-reviews/oatmega-mint-crisp/</loc>
-    <lastmod>2017-04-01T21:07:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/product-reviews/oberto-applewood-smoked-bacon-jerky/</loc>
-    <lastmod>2017-04-01T21:07:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/product-reviews/tillamook-teriyaki-meat-stick/</loc>
-    <lastmod>2017-04-01T21:07:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/product-reviews/smoked-dried-beef-steak-cuts-teriyaki/</loc>
-    <lastmod>2017-04-01T21:07:57-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/pina-colada-energy-balls/</loc>
-    <lastmod>2017-02-18T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/apple-blue-almond-bar/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/broccoli-salmon-mac-n-cheese/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/chocolate-granola/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/cocoa-pb-ball/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/fig-chocolate-ball/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/indian-lentil-curry/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/mocha-energy-bar/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/orange-choc-sweet-potato-muffins/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/pumpkin-spices-cookie/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/shrimp-and-rose-sauce-pasta/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/recipes/zucchini-lemon-blueberries-muffin/</loc>
-    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/about/</loc>
-  </url>
-  
   <url>
     <loc>//gourmethiking.com/tags/backpacking/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/blog-post/</loc>
-    <lastmod>2019-08-01T16:50:59-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/breakfast/</loc>
-    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/dairy-free/</loc>
-    <lastmod>2019-07-02T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//gourmethiking.com/tags/day-hike/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/dessert/</loc>
-    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/dinner/</loc>
-    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/drink/</loc>
-    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//gourmethiking.com/tags/freezes/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/gluten-free/</loc>
-    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//gourmethiking.com/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/high-energy/</loc>
-    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//gourmethiking.com/tags/lightweight/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/low-water/</loc>
-    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/lunch/</loc>
-    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/no-bake/</loc>
-    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/one-pot/</loc>
-    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/pasta/</loc>
-    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/product-reviews/</loc>
-    <lastmod>2018-09-21T21:07:57-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//gourmethiking.com/tags/ready-to-eat/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//gourmethiking.com/recipes/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//gourmethiking.com/tags/snack/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>//gourmethiking.com/tags/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>//gourmethiking.com/tags/vegan/</loc>
-    <lastmod>2019-07-02T10:08:55-08:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/cherry-almond-bar/</loc>
+    <lastmod>2019-09-13T10:08:55-08:00</lastmod>
+  </url><url>
     <loc>//gourmethiking.com/tags/vegetarian/</loc>
     <lastmod>2019-09-13T10:08:55-08:00</lastmod>
-    <priority>0</priority>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/alfredo-chicken-pasta/</loc>
+    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/dinner/</loc>
+    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/high-energy/</loc>
+    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/one-pot/</loc>
+    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/pasta/</loc>
+    <lastmod>2019-09-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/breakfast/</loc>
+    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/dessert/</loc>
+    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/gluten-free/</loc>
+    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/low-water/</loc>
+    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/lunch/</loc>
+    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/mango-rice-pudding/</loc>
+    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/no-bake/</loc>
+    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/pizza-wrap/</loc>
+    <lastmod>2019-08-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/gluten-free/</loc>
+    <lastmod>2019-08-01T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/</loc>
+    <lastmod>2019-08-01T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/berry-choco-overnight-oats/</loc>
+    <lastmod>2019-07-23T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/curry-coconut-noodles/</loc>
+    <lastmod>2019-07-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/dairy-free/</loc>
+    <lastmod>2019-07-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/vegan/</loc>
+    <lastmod>2019-07-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/chocolate-quinoa/</loc>
+    <lastmod>2019-06-07T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/sea-salt-caramel-pudding/</loc>
+    <lastmod>2019-05-15T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/breakfast-hashbrown-just-add-water/</loc>
+    <lastmod>2019-03-28T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/oatmeal-breakfast/</loc>
+    <lastmod>2019-03-27T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/apple-spiced-quinoa/</loc>
+    <lastmod>2019-03-27T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/homemade-pill/</loc>
+    <lastmod>2019-03-27T08:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/mango-gummies/</loc>
+    <lastmod>2019-03-19T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/banana-choco-pb-cookie/</loc>
+    <lastmod>2019-02-20T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/chocolate-recipes/</loc>
+    <lastmod>2019-02-08T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/roasted-curried-chickpeas/</loc>
+    <lastmod>2019-02-06T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/pink-peppercorn-orange-pecans/</loc>
+    <lastmod>2018-12-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/holiday-gifts/</loc>
+    <lastmod>2018-12-04T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/choco-mint-ball/</loc>
+    <lastmod>2018-12-04T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/pumpkin-fruit-leather/</loc>
+    <lastmod>2018-10-26T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/pumpkin-lentil-curry-copy/</loc>
+    <lastmod>2018-10-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/pumpkin-pancake/</loc>
+    <lastmod>2018-10-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/pumpkin-powder/</loc>
+    <lastmod>2018-09-24T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/product-reviews/camp-cuisine-hummus/</loc>
+    <lastmod>2018-09-21T21:07:57-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/product-reviews/</loc>
+    <lastmod>2018-09-21T21:07:57-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/tropical_pearl_couscous/</loc>
+    <lastmod>2018-09-11T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/sw-chicken-chowder/</loc>
+    <lastmod>2018-08-29T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/banana-straw-pancake/</loc>
+    <lastmod>2018-08-26T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/trail-cranberry-muffins/</loc>
+    <lastmod>2018-08-15T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/miso_edamame_soup/</loc>
+    <lastmod>2018-08-13T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/jambalaya/</loc>
+    <lastmod>2018-07-24T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/sweet-potato-casserole/</loc>
+    <lastmod>2018-07-24T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/ultralight_rose_sauce_tortellinis/</loc>
+    <lastmod>2018-07-10T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/bear-safety/</loc>
+    <lastmod>2018-06-07T20:39:00-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/morrocan_apricot_chickpea/</loc>
+    <lastmod>2018-06-07T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/red-curry-vermicelli/</loc>
+    <lastmod>2018-06-07T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/strawberry-chocolate-oatmeal/</loc>
+    <lastmod>2018-06-07T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/5-day-menu/</loc>
+    <lastmod>2018-06-06T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/barley_mushroom_soup/</loc>
+    <lastmod>2018-05-29T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/berries_granola/</loc>
+    <lastmod>2018-05-16T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/ultralight-mac-cheese/</loc>
+    <lastmod>2018-04-30T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/orange-couscous/</loc>
+    <lastmod>2018-04-27T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/backpacking-on-a-budget/</loc>
+    <lastmod>2018-04-24T20:39:00-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/garam_masala_chickpeas/</loc>
+    <lastmod>2018-04-23T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/protein-backpacking/</loc>
+    <lastmod>2018-04-04T20:39:00-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/blueberry-vanilla-pudding/</loc>
+    <lastmod>2018-04-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/raspberry-cocoa-oatmeal/</loc>
+    <lastmod>2018-04-02T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/hut-visitor-menu/</loc>
+    <lastmod>2018-03-13T20:39:00-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/maple-syrup-recipes/</loc>
+    <lastmod>2018-03-06T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/maple-gummies/</loc>
+    <lastmod>2018-02-28T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/young-explorer-menu/</loc>
+    <lastmod>2018-02-27T20:39:00-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/valentine-day/</loc>
+    <lastmod>2018-02-05T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/expedition-molasse-cookies/</loc>
+    <lastmod>2018-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/birdwatcher-menu/</loc>
+    <lastmod>2018-01-29T20:39:00-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/backcountry-ski-menu/</loc>
+    <lastmod>2018-01-24T20:39:00-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/macadamia-bar/</loc>
+    <lastmod>2018-01-18T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/maple-candied-pecans/</loc>
+    <lastmod>2018-01-11T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/hot-drinks/</loc>
+    <lastmod>2017-12-04T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/cheese-ham-bread/</loc>
+    <lastmod>2017-12-04T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/french-toast/</loc>
+    <lastmod>2017-11-16T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/foods-keep-warm/</loc>
+    <lastmod>2017-11-01T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/pasta-ideas/</loc>
+    <lastmod>2017-10-12T08:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/apple-pecan-muffins/</loc>
+    <lastmod>2017-10-10T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/asian-peanut-noodles/</loc>
+    <lastmod>2017-10-10T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/creamy-mushroom-noodles/</loc>
+    <lastmod>2017-09-30T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/sundried-tortellinis/</loc>
+    <lastmod>2017-09-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/3-day-menu/</loc>
+    <lastmod>2017-08-29T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/altitude-fluid/</loc>
+    <lastmod>2017-08-21T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/spinach_pepper_egg/</loc>
+    <lastmod>2017-08-17T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/mocha-energy-ball/</loc>
+    <lastmod>2017-08-14T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/bacon-alfredo-gnocchi/</loc>
+    <lastmod>2017-08-08T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/blueberry-pancake/</loc>
+    <lastmod>2017-08-03T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/overnight-menus/</loc>
+    <lastmod>2017-07-31T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/oregano-tomato-orzo/</loc>
+    <lastmod>2017-07-19T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/dirt_pudding_choc_rasp/</loc>
+    <lastmod>2017-07-14T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/vegetable_vermicelli_soup/</loc>
+    <lastmod>2017-07-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/choco-banana-oatmeal/</loc>
+    <lastmod>2017-06-25T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/trader-joes/</loc>
+    <lastmod>2017-06-16T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/smoked-salmon-pasta/</loc>
+    <lastmod>2017-06-15T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/tags/drink/</loc>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/hot-chocolate/</loc>
+    <lastmod>2017-06-13T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/chili-stew/</loc>
+    <lastmod>2017-06-06T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/orange-choco-protein/</loc>
+    <lastmod>2017-05-30T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/shopping-for-backpacking-at-whole-foods/</loc>
+    <lastmod>2017-05-22T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/egg-bacon-hashbrown/</loc>
+    <lastmod>2017-05-18T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/caffeine/</loc>
+    <lastmod>2017-05-11T16:50:59-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/product-reviews/krave-beef-jerky-chili-lime/</loc>
+    <lastmod>2017-05-05T21:07:57-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/blueberry-pecan-oatmeal/</loc>
+    <lastmod>2017-05-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/shopping-for-backpacking-food-at-the-grocery-store/</loc>
+    <lastmod>2017-04-26T20:39:00-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/product-reviews/hunts-tomato-paste/</loc>
+    <lastmod>2017-04-18T21:07:57-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/blog-post/website-launch/</loc>
+    <lastmod>2017-04-09T20:39:00-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/product-reviews/oatmega-mint-crisp/</loc>
+    <lastmod>2017-04-01T21:07:57-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/product-reviews/oberto-applewood-smoked-bacon-jerky/</loc>
+    <lastmod>2017-04-01T21:07:57-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/product-reviews/tillamook-teriyaki-meat-stick/</loc>
+    <lastmod>2017-04-01T21:07:57-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/product-reviews/smoked-dried-beef-steak-cuts-teriyaki/</loc>
+    <lastmod>2017-04-01T21:07:57-07:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/pina-colada-energy-balls/</loc>
+    <lastmod>2017-02-18T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/apple-blue-almond-bar/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/broccoli-salmon-mac-n-cheese/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/chocolate-granola/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/cocoa-pb-ball/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/fig-chocolate-ball/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/indian-lentil-curry/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/mocha-energy-bar/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/orange-choc-sweet-potato-muffins/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/pumpkin-spices-cookie/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/shrimp-and-rose-sauce-pasta/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/recipes/zucchini-lemon-blueberries-muffin/</loc>
+    <lastmod>2017-02-05T10:08:55-08:00</lastmod>
+  </url><url>
+    <loc>//gourmethiking.com/about/</loc>
+  </url><url>
+    <loc>//gourmethiking.com/categories/</loc>
   </url>
-  
 </urlset>
