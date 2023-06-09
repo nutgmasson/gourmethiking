@@ -6,6 +6,8 @@
 
 <ul>
 {{ range split (.Inner | chomp) "\n" }}
-	<li itemprop="ingredients">{{  . | replaceRE "(<p>|</p>)" ""  | safeHTML }}</li>
+{{ with . }}
+<li itemprop="ingredients">{{  . | replaceRE "(<p>|</p>)" ""  | safeHTML }}</li>
+{{ end }}
 {{ end }}
 </ul>

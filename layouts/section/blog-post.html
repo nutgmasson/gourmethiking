@@ -5,7 +5,7 @@
 <div id="content">
     <div class="container">
         <div class="row">
-            {{ range .Data.Pages }}
+            {{ range .Pages }}
                 {{ .Render "summary" }}
                 <br/>
             {{ end }}

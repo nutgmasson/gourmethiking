@@ -1,4 +1,17 @@
 #!/bin/sh
+EXPECTED_HUGO_VERSION="v0.113"
+
+echo "Checking hugo version..."
+hugo version | grep $EXPECTED_HUGO_VERSION
+hugo_version_ret_code=$?
+
+if [ $hugo_version_ret_code != 0 ]; then
+    echo "You have the wrong version of hugo installed."
+    echo "Current version"
+    hugo version
+    echo "Expected version: $EXPECTED_HUGO_VERSION"
+    exit $hugo_version_ret_code
+fi
 
 if [[ $(git status -s) ]]
 then

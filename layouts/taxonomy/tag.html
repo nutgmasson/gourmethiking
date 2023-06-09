@@ -25,7 +25,7 @@
     	<div class="tab-content" style="border-width:0; padding:0;">
     		<div role="tabpanel" class="tab-pane active" id="gallery">
 		        <div class="row auto-clear">
-		            {{ range .Data.Pages }}
+		            {{ range .Pages }}
 		                {{ .Render "thumbnail" }}
 		            {{ end }}
 		        </div>
@@ -41,7 +41,7 @@
 		    			</tr>
 		    		</thead>
 		    		<tbody>
-		    			{{ range sort .Data.Pages "Params.nf_energy" "desc" }}
+		    			{{ range sort .Pages "Params.nf_energy" "desc" }}
 		    				{{ .Render "tablerow" }}
 		    			{{ end }}	 
 	    			</tbody>   			

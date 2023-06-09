@@ -2,7 +2,7 @@
 	<h2 style="margin-top: 40px;">Latest Product Reviews</h2>
 </div>
 <div class="row auto-clear">
-    {{ range where .Data.Pages "Section" "product-reviews" | first 4 }}
+    {{ range where .Site.RegularPages "Section" "product-reviews" | first 4 }}
         {{ .Render "thumbnail" }}
     {{ end }}
 </div>

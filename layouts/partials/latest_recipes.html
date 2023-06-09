@@ -3,7 +3,7 @@
 </div>
 
 <div class="row auto-clear">
-    {{ range where .Data.Pages "Section" "recipes" | first 4 }}
+    {{ range where .Site.RegularPages "Section" "recipes" | first 4 }}
         {{ .Render "thumbnail" }}
     {{ end }}
 </div>
