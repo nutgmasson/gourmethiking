@@ -9,7 +9,7 @@ paginate = 10
 disqusShortname = "gourmet-hiking"
 
 # Enable Google Analytics by entering your tracking code
-googleAnalytics = "UA-97048512-1"
+googleAnalytics = "G-DES2WF0YDJ"
 
 defaultContentLanguage = 'en'
 [languages]
